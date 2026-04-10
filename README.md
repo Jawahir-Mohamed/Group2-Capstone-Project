@@ -2,6 +2,7 @@
 Genomic variant extraction-Machine learning Model
 ______________________________________________________________________________________________
 Genomic Variant Extraction (Capstone Project)
+
 📌 Overview
 
 This project focuses on extracting rare genomic mutations from biomedical literature using a machine learning approach combined with rule-based methods and database validation.
