@@ -8,6 +8,7 @@ Genomic Variant Extraction (Capstone Project)
 This project focuses on extracting rare genomic mutations from biomedical literature using a machine learning approach combined with rule-based methods and database validation.
 
 The goal is to create a simple and efficient system that can identify mutation mentions in text and link them to biological and clinical information.
+____________________________________________________________________________________________________
 
 🎯 Objectives
 Extract mutation mentions from biomedical text (e.g., PubMed abstracts)
