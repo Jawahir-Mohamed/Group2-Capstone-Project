@@ -1,0 +1,4 @@
+spacy==3.8.14
+scispacy==0.6.2
+biopython==1.86
+numpy==1.26.4
