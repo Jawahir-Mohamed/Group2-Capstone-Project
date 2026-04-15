@@ -1,0 +1,793 @@
+1. Cancers (Basel). 2026 Mar 29;18(7):1106. doi: 10.3390/cancers18071106.
+
+Risk of Radiation-Associated Contralateral Breast Cancer in Germline Mutation 
+Carriers: A Meta-Analysis and Systematic Review.
+
+Prihharsanti CHN(1), Prajoko YW(2), Respati DRP(3), Tjandra KC(3), Mutmainnah 
+F(4), Rismadha MB(3), Nugrahani ASD(5), Aryasatya DP(3), Manik AV(6), Nurkolis 
+F(7)(8)(9), Limijadi EKS(10).
+
+Author information:
+(1)Division of Radiation Oncology, Department of Radiology, Faculty of Medicine, 
+Universitas Diponegoro, Semarang 50275, Indonesia.
+(2)Department of Oncology Surgery, Faculty of Medicine, Universitas Diponegoro, 
+Semarang 50275, Indonesia.
+(3)Faculty of Medicine, Universitas Diponegoro, Semarang 50275, Indonesia.
+(4)Faculty of Medicine, Universitas Andalas, Padang 25163, Indonesia.
+(5)Medical Science in Clinical Investigation, Harvard Medical School, Boston, MA 
+02115, USA.
+(6)Oncology Research, University of Manchester, Manchester M13 9PL, UK.
+(7)Program of Basic Medical Science, Faculty of Medicine, Universitas Airlangga, 
+Surabaya 60131, Indonesia.
+(8)Medical Research Center of Indonesia, Surabaya 60281, Indonesia.
+(9)Institute for Research and Community Service, State Islamic University of 
+Sunan Kalijaga (UIN Sunan Kalijaga), Yogyakarta 55281, Indonesia.
+(10)Department of Clinical Pathology, Faculty of Medicine, Universitas 
+Diponegoro, Semarang 50275, Indonesia.
+
+Background/Objectives: Contralateral breast cancer (CBC) is a significant 
+concern among breast cancer survivors, particularly in those with moderator-high 
+penetrance germline mutations such as BRCA1, BRCA2, CHEK2, and ATM. While 
+radiotherapy (RT) is a crucial component of breast cancer (BC) treatment, its 
+potential role in increasing CBC risk remains unclear. This systematic review 
+and meta-analysis aim to evaluate the incidence of radiation-induced CBC in 
+germline mutation carriers. Methods: Following PRISMA guidelines, we conducted a 
+comprehensive search in six electronic databases (PubMed, Scopus, Cochrane 
+Library, ProQuest, EBSCO, and Epistemonikos) for studies published fifteen years 
+prior, up to August 2025. We included cohort and case-control studies assessing 
+the association between RT and CBC incidence in germline mutation carriers. A 
+meta-analysis was performed using a random-effects model to estimate cumulative 
+risk (CR) and rate ratios (RR). Results: Seven studies were included. The 5-year 
+cumulative risk (CR) of contralateral breast cancer (CBC) was 0.55 for BRCA1/2, 
+0.89 for ATM, and 0.80 for CHEK2 carriers. At 10 years, overall CR increased to 
+0.65, with ATM and CHEK2 remaining high. Rate ratio (RR) analysis showed a 
+significant risk for ATM (2.98), while overall RR indicated more than a two-fold 
+increased CBC risk with radiotherapy (RR = 2.70 common-effect; 2.53 
+random-effects). Conclusions: Radiotherapy significantly increases contralateral 
+breast cancer risk, particularly in ATM and CHEK2 carriers, emphasizing the 
+importance of personalized genetic risk stratification in treatment decisions.
+
+DOI: 10.3390/cancers18071106
+PMID: 41976331
+
+
+2. Nat Rev Cancer. 2026 Apr 13. doi: 10.1038/s41568-026-00916-0. Online ahead of 
+print.
+
+Rethinking ovarian cancer III: the past decade and future directions.
+
+Balkwill FR(1), Laumont CM(2), Burdett N(3), Le Saux O(4), Garsed DW(3), Grither 
+WR(5), Nijhuis AM(6), Recouvreux MS(7), Kang Z(8), Zhang R(9), Chiappinelli 
+KB(10), Lee JS(11), Laniti DD(12), McNeish I(6), Ahmed AA(13), Rottapel R(14), 
+Conejo-Garcia JR(15), Odunsi K(16), Pharoah PDP(17), Zamarin D(18), Ishak CA(9), 
+Fotopoulou C(19), Buckanovich RJ(20), Labidi-Galy I(21), Brenton JD(22), Lengyel 
+E(16), Cook DP(23), George SHL(24), Lheureux S(14), Drapkin R(25), Nephew 
+KP(26), Adams S(27), Pathania S(28), Nelson BH(2), Färkkilä A(8), Fuh K(29), 
+Neel BG(30), Bowtell DD(31).
+
+Author information:
+(1)Barts Cancer Institute, Queen Mary University of London, London, UK. 
+F.balkwill@qmul.ac.uk.
+(2)Deeley Research Centre, BC Cancer Victoria, Victoria, British Columbia, 
+Canada.
+(3)Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia.
+(4)Centre Léon Bérard, Lyon, France.
+(5)Washington University in St. Louis, Saint Louis, MO, USA.
+(6)Imperial College London, London, UK.
+(7)University of California, Los Angeles, Los Angeles, CA, USA.
+(8)University of Helsinki and Helsinki University Hospital, Helsinki, Finland.
+(9)University of Texas MD Anderson Cancer Center, Houston, TX, USA.
+(10)George Washington University, Washington, DC, USA.
+(11)Frazer Institute, The University of Queensland, Woolloongabba, Queensland, 
+Australia.
+(12)Lausanne University Hospital and Lausanne Branch of the Ludwig Institute for 
+Cancer Research, Lausanne, Switzerland.
+(13)MRC Weatherall Institute of Molecular Medicine, John Radcliffe Hospital, 
+University of Oxford, Oxford, UK.
+(14)Princess Margaret Cancer Centre, University of Toronto, Toronto, Ontario, 
+Canada.
+(15)Duke University School of Medicine, Durham, NC, USA.
+(16)University of Chicago, Chicago, IL, USA.
+(17)Cedars-Sinai Medical Center, Los Angeles, CA, USA.
+(18)Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+(19)Department of Surgery and Cancer, Faculty of Medicine of Imperial College 
+London, London, UK.
+(20)Magee Womens Research Institute, University of Pittsburgh, Pittsburgh, PA, 
+USA.
+(21)Université de Genève and Hôpitaux Universitaires de Genève, Geneva, 
+Switzerland.
+(22)Cancer Research UK Cambridge Institute, University of Cambridge, Cambridge, 
+UK.
+(23)Ottawa Hospital Research Institute, University of Ottawa, Ottawa, Ontario, 
+Canada.
+(24)Sylvester Comprehensive Cancer Center University of Miami Miller School of 
+Medicine, Miami, FL, USA.
+(25)University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, 
+USA.
+(26)Indiana University School of Medicine, Bloomington, IN, USA.
+(27)University of New Mexico Comprehensive Cancer Centre, Albuquerque, NM, USA.
+(28)University of Massachusetts, Boston, MA, USA.
+(29)University of California, San Francisco, San Francisco, CA, USA.
+(30)NYU Grossman School of Medicine, New York, NY, USA.
+(31)Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia. 
+David.bowtell@petermac.org.
+
+Approximately 80% of deaths from ovarian cancer are due to high-grade serous 
+carcinoma (HGSC), which has the highest proportion of BRCA1 or BRCA2 
+(BRCA1/BRCA2) mutations of any cancer type and is a highly chromosomally 
+unstable disease. Despite the introduction of targeted therapies benefitting 
+some patients with HGSC as well as surgical advances, only 50% of patients will 
+survive more than 5 years, and just 30% of patients who present with advanced 
+disease without BRCA1/BRCA2 mutations will survive this long. This Expert 
+Recommendation is based on discussions among emerging and leading ovarian cancer 
+researchers at the 15th Helene Harris Memorial Trust International Forum on 
+ovarian cancer hosted by Ovarian Cancer Action in October 2024. The meeting 
+considered advances in HGSC research and treatment made over the last decade, 
+current challenges, emerging technologies in prevention, early detection, and 
+treatment, and research priorities for the years ahead.
+
+© 2026. Springer Nature Limited.
+
+DOI: 10.1038/s41568-026-00916-0
+PMID: 41975230
+
+Conflict of interest statement: Competing interests: J.D.B. is a shareholder in 
+Tailor Bio. A.A.A. is a founder, director, and consultant for Singular Bio Ltd. 
+S.H.L.G. receives research grants from Pfizer, Advenchen, and GSK. K.O. is a 
+co-founder of Tactiva Therapeutics. D.Z. reports institutional grants from 
+Merck, Genentech, AstraZeneca, Xencor, Zymeworks, and Synthekine; personal fees 
+from AstraZeneca, Xencor, Memgen, Daichi Sankyo, Gilead, Synthekine, Immunos, 
+Hervolution, Accurius, Replimune, and Calidi Biotherapeutics; and holds a patent 
+on the use of oncolytic Newcastle Disease Virus for cancer therapy. K.B.C. 
+reports consulting fees from ROME Therapeutics and Daiichi Sankyo, and has a 
+sponsored research agreement with Enara Bio. J.R.C.-G. receives consulting fees 
+from Alloy Therapeutics and licensing fees from Anixa Biosciences; holds 
+intellectual property with Anixa Biosciences and Compass Therapeutics; and is 
+co-founder of Cellepus Therapeutics, a CAR gamma/delta T cell company. E.L. 
+receives research funding from AbbVie through the University of Chicago to study 
+ovarian cancer. D.D.L. has received research grants from Hoffmann-La Roche AG 
+and 10xGenomics. S.A. receives clinical trial funding from AstraZeneca. F.R.B. 
+receives an honorarium from GSK and research funding from AstraZeneca. D.D.B. 
+has received research grant funding from Hoffmann-La Roche and Astra Zeneca. 
+ C.M.L., N.B., O.L.S., D.W.G., W.R.G., A.M.N., M.S.R., Z.K., R.Z., J.S.L., I.M., 
+R.R., P.D.P.P., C.A.I., C.F., R.J.B., I.L.-G., D.P.C., S.L., R.D., K.P.N., S.P., 
+B.H.N., A.F., K.F., and B.G.N. all declare no competing interests.
+
+
+3. Cells. 2026 Mar 26;15(7):588. doi: 10.3390/cells15070588.
+
+PARP Inhibition in Prostate Cancer: Current Status, Resistance Mechanisms, and 
+Clinical Challenges.
+
+Matsuoka T(1)(2)(3)(4), Akamatsu S(5), Ong CJ(1)(3), Gleave ME(1)(3), Wang 
+Y(1)(2)(3).
+
+Author information:
+(1)Vancouver Prostate Centre, Vancouver General Hospital, Vancouver, BC V5Z 1M9, 
+Canada.
+(2)Department of Experimental Therapeutics, BC Cancer Agency, Vancouver, BC V5Z 
+1L3, Canada.
+(3)Department of Urologic Sciences, Faculty of Medicine, The University of 
+British Columbia, Vancouver, BC V5Z 1M9, Canada.
+(4)Department of Urology, Graduate School of Medicine, Kyoto University, Kyoto 
+606-8507, Japan.
+(5)Department of Urology, Graduate School of Medicine, Nagoya University, Nagoya 
+466-8550, Japan.
+
+Poly(ADP-ribose) polymerase inhibitors (PARPi) have reshaped therapy for 
+advanced prostate cancer, yet durable benefit remains concentrated in 
+BRCA1/2-altered tumors, especially BRCA2, and most responders eventually 
+relapse. Here, we frame PARPi response and resistance through a unifying model 
+in which DNA damage response (DDR) rewiring (e.g., homologous recombination 
+repair (HRR) restoration, fork protection, checkpoint tolerance, and altered 
+drug handling) converges with treatment-induced dormancy and quiescent 
+therapy-tolerant residual states that sustain minimal residual disease (MRD) 
+under androgen receptor pathway inhibition (ARPI) and PARP blockade. We 
+synthesize clinical and translational evidence for PARPi monotherapy and 
+PARPi-based combinations across disease states. In first-line metastatic 
+castration-resistant prostate cancer (mCRPC), PARPi plus ARPI consistently 
+prolongs radiographic progression-free survival, with the greatest benefit in 
+HRR-altered tumors, and emerging overall-survival signals in selected subgroups. 
+In later-line settings, monotherapy activity is most robust in BRCA2-mutated 
+disease, whereas non-BRCA HRR alterations show heterogeneous and often modest 
+responses, underscoring the need for biomarkers beyond gene panels. We also 
+discuss combination strategies with DDR-targeting agents, radioligand therapies, 
+and immunotherapy, and summarize ongoing phase III programs in metastatic 
+castration-sensitive prostate cancer (mCSPC). Finally, we outline practical 
+considerations for biomarker-informed patient selection, monitoring, sequencing, 
+and toxicity management, with particular emphasis on intercepting MRD and 
+resistance evolution.
+
+DOI: 10.3390/cells15070588
+PMCID: PMC13072167
+PMID: 41972679 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+4. Biochem Biophys Rep. 2026 Mar 31;46:102564. doi: 10.1016/j.bbrep.2026.102564. 
+eCollection 2026 Jun.
+
+From mutation to treatment: The dual role of BRCA1 and BRCA2 in gynecological 
+malignancy development and management a systematic review.
+
+Georgy DM(1), Sedeek HN(1), Abaza NE(1), Eldeeb SEK(1), Khamis SM(1), Elgamil 
+MR(1), Magar RW(2).
+
+Author information:
+(1)Department of Applied Biochemistry and Molecular Biology, Faculty of Science, 
+Mansoura University, Mansoura, Egypt.
+(2)Transplantation Immunology Department, Urology and Nephrology Center, 
+Mansoura University, Mansoura, Egypt.
+
+The Breast Cancer gene 1 (BRCA1) and Breast Cancer gene 2 (BRCA2) genes are 
+pivotal human tumor suppressor genes that are essential for preserving genomic 
+stability. Mutations in BRCA1 and BRCA2 prevent homologous recombination, which 
+is regulated by cell cycle checkpoints, thereby hindering the repair of 
+double-stranded DNA. The ultimate result of genomic instability is characterized 
+by altered transcriptional control and abnormal expression of essential 
+cell-cycle proteins. As significant genetic factors, any mutations in the BRCA1 
+and BRCA2 genes substantially elevated a woman's risk of getting ovarian and 
+breast cancer, often resulting in the development of these cancers earlier in 
+life. Treatment of breast and ovarian cancer brought on by BRCA gene mutations 
+focuses heavily on germline BRCA-mutated (gBRCAm) testing, targeted therapies 
+such as Poly (ADP-ribose) polymerase inhibitors (PARP inhibitors), in addition 
+to other options such as traditional chemotherapy and immunotherapy. This 
+systematic review examines the crucial role of BRCA1 and BRCA2 in DNA repair, as 
+well as how their mutations contribute to the development of inherited 
+gynecological malignancies, and potential treatments targeting BRCA-deficient 
+tumors. Also discusses resistance mechanisms to PARP inhibitors, the potential 
+for combination therapies (PARP inhibitors + immune checkpoint inhibitors), and 
+Advances in nanotechnology-based drug delivery, dynamic biomarker development, 
+and CRISPR-based gene repair for BRCA mutations as future challenges and 
+direction for curable patient.
+
+© 2026 Published by Elsevier B.V.
+
+DOI: 10.1016/j.bbrep.2026.102564
+PMCID: PMC13068609
+PMID: 41970631
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+5. Transl Oncol. 2026 Apr 11;68:102757. doi: 10.1016/j.tranon.2026.102757. Online
+ ahead of print.
+
+PARP inhibitors target cellular energy metabolism: Mechanisms of action and 
+clinical implications.
+
+Li J(1), Mu D(2), Li J(3), Lan M(4), Wu W(5), Zhang S(6), Dai Y(7).
+
+Author information:
+(1)Department of Gynecologic Oncology, Gynecologic and Obstetrics Centre, The 
+First Hospital of Jilin University, Changchun, Jilin 130012, China; Jilin 
+Provincial Key Laboratory of Female Reproductive Health, Jilin 130012, China; 
+Laboratory of Cancer Precision Medicine, The First Hospital of Jilin University, 
+Changchun, Jilin 130012, China.
+(2)Department of Operation Room, The First Hospital of Jilin University, 
+Changchun, Jilin 130012, China.
+(3)Department of Blood Transfusion, The First Hospital of Jilin University, 
+Changchun, Jilin 130012, China.
+(4)Laboratory of Cancer Precision Medicine, The First Hospital of Jilin 
+University, Changchun, Jilin 130012, China.
+(5)Department of Neurosurgery, The First Hospital of Jilin University, 
+Changchun, Jilin 130012, China. Electronic address: wu_w@jlu.edu.cn.
+(6)Department of Gynecologic Oncology, Gynecologic and Obstetrics Centre, The 
+First Hospital of Jilin University, Changchun, Jilin 130012, China; Jilin 
+Provincial Key Laboratory of Female Reproductive Health, Jilin 130012, China. 
+Electronic address: slzhang@jlu.edu.cn.
+(7)Laboratory of Cancer Precision Medicine, The First Hospital of Jilin 
+University, Changchun, Jilin 130012, China. Electronic address: 
+daiyun@jlu.edu.cn.
+
+Poly-ADP-ribose polymerase (PARP) is a multifunctional ribozyme that is involved 
+in a variety of biological functions, including DNA repair, modulation of 
+chromatin structure, RNA transcription, cell division, metabolism, mitochondrial 
+biology, oxidative stress biology, and cell death and differentiation. PARP 
+inhibitors (PARPi) are a new class of targeted drugs widely used in the 
+treatment of cancer with BRCA1/2 mutations and non-malignant diseases. Although 
+PARPi has been known to affect the energy metabolism of cells, its exact effects 
+and mechanisms on this process have not yet been fully understood. In this 
+review article, we aim to provide a comprehensive overview of the current 
+understanding of PARPi's effects on various physiological processes involving 
+cellular energy metabolism, highlighting the importance of further exploring how 
+the human body maintains the balance of energy metabolism during PARPi therapy. 
+We also highlight the importance of future studies on the relationship between 
+PARPi treatment and the depletion of NAD+ levels, the activation of PARP1, or 
+the transition between different patterns of energy metabolism, to provide more 
+insights into the safety and efficacy of PARPi in clinical practice.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.tranon.2026.102757
+PMID: 41967334
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no competing interests.
+
+
+6. Clin Genitourin Cancer. 2026 Mar 19:102545. doi: 10.1016/j.clgc.2026.102545. 
+Online ahead of print.
+
+Prognostic Significance of Circulating Tumor DNA in Metastatic Prostate Cancer: 
+A Systematic Review and Meta-Analysis.
+
+Ye D(1), Zhao Y(2), Yang L(3), Sun X(2), Cao T(2), Yuan M(2), Qiao T(2), Xing 
+L(3), Sun X(4).
+
+Author information:
+(1)School of Medical Imaging, Shandong Second Medical University, Weifang, 
+China; Center for Nuclear Medicine and Molecular Imaging, Shandong Cancer 
+Hospital and Institute, Shandong First Medical University and Shandong Academy 
+of Medical Sciences, Jinan, China.
+(2)Department of Graduate, Shandong First Medical University (Shandong Academy 
+of Medical Sciences), Jinan, China; Center for Nuclear Medicine and Molecular 
+Imaging, Shandong Cancer Hospital and Institute, Shandong First Medical 
+University and Shandong Academy of Medical Sciences, Jinan, China.
+(3)Department of Radiotherapy, Shandong Cancer Hospital and Institute, Shandong 
+First Medical University and Shandong Academy of Medical Sciences, Jinan, China.
+(4)Center for Nuclear Medicine and Molecular Imaging, Shandong Cancer Hospital 
+and Institute, Shandong First Medical University and Shandong Academy of Medical 
+Sciences, Jinan, China. Electronic address: xrsun@sdfmu.edu.cn.
+
+Circulating tumor DNA (ctDNA) is a minimally invasive biomarker that enables 
+molecular profiling and prognostic stratification in cancer. This meta-analysis 
+evaluated the prognostic significance of ctDNA in metastatic prostate cancer 
+(mPC). PubMed, Web of Science and Scopus were searched from inception to 
+September 15, 2025 for studies assessing ctDNA and survival in prostate cancer. 
+Hazard ratios (HRs) for progression-free survival (PFS) and overall survival 
+(OS) were extracted; when unavailable, HRs were reconstructed from published 
+survival curves. Meta-analyses were performed according to ctDNA detectability, 
+ctDNA levels and ctDNA-detected gene mutations. About 13 studies including 
+18,575 patients were eligible. Across 9 studies, detectable ctDNA was associated 
+with significantly worse PFS (HR = 1.65, 95% CI: 1.22-2.22) and OS (HR = 2.20, 
+95% CI: 1.92-2.51) versus undetectable ctDNA. In patients receiving androgen 
+receptor pathway inhibitors and in mCRPC, ctDNA negativity consistently 
+correlated with longer PFS and OS. Gene-level analyses showed that AR, CDK6/12, 
+MYC, PIK3CA, and BRCA1/2 mutations in ctDNA were linked to inferior PFS, whereas 
+BRCA1/2 mutations did not significantly worsen OS. About 5 studies examined 
+ctDNA levels: higher ctDNA levels predicted poorer survival (PFS: HR = 1.68, 95% 
+CI: 1.18-2.38; OS: HR = 2.43, 95% CI: 1.50-3.93), and lower levels were 
+associated with better outcomes in ARPI-treated and mCRPC patients. In mPC, 
+ctDNA detectability and elevated ctDNA levels are strongly associated with 
+adverse survival. Quantitative ctDNA profiling, including assessment of key gene 
+mutations, offers a clinically relevant tool to refine risk stratification and 
+to support molecularly informed treatment selection and monitoring where 
+clinically validated.
+
+Copyright © 2026 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clgc.2026.102545
+PMID: 41966893
+
+Conflict of interest statement: Disclosure The authors have stated that they 
+have no conflicts of interest.
+
+
+7. NPJ Breast Cancer. 2026 Apr 11. doi: 10.1038/s41523-026-00947-8. Online ahead
+of  print.
+
+PARP inhibition with olaparib and talazoparib for HER2-negative advanced breast 
+cancer-Results from the prospective PRAEGNANT registry.
+
+Hörner M(1), Hartkopf A(2), John N(1)(3), Ziegler P(1), Häberle L(1)(3), Uhrig 
+S(1), Goossens C(1), Amann N(1), Cieslik JP(4), Tretschock LM(5), Dannehl D(6), 
+Deutsch TM(5), Dimpfl M(7), Ehlert M(8), Eichstädt K(9), Englisch A(2), Köpke 
+MB(10), Krückel A(1), Link T(11), Müller A(2), Reinhardt K(9), Roth J(12), 
+Schäffler H(13), Sych L(14), Tauber N(15), Tegeler CM(2), Wichmann C(11), 
+Banys-Paluchowski M(15), Princk H(15), Rody A(15), Brucker SY(2), Ditsch N(10), 
+Ettl J(16)(17), Fehm T(4), Hack CC(1), Hadji P(18), Hein A(19), Janni WW(13), 
+Kolberg HC(20), Lüftner D(21), Lux MP(22), Müller V(8), Taran FA(6), Tesch 
+H(23), Wallwiener D(2), Marmé F(7), Seitz S(12), Belleville E(24), Michel 
+LL(14)(25), Wallwiener M(9), Fasching PA(26), Schneeweiss A(14)(25), Maurer 
+C(27).
+
+Author information:
+(1)Department of Gynecology and Obstetrics, University Hospital Erlangen, 
+Comprehensive Cancer Center Erlangen-EMN (CCC ER-EMN), 
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany.
+(2)Department of Women's Health, Tuebingen University, Tuebingen, Germany.
+(3)Biostatistics Unit, Erlangen University Hospital, Department of Gynecology 
+and Obstetrics, University Hospital Erlangen, Comprehensive Cancer Center 
+Erlangen-EMN (CCC ER-EMN), Friedrich-Alexander-Universität Erlangen-Nürnberg 
+(FAU), Erlangen, Germany.
+(4)Department of Gynecology and Obstetrics, Center of Integrated Oncology ABCD, 
+Medical Faculty, Heinrich Heine University and University Hospital Düsseldorf, 
+Düsseldorf, Germany.
+(5)Department of Obstetrics and Gynecology, University Hospital Heidelberg, 
+Heidelberg, Germany.
+(6)Department of Gynecology and Gynecologic Oncology, Center for Integrated 
+Oncology Aachen Bonn Cologne Düsseldorf, Medical Faculty and University Clinic 
+of Cologne, University of Cologne, Cologne, Germany.
+(7)Department of Gynecology and Obstetrics, University Medical Center Mannheim, 
+Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany.
+(8)University Medical Center Hamburg-Eppendorf, Hamburg, Germany.
+(9)Department of Gynecology, University Hospital Halle, Halle, Germany.
+(10)Department of Obstetrics and Gynaecology, University Hospital Augsburg, 
+Augsburg, Germany.
+(11)Department of Gynecology and Obstetrics, Medical Faculty and University 
+Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden, Germany.
+(12)Department of Obstetrics and Gynecology, Caritas Hospital St. Josef, 
+University Medical Center Regensburg,, University of Regensburg, Regensburg, 
+Germany.
+(13)Department of Gynecology and Obstetrics, University Hospital Ulm, Ulm, 
+Germany.
+(14)Department of Medical Oncology, National Center for Tumor Diseases (NCT), 
+University Hospital Heidelberg, Heidelberg, Germany.
+(15)Department of Gynecology and Obstetrics, University Hospital 
+Schleswig-Holstein, Campus Lübeck, Luebeck, Germany.
+(16)Department of Obstetrics and Gynecology, Klinikum Rechts Der Isar, Technical 
+University of Munich, Munich, Germany.
+(17)Cancer Center Kempten/Allgäu (CCKA), Klinikum Kempten, Kempten, Germany.
+(18)Frankfurt Center for Bone Health and Endocrinology, Frankfurt Am Main, 
+Germany.
+(19)Department of Gynecology, Klinikum Esslingen GmbH, Esslingen, Germany.
+(20)Department of Gynecology and Obstetrics, Marienhospital Bottrop, Bottrop, 
+Germany.
+(21)Immanuel Hospital Märkische Schweiz & Immanuel Campus Rüdersdorf, Medical 
+University of Brandenburg Theodor-Fontane, Rüdersdorf bei Berlin, Germany.
+(22)Department of Gynecology and Obstetrics, Frauenklinik St. Louise, Paderborn, 
+St. Josefs-Krankenhaus, Salzkotten, Vincenz Kliniken GmbH, Paderborn, Germany.
+(23)Oncology Practice, Bethanien Hospital, Frankfurt am Main, Germany.
+(24)ClinSol GmbH & Co. KG, Würzburg, Germany.
+(25)German Cancer Research Center (DKFZ), Heidelberg, Germany.
+(26)Department of Gynecology and Obstetrics, University Hospital Erlangen, 
+Comprehensive Cancer Center Erlangen-EMN (CCC ER-EMN), 
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany. 
+peter.fasching@uk-erlangen.de.
+(27)Department of Gynecology and Gynecologic Oncology and Department I of 
+Internal Medicine, Center for Integrated Oncology Aachen Bonn Cologne 
+Duesseldorf, Faculty of Medicine and University Hospital Cologne, University of 
+Cologne, Cologne, Germany.
+
+Germline BRCA1 and BRCA2 mutations enable targeted therapies in human epidermal 
+growth factor receptor 2 (HER2)-negative advanced breast cancer (ABC). The two 
+poly (adenosine diphosphate-ribose) polymerase (PARP) inhibitors olaparib and 
+talazoparib were introduced into clinical practice in 2018. Limited evidence 
+about their routine clinical use highlights the importance of this analysis. We 
+provide a real-world analysis for PARP-inhibitor use in ABC patients treated 
+within the prospective German PRAEGNANT registry (NCT02338167). 152 patients 
+with ABC receiving a PARP-inhibitor were included. Real-world progression-free 
+survival (rwPFS) and real-world overall survival (rwOS) were calculated for all 
+patients using the Kaplan-Meier method. Subgroups (line of therapy, metastasis 
+timing, hormone receptor (HR) status, treatment: olaparib, talazoparib, among 
+others), germline BRCA1, BRCA2 and PALB2 mutations and adverse events (AEs) were 
+analyzed. The median rwPFS was 6.2 months (95% CI, 4.8-7.9) and the median rwOS 
+was 17.1 months (95% CI, 14.4-22.3). Line of therapy, HR status and treatment 
+(olaparib versus talazoparib) appeared to especially affect both rwPFS and rwOS. 
+Among patients with a reported germline mutation, 36.1% had a BRCA1, 62.9% a 
+BRCA2 and 1.0% a PALB2 mutation. In summary, outcomes were comparable to those 
+reported in pivotal trials despite later-line use of PARP-inhibitors in this 
+analysis.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41523-026-00947-8
+PMID: 41965791
+
+Conflict of interest statement: Competing interests: M.H. received research 
+support from Helsinn Healthcare SA, honoraria from Lilly Deutschland GmbH, 
+Thieme and travel support from Novartis, Lilly Deutschland GmbH, and 
+AstraZeneca. A.H. received grants or contracts from ExactScience, Veracyte, 
+consulting fees from Roche, Novartis, MSD, Agendia, AstraZeneca, GSK, 
+ExactScience, Riemser, Teva, Onkowissen, Lilly, Gilead, Menarini Stemline, 
+Pfizer, Amgen, Pierre Fabre, DaichiiSankyo, and payment or honoraria for 
+lectures, presentations, speakers bureaus from Roche, Novartis, Lilly, MSD, 
+AstraZeneca, Agendia, Seagen, GSK, ExactScience, Riemser, Teva, Onkowissen, 
+Gilead, Menarini Stemline, Pfizer, Amgen, Pierre Fabre, Eisai, DaichiiSankyo, 
+Thieme, Veracyte, Springer, support for attending meetings from Roche, Novartis, 
+Lilly, AstraZeneca, GSK, ExactScience, Gilead, Menarini Stemline, Pfizer, 
+DaichiiSankyo and Participation on Advisory Board from Novartis, Roche, Agendia, 
+Lilly, Gilead, AstraZeneca, Pfizer, MSD, Daiichi Sankyo, GSK, Menarini Stemline, 
+ExactScience, Eisai, Sandoz/Hexal. N.A. received honoraria for lectures and 
+participation in advisory boards: Gilead, Pfizer, Novartis, and received support 
+for attending meetings from AstraZeneca, Novartis. A.K. received lecture fees 
+from Gilead and Novartis, honoria for written scientific work from Thieme as 
+well as support for attending meetings from Lilly; T.L. received Consulting fees 
+from Roche, Lilly, MSD, honoraria for lectures, presentations, speakers bureaus, 
+manuscript writing or educational events from Amgen, Roche, MSD, Novartis, 
+Pfizer, Lilly, GSK, Gilead, AstraZeneca, Daiichi Sankyo, Stemline, Seagen, 
+Support for attending meetings and/or travel from Pfizer, AstraZeneca, Gilead, 
+Daiichi Sankyo, Stemline, Seagen, MSD, advisory board honoraria from MSD, Roche, 
+Pfizer, Lilly, Myriad, Esai, GSK, Gilead, Daiichi Sankyo, Roche, AstraZeneca; 
+A.E. received lecture honoraria from AstraZeneca. H.S. received honoraria from 
+Pfizer, Novartis, GILEAD, Lilly, Daiichi, Eickeler Veranstaltungen, Novartis, 
+GILEAD. N.T. received honoraria for lectures and advisory boards: Novartis, 
+Exact Sciences, Pfizer, Thieme, AstraZeneca, Grants or contracts from: Novartis, 
+Travel expenses: Novartis, Daiichi sankyo, AstraZeneca, Participation on a Data 
+safety Monitoring Board or Advisory Board from Novartis, Thieme, C.G. received 
+speaker honoraria from Novartis Pharma GmbH and ClinSol GmbH & Co. KG. C.M.T. 
+received honoraria from AstraZeneca and is a shareholder in Curevac N.V. and 
+BioNTech SE. M.B.-P. received grants or contracts from Korean Breast Cancer 
+Society, Eugen & Irmgard Hahn Stiftung, EndoMag, Mammotome, MeritMedical, Sirius 
+Medical, Gilead, Hologic, Exact Sciences, Claudia von Schilling Stiftung, Dampft 
+Stiftung, Ehmann Stiftung, Savognin, payment for honoraria or lectures from 
+Roche, Novartis, Pfizer, Pfm, Eli Lilly, Onkowissen, Seagen, AstraZeneca, Eisai, 
+Amgen, Samsung, Canon, MSD, GSK, Daiichi Sankyo, Gilead, Sirius Medical, 
+Syantra, Resitu, Pierre Fabre, Exact Sciences, Aurikamed, Stemline, support for 
+attending meetings from Eli Lilly, Exact Sciences, Pierre Fabre, Pfizer, Daiichi 
+Sankyo, Roche, Stemline. S.Y.B. received institutional grants from Pfizer, 
+Seagen, Daiichi-Sankyo, Gilead, Berlin-Chemie AG, AstraZeneca, Helsinn 
+Healthcare S.A. and personal honoraria for lectures from AstraZeneca. CC.H. 
+received honoraria for lectures from Novartis, Roche, Pfizer, Gilead, 
+AstraZeneca, MSD, Daiichi Sankyo, Eisai, honoraria for participation in advisory 
+boards from Roche, Daiichi Sankyo, MSD, Novartis and support for attending 
+meetings from Daiichi Sankyo. D.L. reports consulting fees, honoraria, payment 
+for expert testimony or support for attending meetings from Eli Lilly, Novartis, 
+Pfizer, Gilead, Daiichi Sankyo, GSK, Loreal, Onkowissen, high5, MSD, 
+AstraZeneca, AbbVie, Genmab. M.P.L reports payments for participation in 
+Advisory Boards / Advisory from Novartis, Hexal, Agendia, Endomag, Lilly, MSD, 
+Pfizer, Exact Sciences, Daiichi-Sankyo, Gilead, Roche, Stemline/ Menari-Group, 
+AstraZeneca, Payment for lectures from Lilly, Roche, MSD, Novartis, Pfizer, 
+Exact Sciences, Daiichi-Sankyo, Grünenthal, GSK, Gilead, AstraZeneca and Eisai, 
+support for attending meetings from Gilead, Daiichi-Sankyo, AstraZeneca and 
+Pfizer, Participation on a Data Safety Monitoring Board or Advisory Board Pfizer 
+PERFORM trial, Novartis BC-CAPTOR-trial, Novartis Caroleen trial and board 
+membership for Deutsche Gesellschaft für Senologie e.V., Deutsche Akademie für 
+Senologie and Participant in the Kommission Mamma der AGO e.V. and Receipt of 
+equipment, materials, drugs, medical writing, gifts or other services from 
+AstraZeneca Pfizer, V.M. received Speaker honoraria: AstraZeneca, arsTempi, 
+Daiichi-Sankyo, Eisai, Pfizer, MSD, Medac, Novartis, Roche, Seagen, Onkowissen, 
+high5 Oncology, Lilly, Medscape, Gilead, Pierre Fabre, iMED Institute, 
+Consultancy honoraria: Roche, Pierre Fabre, PINK, ClinSol, Novartis, MSD, 
+Daiichi-Sankyo, Eisai, Lilly, Seagen, Gilead, Stemline, Institutional research 
+support: Novartis, Roche, Seagen, Genentech, AstraZeneca, Travel grants: Astra 
+Zeneca, Roche, Pfizer, Daiichi Sankyo, Gilead, V.M. is an editorial board member 
+of the journal The Breast. F.-A.T. received consulting fees from GSK, AbbVie, 
+MSD, Payment or honoraria for lectures, presentations, speakers bureaus from 
+AstraZeneca, Roche, Novartis and Support for attending meetings and/or travel 
+from AbbVie. A.S. received honoraria from Amgen, AstraZeneca, Aurikamed, Bayer, 
+Celgene, ClinSol, Clovis Oncology, coma UroGyn, Connectmedica, Daiichi Sankyo, 
+Gilead, GSK, if-kongress, I-MED, iOMEDICO, Lilly, MCI Deutschland, med publico, 
+Menarini Stemline, Metaplan, MSD, Mylan, NeoConnect, NanoString Technologies, 
+Novartis, Onkowissen, Pfizer, Pierre Fabre, promedicis, Roche, Seagen, 
+streamedup, SYNLAB, Tesaro and travel support from AstraZeneca, Celgene, Daiichi 
+Sankyo, Gilead, Pfizer, Roche; M.B-P. received honoraria for lectures and 
+advisory boards: Roche, Novartis, Pfizer, pfm, Eli Lilly, Onkowissen, Seagen, 
+AstraZeneca, Eisai, Amgen, Samsung, Canon, MSD, GSK, Daiichi Sankyo, Gilead, 
+Sirius Medical, Syantra, resitu, Pierre Fabre, ExactSciences, Aurikamed. Study 
+support: Korean Breast Cancer Society, Eugen & Irmgard Hahn Stiftung, EndoMag, 
+Mammotome, MeritMedical, Sirius Medical, Gilead, Hologic, ExactSciences, Claudia 
+von Schilling Stiftung, Damp Stiftung, Ehmann Stiftung Savognin. Travel 
+expenses: Eli Lilly, ExactSciences, Pierre Fabre, Pfizer, Daiichi Sankyo, Roche, 
+Stemline. A.R. received honoraria for lectures: Roche, Pfizer, Novartis, Celgen, 
+LEO Pharma, Novartis, ExactSciences, Pierre Fabre, Lilly, Seagen, Targos and 
+honoraria for Participation on a Data Safety Monitoring Board or Advisory Board 
+from Roche, Daiichi Sankyo, AstraZeneca, Pfizer, Celgen, Eisai, Novartis, MSD, 
+Hexal, Amgen, Exact Sciences, Pierre Fabre, RG. Advisory Boards: Roche, 
+AstraZeneca, Pfizer, Celgen, Eisai, Novartis, MSD, Hexal, Amgen, ExactSciences, 
+Pierre Fabre. J.E. received Speakers Bureau, Travel Grants or Advisory Boards: 
+Eli Lilly, Novartis, Pfizer, Gilead, Daiichi Sankyo, GSK, Onkowissen, 
+AstraZeneca, Menarini. T.F. received as consulting fees or honoraria for 
+lectures, presentations, speakers bureaus, manuscript writing or educational 
+events personal payments from Onkowissen, Medconcept, Payments to institution 
+from AstraZeneca, Daichii Sankyo, Roche, Novartis, Pfizer, AbbVie. MSD, Support 
+for attending meetings and/or travel from Roche, Daichii Sankyo, Pfizer; S.S. 
+received consulting fees or Payment or honoraria for lectures, presentations, 
+speakers bureaus, manuscript writing or educational events from AstraZeneca, 
+Daiichi-Sankyo, GE HealthCare, Gilead, GSK, Lilly, MSD, Novartis, Pfizer, Roche, 
+Stemline Menarini and support for attending meetings from AstraZeneca, GE 
+HealthCare, Gilead, Lilly, Pfizer, Stemline Menarini. L.L.M. received fees for 
+speaking engagements and accommodation expenses in connection with congress 
+participations from Roche, Pfizer, Lilly Pharma, Daiichi Sankyo, AstraZeneca, 
+Onkowissen, Gilead, Novartis. W.W.J. received research Grants and/or honoraria 
+from AstraZeneca, Cellgene, Chugai, Daiichi Sankyo, Eisai, ExactScience, Gilead, 
+GSK, Guardant Health, Janssen, Lilly, Menarini Stemline, MSD, NeoGenomics, 
+Novartis, Pfizer, Roche, Sanofi-Aventis, Seagen. M.W. received Grants or 
+contracts from Novartis, Consulting fees from AstraZeneca, Daichi-Sankyo, 
+Pfizer, Novartis, Roche, Ethicon, Onkowissen, Menari, Storz, PlantTec, honoraria 
+for lectures, presentations, speakers bureaus, manuscript writing or educational 
+events from AstraZeneca, Daichi-Sankyo, Pfizer, Novartis, Roche, Ethicon, 
+Onkowissen, Menari, Storz, PlantTec, Payment for expert testimony from 
+Astra-Zeneca, Daichi-Sankyo, Pfizer, Novartis, Roche, Menari, fees for 
+participation on a Data Safety Monitoring Board or Advisory Board from 
+Astra-Zeneca, Daichi-Sankyo, Pfizer, Novartis, Roche, Ethicon, Onkowissen, 
+Menari, Storz, PlantTec and is an ESGE AdBoard member, AGE Steering Board, 
+Member of AGO “uterus committee”, Coordinator S2-LL Uterine sarcomas, P.A.F. has 
+received institutional funding from BioNTech, Cepheid and Pfizer and peronal 
+honoraria from Novartis, Pfizer, Roche, Daiichi Sankyo, AstraZeneca, Lilly, 
+Eisai, Merck Sharp & Dohme, Pierre Fabre, SeaGen, Agendia, Sanofi Aventis, 
+Gilead and Mylan for consulting, participation in advisory boards and steering 
+committees and/or lectures. His institution conducts research for Novartis. C.M. 
+received consulting fees from AbbVie, Celgene/BMS, Pfizer, Nordic Pharma, 
+honoraria for lectures or presentations from Daiichi Sankyo, Novartis, Lilly and 
+support for attending meetings and/or travel from Brustkrebs Deutschland eV, 
+Novartis, Roche, Mundipharma, Amgen, Servier Deutschland GmbH, AbbVie. The other 
+authors do not have a competing interest.
+
+
+8. Biomark Res. 2026 Apr 10;14(1):40. doi: 10.1186/s40364-026-00915-1.
+
+The molecular landscape of the C1498 murine acute myeloid leukemia cell line.
+
+Ghetti M(#)(1), De Santis I(#)(2), Tolomeo D(3), Ruggieri F(1)(4), Bracci C(1), 
+Bochicchio MT(1), Paganelli M(1), Ferrari A(1), Sangaletti S(5), Storlazzi 
+CT(3), Simonetti G(6).
+
+Author information:
+(1)Biosciences Laboratory, IRCCS Istituto Romagnolo per lo Studio dei Tumori 
+(IRST) "Dino Amadori", via Piero Maroncelli, 40, 47014, Meldola (FC), Italy.
+(2)Unit of Biostatistics and Clinical Trials, IRCCS Istituto Romagnolo per lo 
+Studio dei Tumori (IRST) "Dino Amadori", Meldola (FC), Italy.
+(3)Department of Biosciences, Biotechnology and Environment, University of Bari 
+Aldo Moro, Bari, Italy.
+(4)Department of Medical and Surgical Sciences (DIMEC), University of Bologna, 
+Bologna, Italy.
+(5)Molecular Immunology Unit, Department of Experimental Oncology, Fondazione 
+IRCCS Istituto Nazionale Tumori, Milan, Italy.
+(6)Biosciences Laboratory, IRCCS Istituto Romagnolo per lo Studio dei Tumori 
+(IRST) "Dino Amadori", via Piero Maroncelli, 40, 47014, Meldola (FC), Italy. 
+giorgia.simonetti@irst.emr.it.
+(#)Contributed equally
+
+The murine C1498 cell line is one of the most widely used syngeneic models to 
+investigate acute myeloid leukemia (AML) pathogenesis, tumor-host interactions 
+and therapeutic responses. However, in the absence of a comprehensive molecular 
+characterization it remains impossible to reliably associate genetic lesions 
+with disease phenotype, drug sensitivity or resistance. Here, we provide an 
+integrated genomic and functional analysis combining whole genome and whole 
+transcriptome sequencing (WGS and WTS), multicolor fluorescent in situ 
+hybridization (M-FISH) and drug sensitivity assays. WGS identified 2,007 coding 
+variants absent from population databases, including functionally relevant 
+alterations in AML-related genes. These comprised deleterious or likely 
+pathogenic variants in Nf1, Gnas and Trp53 (murine ortholog of the human TP53 
+gene), a splice-site mutation in Crebbp and truncating variants in Bcor and 
+Tet2. Structural variant analysis revealed 1,767 events, including deletions of 
+Trp53, Nf1, Brca1, Csnk1a1, Ctnna1, Luc7l2 and cohesin genes, and Myc tandem 
+duplication. Copy number variant profiling detected ten tumor-specific 
+alterations, including amplifications of Stk32b and Bub1, the latter linked to 
+aggressive cancer phenotypes. Variants integration uncovered biallelic 
+disruption of Trp53, double-hit events affecting additional tumor suppressors 
+(mutation and deletion: Nf1, Recql4) and oncogenes (mutation and amplification: 
+Idh1, Gnas, Pik3cd, Vav1). Functionally, C1498 demonstrated in vitro a dose- and 
+time-dependent response to venetoclax/azacitidine consistent with resistance, in 
+line with the presence of altered Trp53 and recent prognostic AML signatures. 
+This comprehensive molecular framework establishes C1498 as a genetically 
+defined AML model and provides a valuable resource to inform biomarker-driven 
+preclinical studies and translational research aimed at overcoming 
+venetoclax/azacitidine resistance.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material 
+available at 10.1186/s40364-026-00915-1.
+
+DOI: 10.1186/s40364-026-00915-1
+PMCID: PMC13067734
+PMID: 41964082
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Not applicable. Consent for publication: Not applicable. Competing 
+interests: The authors declare no competing interests.
+
+
+9. Proc Natl Acad Sci U S A. 2026 Apr 21;123(16):e2513742123. doi: 
+10.1073/pnas.2513742123. Epub 2026 Apr 10.
+
+Resistance to neoadjuvant talazoparib in triple-negative breast cancer by 
+BRN2-induced ATR/STAT3 pathways or SHLD2 subclone expansion.
+
+Abdulkareem NM(#)(1), Jiang Y(#)(1), Qi Y(1)(2), Liu X(3), Zhang X(1), Cai S(1), 
+Shao J(1), Jeter-Jones S(1), Rinkenbaugh AL(1), Cheng CC(1), Hancock F(1), 
+Schwartz J(4), Litton JK(4), Chang JT(2)(3), Piwnica-Worms H(1).
+
+Author information:
+(1)Department of Experimental Radiation Oncology, The University of Texas MD 
+Anderson Cancer Center, Houston, TX 77030.
+(2)Department of Bioinformatics and Computational Biology, The University of 
+Texas MD Anderson Cancer Center, Houston, TX 77030.
+(3)Department of Integrative Biology and Pharmacology, Institute of Molecular 
+Medicine, The University of Texas Health Science Center at Houston, Houston, TX 
+77030.
+(4)Department of Breast Medical Oncology, The University of Texas MD Anderson 
+Cancer Center, Houston, TX 77030.
+(#)Contributed equally
+
+Intrinsic and acquired resistance to poly(ADP-ribose) polymerase (PARP) 
+inhibitors (PARPi) remains a major barrier in treating homologous recombination 
+(HR) repair-deficient tumors, including those with germline or somatic BRCA1/2 
+mutations. Although PARPi are FDA approved for adjuvant treatment of locally 
+advanced or metastatic breast cancer in patients with germline BRCA1/2 
+mutations, emerging data support their use as monotherapy in the neoadjuvant 
+setting. Promising safety profiles of newer-generation PARPi further support 
+this potential. However, resistance mechanisms specific to the neoadjuvant 
+setting are poorly understood. To address this gap, we leveraged resources from 
+a phase II neoadjuvant clinical trial (NCT03499353), analyzing tumors from 
+patients with germline BRCA1/2 mutant breast tumors before and after six months 
+of talazoparib monotherapy. Whole-transcriptome analyses were performed on these 
+samples. Additionally, we established orthotopic patient-derived xenograft 
+models from a subset of the patient tumors and conducted whole-exome and 
+whole-transcriptome analysis. This integrative approach revealed both known and 
+previously unknown PARPi resistance mechanisms. In one case, overexpression of 
+BRN2, encoding a transcription factor that plays a critical role in 
+neurogenesis, led to activation of ATR/RAD51 and STAT3 pathways, restoring HR 
+repair. BRN2-driven resistance could be reversed with ATR and STAT3 inhibitors, 
+resensitizing cells to talazoparib. In another, an HR repair proficient tumor 
+subclone lacking Shieldin 2 expression expanded during treatment and accounted 
+for intrinsic resistance. Our findings highlight the need to determine intrinsic 
+and anticipate acquired resistance pathways in treatment-naïve tumors and 
+support combining PARPi with targeted agents to improve outcomes in the 
+neoadjuvant setting.
+
+DOI: 10.1073/pnas.2513742123
+PMID: 41961819 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests statement:Dr. Litton is on 
+the advisory board of Gilead (uncompensated). Dr. Litton receives research 
+support (to her Institution) from Medivation, Pfizer, Merck, Zenith, EMD-Serono, 
+Genentech, Astra-Zeneca.
+
+
+10. Breast Cancer. 2026 Apr 10. doi: 10.1007/s12282-026-01855-2. Online ahead of 
+print.
+
+BRCA1/2 Reversion Mutations in Japanese Patients with Metastatic Breast Cancer 
+Progressing on Olaparib: OLIVE (WJOG15321B).
+
+Sakai H(1), Kusumoto-Matsuo R(2), Hosonaga M(3), Nozawa K(4), Futamura M(5), 
+Tanabe Y(6), Mukohara T(7), Shiraishi K(8), Toyama T(9), Yasojima H(10), 
+Watanabe N(11), Sakai H(12), Iwasa T(13), Takeuchi N(14), Tada H(15), Sakai 
+K(16), Chiba N(17), Takano T(3), Tsurutani J(2).
+
+Author information:
+(1)Advanced Cancer Translational Research Institute, Showa Medical University, 
+1-5-8 Hatanodai, Shinagawa-ku, Tokyo, 142-8555, Japan. 
+sakai-h@med.showa-u.ac.jp.
+(2)Advanced Cancer Translational Research Institute, Showa Medical University, 
+1-5-8 Hatanodai, Shinagawa-ku, Tokyo, 142-8555, Japan.
+(3)Breast Oncology Center, Cancer Institute Hospital of the Japanese Foundation 
+for Cancer Research, Tokyo, Japan.
+(4)Department of Breast Oncology, Aichi Cancer Center, Nagoya, Japan.
+(5)Department of Breast Surgery, Gifu University Hospital, Gifu, Japan.
+(6)Department of Medical Oncology, Toranomon Hospital, Tokyo, Japan.
+(7)Department of Oncology, National Cancer Center Hospital East, Kashiwa, Japan.
+(8)Department of Medical Oncology, NHO Nagoya Medical Center, Nagoya, Japan.
+(9)Department of Breast Surgery, Nagoya City University, Nagoya, Japan.
+(10)Department of Surgery, Breast Oncology, NHO Osaka National Hospital, Osaka, 
+Japan.
+(11)Department of Breast and Endocrine Surgery, Osaka International Cancer 
+Institute, Osaka, Japan.
+(12)Department of Medical Oncology, Hyogo Cancer Center, Akashi, Japan.
+(13)Department of Medical Oncology, Kindai University Faculty of Medicine, 
+Osaka, Japan.
+(14)Department of Oncology, Ina Central Hospital, Ina, Japan.
+(15)Department of Surgery, Division of Breast and Endocrine Surgery, Tohoku 
+University Hospital, Sendai, Japan.
+(16)Department of Genome Biology, Kindai University Faculty of Medicine, Osaka, 
+Japan.
+(17)Department of Cancer Biology, Institute of Development, Aging and Cancer 
+(IDAC), Tohoku University, Sendai, Japan.
+
+DOI: 10.1007/s12282-026-01855-2
+PMID: 41961224
+
+Conflict of interest statement: Declarations. Conflict of interest: HS received 
+honoraria from Daiichi Sankyo, Eli Lilly, Gilead Sciences, AstraZeneca, and 
+Pfizer, and medical writing support from Daiichi Sankyo outside the submitted 
+work. MF received honoraria from Chugai and Daiichi Sankyo. TM received research 
+funding (to the institution) from MSD, AstraZeneca, Eisai, Sanofi, Novartis 
+Pharma, Bayer, ONO Pharmaceutical, Daiichi Sankyo, Chugai Pharmaceutical, 
+Pfizer, Gilead Sciences, Merck Biopharma, Seagen, Astellas Pharma, Sysmex, and 
+Exact Sciences; and honoraria from Terumo, Bayer, MICIN, Kyowa Kirin, Daiichi 
+Sankyo, Eli Lilly, MI-Force, AstraZeneca, Eisai, Taiho Pharmaceutical, Chugai 
+Pharmaceutical, Shionogi, Pfizer, and Ono Pharmaceutical. He is an advisory 
+board member of Pfizer and AstraZeneca. TaT received honoraria from Chugai, 
+Daiichi Sankyo, Pfizer, MSD, Eli Lilly, Novartis, and Taiho. HT received 
+honoraria from Chugai Pharmaceutical, Eli Lilly, Pfizer, and Daiichi Sankyo. KS 
+received honoraria for lectures from Takeda Pharmaceutical Co., Ltd., Nippon 
+Kayaku Co., Ltd., and Qiagen, Inc., and honoraria for manuscript writing from 
+Life Technologies Japan Ltd. NC received research funding from AstraZeneca 
+outside the submitted work. ToT received honoraria from Daiichi Sankyo, Eli 
+Lilly, and Gilead Sciences. JT received research funding from Daiichi Sankyo 
+Co., Ltd., outside the submitted work; honoraria from Daiichi Sankyo Co., Ltd., 
+AstraZeneca K.K., Eli Lilly Japan K.K., Pfizer Japan Inc., Eisai Co., Ltd., 
+Kyowa Kirin Co., Ltd., Taiho Pharmaceutical Co., Ltd., MSD K.K., and Gilead 
+Sciences, Inc.; consulting fees from Daiichi Sankyo Co., Ltd., AstraZeneca K.K., 
+Seagen Inc., Pfizer Japan Inc., and Gilead Sciences, Inc.; and his institution 
+received research funding from Eli Lilly Japan K.K., Kyowa Kirin Co., Ltd., 
+Taiho Pharmaceutical Co., Ltd., Chugai Pharmaceutical Co., Ltd., MSD K.K., and 
+Eisai Co., Ltd., outside the submitted work. All other authors declare no 
+competing financial or non-financial interests. Ethical approval and consent to 
+participate: Study protocol was approved by the institutional review board 
+(Approval number: 21-029-B). Informed consent was obtained from all participants 
+involved in the study.
