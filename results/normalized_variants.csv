@@ -1,0 +1,11 @@
+variant,normalized_hgvs,clinical_significance,clinvar_id,gene
+c.9371A>T,Not found,Unknown,,BRCA1
+c.5266dupC,Not found,Unknown,,BRCA1
+c.3607C>T,Not found,Unknown,,BRCA1
+c.3279delC,Not found,Unknown,,BRCA1
+c.211dupA,Not found,Unknown,,BRCA1
+c.181T>G,Not found,Unknown,,BRCA1
+c.798_799delTT,Not found,Unknown,,BRCA1
+c.5309G>T,Not found,Unknown,,BRCA1
+c.5266dup,Not found,Unknown,,BRCA1
+c.68_69del,Not found,Unknown,,BRCA1
