@@ -1,66 +1,66 @@
-PMID_Index,Term,Category
-0,Renal Cell Carcinoma,Disease
-0,renal cell carcinoma,Disease
-0,mRCC,Disease
-0,vascular endothelial growth factor receptor,Gene
-0,sarcomatoid,Disease
-0,polybromo-1,Gene
-0,BRCA1-associated protein 1,Gene
-0,tumors,Disease
-0,VEGF,Gene
-1,Breast cancer,Disease
-1,BC,Disease
-1,malignancy,Disease
-1,tumor,Disease
-1,p53,Gene
-1,BRCA1,Gene
-1,BRCA2,Gene
-1,TERT,Gene
-1,FGFR2,Gene
-1,CHD1,Gene
-1,formalin-fixed,Disease
-1,FFPE,Disease
-1,BC patients,Disease
-1,benign breast lesions,Disease
-1,FFPE tissue samples,Disease
-1,tissue samples,Disease
-1,noncancerous breast tissue,Disease
-1,cancer,Disease
-1,noncancer patients,Disease
-1,Breast Cancer,Disease
-2,Colorectal cancer,Disease
-2,CRC,Disease
-2,malignancy,Disease
-2,CRC patients,Disease
-2,cancer-associated,Disease
-2,Cancer,Disease
-2,PVs,Disease
-2,cancer,Disease
-2,CHEK2,Gene
-2,APC (12.91%,Gene
-2,MLH1,Gene
-2,MSH2,Gene
-2,MSH6,Gene
-2,MUTYH,Gene
-2,BRCA1,Gene
-2,APC,Gene
-2,T,Gene
-2,PMS1,Gene
-2,NBN,Gene
-2,EPCAM,Gene
-3,cancer,Disease
-3,BRCA1,Gene
-3,BRCA2,Gene
-3,RAD51C,Gene
-3,RAD51D,Gene
-3,PALB2,Gene
-3,CHEK2,Gene
-3,FANCA c.2602-3C&gt;G,Gene
-3,FANCA,Gene
-4,breast cancer,Disease
-4,cancer,Disease
-4,BRCA1,Gene
-4,BRCA2,Gene
-4,breast,Disease
-4,ovarian cancers,Disease
-4,PARP,Gene
+PMID_Index,Term,Category,Start_Char,End_Char
+0,BRCA1,Gene,28,33
+0,BRCA2,Gene,38,43
+0,breast,Disease,78,84
+0,ovarian cancers,Disease,89,104
+1,cancers,Disease,103,110
+1,BRCA1/2,Disease,195,202
+1,BRCA1,Gene,776,781
+1,BRCA2,Gene,783,788
+1,RAD51,Gene,794,799
+1,Wnt/β-catenin,Gene,851,864
+1,STING,Gene,869,874
+1,ovarian,Disease,1114,1121
+1,breast,Disease,1123,1129
+1,prostate,Disease,1131,1139
+1,hepatocellular carcinoma,Disease,1145,1169
+1,Elsevier Ltd..,Gene,1376,1390
+2,Renal Cell Carcinoma,Disease,29,49
+2,renal cell carcinoma,Disease,111,131
+2,mRCC,Disease,133,137
+2,vascular endothelial growth factor receptor,Gene,1017,1060
+2,sarcomatoid,Disease,1960,1971
+2,polybromo-1,Gene,2307,2318
+2,BRCA1-associated protein 1,Gene,2344,2370
+2,tumors,Disease,2495,2501
+2,VEGF,Gene,3179,3183
+3,Breast cancer,Disease,0,13
+3,BC,Disease,15,17
+3,malignancy,Disease,57,67
+3,tumor,Disease,167,172
+3,p53,Gene,186,189
+3,BRCA1,Gene,191,196
+3,BRCA2,Gene,202,207
+3,TERT,Gene,239,243
+3,FGFR2,Gene,267,272
+3,CHD1,Gene,291,295
+3,formalin-fixed,Disease,681,695
+3,FFPE,Disease,716,720
+3,BC patients,Disease,750,761
+3,benign breast lesions,Disease,799,820
+3,FFPE tissue samples,Disease,961,980
+3,tissue samples,Disease,1308,1322
+3,noncancerous breast tissue,Disease,1431,1457
+3,cancer,Disease,2044,2050
+3,noncancer patients,Disease,2054,2072
+3,Breast Cancer,Disease,2591,2604
+4,Colorectal cancer,Disease,0,17
+4,CRC,Disease,19,22
+4,malignancy,Disease,37,47
+4,CRC patients,Disease,266,278
+4,cancer-associated,Disease,479,496
+4,Cancer,Disease,545,551
+4,PVs,Disease,635,638
+4,cancer,Disease,691,697
+4,CHEK2,Gene,786,791
+4,APC (12.91%,Gene,805,816
+4,MLH1,Gene,831,835
+4,MSH2,Gene,845,849
+4,MSH6,Gene,859,863
+4,MUTYH,Gene,873,878
+4,BRCA1,Gene,892,897
+4,APC,Gene,1080,1083
+4,T,Gene,1090,1091
+4,PMS1,Gene,1119,1123
+4,NBN,Gene,1159,1162
+4,EPCAM,Gene,1178,1183

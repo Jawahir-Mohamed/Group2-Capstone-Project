@@ -1,6 +1,1161 @@
 text,label
 DOCTYPE,ENTITY
 PUBLIC,ENTITY
+"Owner=""NLM""><PMID",ENTITY
+"PubModel=""Print-Electronic""><Journal><ISSN",ENTITY
+"CitedMedium=""Print""><PubDate><Year>2026</Year><Month",ENTITY
+NPJ,ENTITY
+breast cancer</Title><ISOAbbreviation,ENTITY
+NPJ,ENTITY
+Breast Cancer</ISOAbbreviation></Journal><ArticleTitle,ENTITY
+Functional assays,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+variant,ENTITY
+analysis,ENTITY
+tools,ENTITY
+"EIdType=""doi",ENTITY
+"ValidYN=""Y"">10.1038/s41523",ENTITY
+Genetic variants,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+function,ENTITY
+hereditary breast,ENTITY
+ovarian cancers,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+homologous recombination-mediated DNA repair,ENTITY
+interpretation,ENTITY
+variants,ENTITY
+uncertain,ENTITY
+significance,ENTITY
+assays,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+variants,ENTITY
+strengths,ENTITY
+limitations,ENTITY
+approach,ENTITY
+variant,ENTITY
+classification,ENTITY
+clinical,ENTITY
+"CompleteYN=""Y""><Author",ENTITY
+Muthiah</ForeName><Initials,ENTITY
+Rigshospitalet,ENTITY
+Copenhagen University Hospital,ENTITY
+Copenhagen,ENTITY
+Elangoli Ebrahimkutty</ForeName><Initials,ENTITY
+EE</Initials><AffiliationInfo><Affiliation,ENTITY
+Biotech Research,ENTITY
+Innovation Center,ENTITY
+BRIC,ENTITY
+Faculty of Health,ENTITY
+University of Copenhagen,ENTITY
+Copenhagen,ENTITY
+Maria</ForeName><Initials,ENTITY
+Rigshospitalet,ENTITY
+Copenhagen University Hospital,ENTITY
+Copenhagen,ENTITY
+Denmark,ENTITY
+Department,ENTITY
+Faculty of Health,ENTITY
+University of Copenhagen,ENTITY
+Copenhagen,ENTITY
+Denmark,ENTITY
+Claus,ENTITY
+CS</Initials><AffiliationInfo><Affiliation,ENTITY
+Biotech,ENTITY
+Research,ENTITY
+Innovation Center,ENTITY
+BRIC,ENTITY
+Faculty of Health,ENTITY
+University of Copenhagen,ENTITY
+Copenhagen,ENTITY
+Denmark,ENTITY
+claus.storgaard@bric.ku.dk.</Affiliation></AffiliationInfo></Author></AuthorList><Language,ENTITY
+Review</PublicationType></PublicationTypeList><ArticleDate,ENTITY
+"DateType=""Electronic""><Year>2026</Year><Month>04</Month><Day>15</Day></ArticleDate></Article><MedlineJournalInfo><Country",ENTITY
+United States</Country><MedlineTA>,ENTITY
+NPJ,ENTITY
+Breast Cancer</MedlineTA><NlmUniqueID>101674891</NlmUniqueID><ISSNLinking>2374-4677</ISSNLinking></MedlineJournalInfo><CoiStatement>,ENTITY
+interests,ENTITY
+EP20211801,ENTITY
+CRISPR-Select,ENTITY
+University of Copenhagen,ENTITY
+inventors,ENTITY
+C.S.S.,ENTITY
+December,ENTITY
+C.S.S.,ENTITY
+BioPhenyx,ENTITY
+biotechnology company,ENTITY
+CRISPR-Select assays,ENTITY
+authors,ENTITY
+"interests.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus=""medline""><Year>2026</Year><Month>4</Month><Day>16</Day><Hour>13</Hour><Minute>9</Minute></PubMedPubDate><PubMedPubDate",ENTITY
+"PubStatus=""pubmed""><Year>2026</Year><Month>4</Month><Day>16</Day><Hour>13</Hour><Minute>9</Minute></PubMedPubDate><PubMedPubDate",ENTITY
+aheadofprint</PublicationStatus><ArticleIdList><ArticleId,ENTITY
+"IdType=""pubmed"">41986381</ArticleId><ArticleId",ENTITY
+"IdType=""doi"">10.1038/s41523",ENTITY
+"IdType=""pii"">10.1038/s41523",ENTITY
+Antoniou,ENTITY
+Average,ENTITY
+risks,ENTITY
+breast,ENTITY
+ovarian cancer,ENTITY
+associated with,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+mutations,ENTITY
+detected,ENTITY
+case series,ENTITY
+family history,ENTITY
+combined analysis,ENTITY
+studies,ENTITY
+Genet,ENTITY
+(2003).</Citation></Reference><Reference><Citation,ENTITY
+Parmigiani,ENTITY
+G. Meta-analysis,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+penetrance,ENTITY
+Oncol,ENTITY
+Parmigiani,ENTITY
+G. &amp,ENTITY
+S. Breast cancer,ENTITY
+risk,ENTITY
+male,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+mutation,ENTITY
+carriers,ENTITY
+(2007).</Citation></Reference><Reference><Citation,ENTITY
+Germline BRCA,ENTITY
+mutations,ENTITY
+clinicopathologic,ENTITY
+prostate cancer,ENTITY
+Petrucelli,ENTITY
+Daly,ENTITY
+M. B. &amp,ENTITY
+Feldman,ENTITY
+G. L.,ENTITY
+Hereditary breast,ENTITY
+ovarian cancer,ENTITY
+mutations,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+Genet,ENTITY
+Kuchenbaecker,ENTITY
+Risks,ENTITY
+breast,ENTITY
+ovarian,ENTITY
+contralateral breast cancer,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+mutation,ENTITY
+carriers,ENTITY
+JAMA,ENTITY
+Yadav,ENTITY
+S.,ENTITY
+Zakalik,ENTITY
+D. Male,ENTITY
+BRCA,ENTITY
+mutation,ENTITY
+carriers,ENTITY
+clinical characteristics,ENTITY
+cancer spectrum,ENTITY
+BMC Cancer,ENTITY
+(2018).</Citation></Reference><Reference><Citation,ENTITY
+Li,ENTITY
+Cancer,ENTITY
+risks,ENTITY
+associated with,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+pathogenic,ENTITY
+variants,ENTITY
+Oncol,ENTITY
+Standards,ENTITY
+guidelines,ENTITY
+interpretation,ENTITY
+sequence,ENTITY
+variants,ENTITY
+joint,ENTITY
+consensus,ENTITY
+American College of Medical Genetics,ENTITY
+Genomics,ENTITY
+Association,ENTITY
+Molecular Pathology,ENTITY
+Genet,ENTITY
+(2015).</Citation></Reference><Reference><Citation,ENTITY
+Rehm,ENTITY
+ClinGen&#x2014;the,ENTITY
+(2015).</Citation></Reference><Reference><Citation,ENTITY
+Rivera-Mu&#xf1;oz,ENTITY
+E. A. et al.,ENTITY
+ClinGen Variant Curation Expert,ENTITY
+Panel experiences,ENTITY
+standardized processes,ENTITY
+disease,ENTITY
+specification,ENTITY
+ACMG/AMP guidelines,ENTITY
+sequence variant,ENTITY
+interpretation,ENTITY
+Mutat,ENTITY
+M. T. et al.,ENTITY
+Evidence-based recommendations,ENTITY
+gene-specific ACMG/AMP variant,ENTITY
+classification,ENTITY
+ClinGen ENIGMA BRCA1,ENTITY
+BRCA2,ENTITY
+Variant,ENTITY
+Genet,ENTITY
+Harrison,ENTITY
+Biesecker,ENTITY
+Rehm,ENTITY
+H. L. Overview,ENTITY
+specifications,ENTITY
+ACMG/AMP,ENTITY
+interpretation guidelines,ENTITY
+Genet,ENTITY
+e93 (2019).</Citation></Reference><Reference><Citation>Huang,ENTITY
+Functional evaluation,ENTITY
+clinical,ENTITY
+classification,ENTITY
+BRCA2,ENTITY
+variants,ENTITY
+Precision,ENTITY
+screening,ENTITY
+clinical,ENTITY
+classification,ENTITY
+BRCA2-PALB2,ENTITY
+variants,ENTITY
+benign,ENTITY
+pathogenic,ENTITY
+https://doi.org/10.1172/jci181879 (2025).</Citation></Reference><Reference><Citation,ENTITY
+Gudmundsson,ENTITY
+Variant,ENTITY
+interpretation,ENTITY
+population databases,ENTITY
+lessons,ENTITY
+gnomAD,ENTITY
+Mutat,ENTITY
+(2022).</Citation></Reference><Reference><Citation,ENTITY
+Pejaver,ENTITY
+Calibration,ENTITY
+computational tools,ENTITY
+missense variant,ENTITY
+pathogenicity,ENTITY
+classification,ENTITY
+ClinGen,ENTITY
+recommendations,ENTITY
+PP3/BP4 criteria,ENTITY
+Genet,ENTITY
+Allen,ENTITY
+Workshop report,ENTITY
+clinical,ENTITY
+data,ENTITY
+multiplex assays,ENTITY
+variant effect,ENTITY
+MAVEs,ENTITY
+Genet,ENTITY
+(2024).</Citation></Reference><Reference><Citation,ENTITY
+Prakash,ENTITY
+R.,ENTITY
+Zhang,ENTITY
+Feng,ENTITY
+Jasin,ENTITY
+M. Homologous recombination,ENTITY
+human,ENTITY
+health,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+associated proteins,ENTITY
+Cold Spring,ENTITY
+Harb,ENTITY
+a016600 (2015).</Citation></Reference><Reference><Citation,ENTITY
+Kachnic,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+homologous recombination,ENTITY
+DNA replication fidelity,ENTITY
+cellular response,ENTITY
+ionizing radiation,ENTITY
+Oncogene,ENTITY
+(2003).</Citation></Reference><Reference><Citation,ENTITY
+"M. E.,",ENTITY
+Chiu,ENTITY
+Jasin,ENTITY
+M. Brca1 controls,ENTITY
+homology-directed DNA repair,ENTITY
+Cell 4,ENTITY
+(1999).</Citation></Reference><Reference><Citation,ENTITY
+M. E.,ENTITY
+Jasin,ENTITY
+M. BRCA2,ENTITY
+homology-directed repair,ENTITY
+chromosomal breaks,ENTITY
+Cell 7,ENTITY
+263&#x2013;272 (2001).</Citation></Reference><Reference><Citation>Xu,ENTITY
+Z.,ENTITY
+Xie,ENTITY
+Huang,ENTITY
+Huang,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+DNA damage,ENTITY
+replication stress response,ENTITY
+functions,ENTITY
+mechanisms,ENTITY
+cancer treatment,ENTITY
+DNA Repair,ENTITY
+(2025).</Citation></Reference><Reference><Citation,ENTITY
+Daza-Martin,ENTITY
+Isomerization,ENTITY
+BRCA1-BARD1,ENTITY
+promotes,ENTITY
+replication,ENTITY
+fork protection,ENTITY
+Nature,ENTITY
+Citation,ENTITY
+Jasin,ENTITY
+M. A,ENTITY
+replication,ENTITY
+Fanconi anemia,ENTITY
+tumor suppressors,ENTITY
+RAD51-BRCA1/2,ENTITY
+Cancer Cell,ENTITY
+(2012).</Citation></Reference><Reference><Citation,ENTITY
+Double-strand break repair-independent role,ENTITY
+BRCA2,ENTITY
+blocking,ENTITY
+fork degradation,ENTITY
+MRE11,ENTITY
+Cell 145,ENTITY
+529&#x2013;542 (2011).</Citation></Reference><Reference><Citation>Yoshida,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+regulators,ENTITY
+DNA repair,ENTITY
+transcription,ENTITY
+cell cycle,ENTITY
+DNA damage,ENTITY
+(2004).</Citation></Reference><Reference><Citation,ENTITY
+BRCA1,ENTITY
+RNA polymerase II holoenzyme,ENTITY
+USA,ENTITY
+(1997).</Citation></Reference><Reference><Citation,ENTITY
+Monteiro,ENTITY
+A. &amp,ENTITY
+Hanafusa,ENTITY
+H. Evidence,ENTITY
+transcriptional activation function,ENTITY
+BRCA1,ENTITY
+C-terminal region,ENTITY
+USA,ENTITY
+BRCA1,ENTITY
+physically,ENTITY
+associates,ENTITY
+p53,ENTITY
+stimulates,ENTITY
+transcriptional activity,ENTITY
+Oncogene,ENTITY
+Deng,ENTITY
+C. X. BRCA1,ENTITY
+cell cycle checkpoint,ENTITY
+genetic instability,ENTITY
+DNA damage response,ENTITY
+cancer evolution,ENTITY
+Nucleic Acids,ENTITY
+Kastan,ENTITY
+M. B.,ENTITY
+Involvement,ENTITY
+Brca1,ENTITY
+S-phase,ENTITY
+G(2)-phase checkpoints,ENTITY
+ionizing irradiation,ENTITY
+Shabbeer,ENTITY
+BRCA1,ENTITY
+targets,ENTITY
+G2/M cell cycle proteins,ENTITY
+ubiquitination,ENTITY
+proteasomal degradation,ENTITY
+Oncogene,ENTITY
+(2013).</Citation></Reference><Reference><Citation,ENTITY
+Menzel,ENTITY
+genetic screen,ENTITY
+BRCA2,ENTITY
+PALB2,ENTITY
+regulators,ENTITY
+G2 checkpoint maintenance,ENTITY
+EMBO,ENTITY
+705&#x2013;712 (2011).</Citation></Reference><Reference><Citation,ENTITY
+Recommendations,ENTITY
+functional,ENTITY
+evidence,ENTITY
+PS3/BS3,ENTITY
+criterion,ENTITY
+ACMG/AMP sequence,ENTITY
+interpretation framework,ENTITY
+Genome,ENTITY
+M. A.,ENTITY
+Monteiro,ENTITY
+A. N. Functional assays,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+(2007).</Citation></Reference><Reference><Citation,ENTITY
+Radice,ENTITY
+P.,ENTITY
+Caleca,ENTITY
+S.,ENTITY
+variants,ENTITY
+BRCA,ENTITY
+guidelines,ENTITY
+interpretation,ENTITY
+Oncol,ENTITY
+G. A. et al. A,ENTITY
+functional analysis,ENTITY
+BRCA1,ENTITY
+variants,ENTITY
+uncertain,ENTITY
+significance,ENTITY
+Mutat,ENTITY
+(2012).</Citation></Reference><Reference><Citation,ENTITY
+Guidugli,ENTITY
+Assessment,ENTITY
+clinical,ENTITY
+relevance,ENTITY
+BRCA2,ENTITY
+missense,ENTITY
+variants,ENTITY
+functional,ENTITY
+computational approaches,ENTITY
+Genet,ENTITY
+233&#x2013;248 (2018).</Citation></Reference><Reference><Citation>Fernandes,ENTITY
+V. C. et al.,ENTITY
+Impact,ENTITY
+amino acid substitutions,ENTITY
+secondary structures,ENTITY
+BRCT domains,ENTITY
+tumor suppressor BRCA1,ENTITY
+clinical annotation,ENTITY
+(2019).</Citation></Reference><Reference><Citation,ENTITY
+computational model,ENTITY
+classification,ENTITY
+BRCA2,ENTITY
+variants,ENTITY
+mouse embryonic stem cell-based functional assays,ENTITY
+NPJ Genom,ENTITY
+Functional analyses,ENTITY
+germline,ENTITY
+BRCA1,ENTITY
+variants,ENTITY
+transcriptional activation,ENTITY
+homologous recombination repair assays,ENTITY
+BMC Cancer,ENTITY
+Bouwman,ENTITY
+Functional,ENTITY
+BRCA1,ENTITY
+variants,ENTITY
+clinical significance,ENTITY
+homologous recombination,ENTITY
+4559&#x2013;4568 (2020).</Citation></Reference><Reference><Citation>Clark,ENTITY
+Comprehensive,ENTITY
+evaluation,ENTITY
+efficient,ENTITY
+classification,ENTITY
+BRCA1,ENTITY
+RING domain missense,ENTITY
+Genet,ENTITY
+(2022).</Citation></Reference><Reference><Citation,ENTITY
+Caleca,ENTITY
+Radice,ENTITY
+P. Refinement,ENTITY
+assignment,ENTITY
+ACMG/AMP BS3,ENTITY
+PS3 criteria,ENTITY
+BRCA1,ENTITY
+variants,ENTITY
+uncertain,ENTITY
+significance,ENTITY
+functional,ENTITY
+data,ENTITY
+protein interaction assays,ENTITY
+Front,ENTITY
+Oncol,ENTITY
+Mateu-Regu&#xe9,ENTITY
+Mariani,ENTITY
+M. &amp,ENTITY
+F. C. Functional,ENTITY
+protein variants,ENTITY
+structured domains,ENTITY
+fluorescence cross-correlation spectroscopy,ENTITY
+(2026).</Citation></Reference><Reference><Citation,ENTITY
+classification,ENTITY
+BRCA1,ENTITY
+variants,ENTITY
+saturation,ENTITY
+genome editing,ENTITY
+Nature,ENTITY
+217&#x2013;222 (2018).</Citation></Reference><Reference><Citation,ENTITY
+Multiparametric,ENTITY
+functional analysis,ENTITY
+genetic sequence,ENTITY
+variants,ENTITY
+CRISPR-Select,ENTITY
+Genet,ENTITY
+(2022).</Citation></Reference><Reference><Citation,ENTITY
+Billaud,ENTITY
+Functional,ENTITY
+pre-therapeutic,ENTITY
+genome editing,ENTITY
+variants,ENTITY
+uncertain,ENTITY
+significance,ENTITY
+essential,ENTITY
+tumor suppressor genes,ENTITY
+Genome,ENTITY
+(2021).</Citation></Reference><Reference><Citation,ENTITY
+homologous recombination,ENTITY
+phosphopeptide-binding data,ENTITY
+impact,ENTITY
+BRCA1,ENTITY
+BRCT,ENTITY
+variants,ENTITY
+cancer risk,ENTITY
+M. E. et al.,ENTITY
+functional,ENTITY
+data,ENTITY
+pathogenicity,ENTITY
+neutrality,ENTITY
+BRCA2,ENTITY
+DNA-binding-domain,ENTITY
+variants,ENTITY
+uncertain,ENTITY
+significance,ENTITY
+Genet,ENTITY
+(2021).</Citation></Reference><Reference><Citation,ENTITY
+Functional analysis,ENTITY
+clinical,ENTITY
+classification,ENTITY
+germline,ENTITY
+BRCA2,ENTITY
+missense,ENTITY
+variants,ENTITY
+affecting,ENTITY
+DNA binding domain,ENTITY
+Genet,ENTITY
+(2024).</Citation></Reference><Reference><Citation,ENTITY
+Massively parallel,ENTITY
+BRCA1,ENTITY
+RING,ENTITY
+variants,ENTITY
+Genetics,ENTITY
+"(2015).</Citation></Reference><Reference><Citation>Starita, L. M. et al. A multiplex homology-directed DNA repair assay",ENTITY
+impact,ENTITY
+BRCA1,ENTITY
+missense,ENTITY
+substitution,ENTITY
+variants,ENTITY
+protein function,ENTITY
+Genet,ENTITY
+A. I.,ENTITY
+functional,ENTITY
+impact,ENTITY
+BRCA1,ENTITY
+BRCT domain,ENTITY
+variants,ENTITY
+multiplexed DNA double-strand break repair assays,ENTITY
+Genet,ENTITY
+"618&#x2013;630 (2022).</Citation></Reference><Reference><Citation>Diabate, M. et al. DNA repair function scores",ENTITY
+variants,ENTITY
+BRCA1,ENTITY
+amino-terminus,ENTITY
+Genet,ENTITY
+Multiplexed assay,ENTITY
+variant,ENTITY
+residues,ENTITY
+functional,ENTITY
+BRCA1,ENTITY
+coiled-coil,ENTITY
+serine cluster domains,ENTITY
+(2023).</Citation></Reference><Reference><Citation,ENTITY
+Functional evaluation,ENTITY
+cancer risk,ENTITY
+BRCA2,ENTITY
+unclassified,ENTITY
+variants,ENTITY
+Comprehensive,ENTITY
+annotation,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+missense,ENTITY
+variants,ENTITY
+prediction models,ENTITY
+Genet,ENTITY
+(2019).</Citation></Reference><Reference><Citation,ENTITY
+Guidugli,ENTITY
+Functional assays,ENTITY
+analysis,ENTITY
+variants,ENTITY
+uncertain,ENTITY
+significance,ENTITY
+BRCA2,ENTITY
+Mutat,ENTITY
+A. J.,ENTITY
+Thompson,ENTITY
+Jasin,ENTITY
+M. XRCC3,ENTITY
+homology-directed repair,ENTITY
+DNA damage,ENTITY
+mammalian cells,ENTITY
+Genes Dev,ENTITY
+Functional assays,ENTITY
+classification,ENTITY
+BRCA2,ENTITY
+variants,ENTITY
+uncertain,ENTITY
+significance,ENTITY
+(2008).</Citation></Reference><Reference><Citation,ENTITY
+Classification,ENTITY
+BRCA2,ENTITY
+variants,ENTITY
+uncertain,ENTITY
+significance,ENTITY
+VUS,ENTITY
+ACMG/AMP model,ENTITY
+homology-directed repair,ENTITY
+HDR,ENTITY
+functional assay,ENTITY
+Certo,ENTITY
+M. T. et,ENTITY
+Tracking genome engineering,ENTITY
+outcome,ENTITY
+individual,ENTITY
+DNA breakpoints,ENTITY
+(2011).</Citation></Reference><Reference><Citation>Kuznetsov,ENTITY
+Liu,ENTITY
+Sharan,ENTITY
+S. K. Mouse embryonic stem,ENTITY
+evaluate,ENTITY
+mutations,ENTITY
+BRCA2,ENTITY
+(2008).</Citation></Reference><Reference><Citation,ENTITY
+Bouwman,ENTITY
+classification,ENTITY
+BRCA1,ENTITY
+missense variants,ENTITY
+(2013).</Citation></Reference><Reference><Citation,ENTITY
+Mesman,ENTITY
+R. L.,ENTITY
+functional,ENTITY
+impact,ENTITY
+variants,ENTITY
+uncertain,ENTITY
+significance,ENTITY
+BRCA2,ENTITY
+Genet,ENTITY
+Functional,ENTITY
+evaluation,ENTITY
+BRCA2,ENTITY
+variants,ENTITY
+mapping,ENTITY
+PALB2-binding,ENTITY
+C-terminal DNA-binding domains,ENTITY
+mouse ES,ENTITY
+cell-based assay,ENTITY
+Genet,ENTITY
+Li,ENTITY
+Functional,ENTITY
+exon,ENTITY
+BRCA2,ENTITY
+comprehensive,ENTITY
+analysis,ENTITY
+c.6853A&gt;G (p.I2285V),ENTITY
+variant,ENTITY
+Mutat,ENTITY
+(2009).</Citation></Reference><Reference><Citation,ENTITY
+functional,ENTITY
+characterization,ENTITY
+BRCA2,ENTITY
+variants,ENTITY
+associated with,ENTITY
+Fanconi anemia,ENTITY
+mouse ES,ENTITY
+cell-based assay,ENTITY
+Blood,ENTITY
+(2011).</Citation></Reference><Reference><Citation,ENTITY
+splice site,ENTITY
+mutation,ENTITY
+noncoding region,ENTITY
+BRCA2,ENTITY
+Fanconi anemia,ENTITY
+familial breast cancer,ENTITY
+diagnostics,ENTITY
+Mutat,ENTITY
+(2014).</Citation></Reference><Reference><Citation,ENTITY
+Functional,ENTITY
+evaluation,ENTITY
+BRCA2,ENTITY
+unclassified,ENTITY
+variants,ENTITY
+identified,ENTITY
+Sri Lankan,ENTITY
+cohort,ENTITY
+inherited,ENTITY
+cancer syndromes,ENTITY
+mouse embryonic stem cell-based assay,ENTITY
+Breast Cancer,ENTITY
+Tubeuf,ENTITY
+Calibration,ENTITY
+pathogenicity,ENTITY
+variant-induced leaky,ENTITY
+splicing,ENTITY
+defects,ENTITY
+BRCA2,ENTITY
+model system,ENTITY
+Sharan,ENTITY
+premature stop,ENTITY
+generation,ENTITY
+functional,ENTITY
+BRCA2,ENTITY
+exon skipping,ENTITY
+Genet,ENTITY
+Epidemiological,ENTITY
+evaluation,ENTITY
+BRCA2,ENTITY
+variants,ENTITY
+identified,ENTITY
+families,ENTITY
+breast cancer,ENTITY
+Mutat,ENTITY
+(2021).</Citation></Reference><Reference><Citation,ENTITY
+Meulemans,ENTITY
+Skipping,ENTITY
+nonsense,ENTITY
+function,ENTITY
+paradigm,ENTITY
+BRCA2,ENTITY
+exon,ENTITY
+Mesman,ENTITY
+R. L.,ENTITY
+mRNA splicing,ENTITY
+attenuate,ENTITY
+pathogenicity,ENTITY
+loss-of-function,ENTITY
+variants,ENTITY
+BRCA2,ENTITY
+Genet,ENTITY
+(2020).</Citation></Reference><Reference><Citation,ENTITY
+Chang,ENTITY
+Martin,ENTITY
+Sharan,ENTITY
+S. K.,ENTITY
+human,ENTITY
+BRCA1,ENTITY
+variants,ENTITY
+mouse ES,ENTITY
+functional analysis,ENTITY
+BRCA1,ENTITY
+mutations,ENTITY
+(2009).</Citation></Reference><Reference><Citation,ENTITY
+High-throughput,ENTITY
+evaluation,ENTITY
+BRCA2,ENTITY
+variants,ENTITY
+significance,ENTITY
+Commun,ENTITY
+Hayes,ENTITY
+F.,ENTITY
+Cayanan,ENTITY
+C.,ENTITY
+Barilla,ENTITY
+Monteiro,ENTITY
+A. N.,ENTITY
+BRCA1,ENTITY
+mutagenesis,ENTITY
+COOH-terminal region,ENTITY
+critical residues,ENTITY
+transcription activation,ENTITY
+Nepomuceno,ENTITY
+T. C. et al. Assessment,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+germline variant,ENTITY
+data,ENTITY
+patients,ENTITY
+breast cancer,ENTITY
+real-world,ENTITY
+data registry,ENTITY
+JCO,ENTITY
+Clin,ENTITY
+e2300251 (2024).</Citation></Reference><Reference><Citation>Iversen,ENTITY
+E. S. Jr.,ENTITY
+Goldgar,ENTITY
+Tavtigian,ENTITY
+Monteiro,ENTITY
+A. N. A,ENTITY
+computational method,ENTITY
+variants,ENTITY
+uncertain,ENTITY
+significance,ENTITY
+functional,ENTITY
+data,ENTITY
+BRCA1,ENTITY
+Cancer Epidemiol,ENTITY
+Biomark,ENTITY
+Prev,ENTITY
+Nepomuceno,ENTITY
+T. C. et al. Assessment,ENTITY
+in-frame,ENTITY
+C-terminal nonsense,ENTITY
+variants,ENTITY
+BRCA1,ENTITY
+functional assay,ENTITY
+(2022).</Citation></Reference><Reference><Citation,ENTITY
+Nepomuceno,ENTITY
+T. C. et al.,ENTITY
+BRCA1,ENTITY
+frameshift variants,ENTITY
+protein C termini,ENTITY
+HGG,ENTITY
+(2023).</Citation></Reference><Reference><Citation,ENTITY
+Monteiro,ENTITY
+A. N. BRCA1,ENTITY
+transcription,ENTITY
+(2000).</Citation></Reference><Reference><Citation>Vallon-Christersson,ENTITY
+Functional analysis,ENTITY
+BRCA1,ENTITY
+C-terminal missense mutations,ENTITY
+identified,ENTITY
+breast,ENTITY
+ovarian cancer,ENTITY
+families,ENTITY
+Genet,ENTITY
+(2001).</Citation></Reference><Reference><Citation,ENTITY
+Boyle,ENTITY
+"E. A.,",ENTITY
+Hause,ENTITY
+Klein,ENTITY
+Shendure,ENTITY
+Saturation editing,ENTITY
+genomic regions,ENTITY
+multiplex homology-directed repair,ENTITY
+(2014).</Citation></Reference><Reference><Citation,ENTITY
+Saturation,ENTITY
+codons,ENTITY
+exon 13,ENTITY
+BRCA2,ENTITY
+coupled,ENTITY
+chemotherapeutic drug response,ENTITY
+pathogenicity,ENTITY
+variants,ENTITY
+Genet,ENTITY
+(2023).</Citation></Reference><Reference><Citation>Sahu,ENTITY
+Saturation genome editing-based clinical classification,ENTITY
+BRCA2,ENTITY
+variants,ENTITY
+Saturation,ENTITY
+genome editing,ENTITY
+BRCA1,ENTITY
+cell types,ENTITY
+resolves,ENTITY
+cancer risk,ENTITY
+Li,ENTITY
+Functional annotation,ENTITY
+variants,ENTITY
+BRCA2 gene,ENTITY
+locally haploid,ENTITY
+human,ENTITY
+(2024).</Citation></Reference><Reference><Citation,ENTITY
+Erwood,ENTITY
+Saturation variant,ENTITY
+interpretation,ENTITY
+CRISPR,ENTITY
+prime editing,ENTITY
+Biotechnol,ENTITY
+(2022).</Citation></Reference><Reference><Citation,ENTITY
+Billaud,ENTITY
+meta-analysis,ENTITY
+precision functional assays,ENTITY
+FANCM,ENTITY
+regions,ENTITY
+PTVs,ENTITY
+risks,ENTITY
+ER-negative,ENTITY
+triple-negative breast cancer,ENTITY
+(2025).</Citation></Reference><Reference><Citation,ENTITY
+B&#xf6;rcs&#xf6;k,ENTITY
+Quantitative functional profiling,ENTITY
+ERCC2,ENTITY
+mutations,ENTITY
+cisplatin,ENTITY
+sensitivity,ENTITY
+bladder cancer,ENTITY
+https://doi.org/10.1172/jci186688,ENTITY
+Duthoo,ENTITY
+Replication stress,ENTITY
+microcephalic primordial dwarfism,ENTITY
+immunity,ENTITY
+ATRIP,ENTITY
+deficient,ENTITY
+patients,ENTITY
+Frequency,ENTITY
+functional,ENTITY
+characterization,ENTITY
+RUNX1,ENTITY
+germline variants,ENTITY
+myeloid neoplasms,ENTITY
+Mutat,ENTITY
+Li,ENTITY
+G6PC3,ENTITY
+genome,ENTITY
+maintenance,ENTITY
+mammary,ENTITY
+tumor suppressor,ENTITY
+JCI,ENTITY
+https://doi.org/10.1172/jci.insight.186747 (2025).</Citation></Reference><Reference><Citation,ENTITY
+Tavtigian,ENTITY
+Harrison,ENTITY
+Biesecker,ENTITY
+L. G. Fitting,ENTITY
+scaled,ENTITY
+ACMG/AMP variant,ENTITY
+classification,ENTITY
+guidelines,ENTITY
+Mutat,ENTITY
+Tavtigian,ENTITY
+Modeling,ENTITY
+ACMG/AMP variant,ENTITY
+classification,ENTITY
+guidelines,ENTITY
+Bayesian classification framework,ENTITY
+Genet,ENTITY
+Eldomery,ENTITY
+M. K. et al. Evaluation,ENTITY
+Bayesian point-based system,ENTITY
+variant,ENTITY
+classification,ENTITY
+hereditary cancer,ENTITY
+predisposition genes,ENTITY
+Genet,ENTITY
+(2024).</Citation></Reference><Reference><Citation,ENTITY
+Shariant platform,ENTITY
+evidence,ENTITY
+Australian,ENTITY
+clinical,ENTITY
+variant,ENTITY
+interpretation,ENTITY
+Genet,ENTITY
+Consultation,ENTITY
+informs,ENTITY
+improving,ENTITY
+functional,ENTITY
+evidence,ENTITY
+variant,ENTITY
+classification,ENTITY
+Genet,ENTITY
+(2025).</Citation></Reference><Reference><Citation,ENTITY
+M. S. et al.,ENTITY
+improving,ENTITY
+accessibility,ENTITY
+usability,ENTITY
+functional,ENTITY
+data,ENTITY
+unlock,ENTITY
+potential,ENTITY
+variant,ENTITY
+interpretation,ENTITY
+Genet,ENTITY
+(2025).</Citation></Reference><Reference><Citation>Harrison,ENTITY
+Clinical laboratories,ENTITY
+collaborate,ENTITY
+variant,ENTITY
+interpretations,ENTITY
+ClinVar,ENTITY
+Genet,ENTITY
+(2017).</Citation></Reference><Reference><Citation,ENTITY
+Schmidt,ENTITY
+Recommendations,ENTITY
+risk allele,ENTITY
+classification,ENTITY
+reporting,ENTITY
+ClinGen,ENTITY
+Low,ENTITY
+Penetrance/Risk,ENTITY
+Allele,ENTITY
+Working Group,ENTITY
+Genet,ENTITY
+(2024).</Citation></Reference><Reference><Citation,ENTITY
+Reduced,ENTITY
+penetrance,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+pathogenic,ENTITY
+variants,ENTITY
+clinical germline,ENTITY
+genetic testing,ENTITY
+Precis,ENTITY
+Oncol,ENTITY
+(2024).</Citation></Reference><Reference><Citation,ENTITY
+Integration,ENTITY
+functional,ENTITY
+data,ENTITY
+BRCA1/2,ENTITY
+missense,ENTITY
+variants,ENTITY
+ENIGMA,ENTITY
+project,ENTITY
+(2024).</Citation></Reference><Reference><Citation,ENTITY
+Allen,ENTITY
+data,ENTITY
+multiplex assays,ENTITY
+variant,ENTITY
+effect,ENTITY
+CanVIG-UK national survey,ENTITY
+NHS clinical scientists,ENTITY
+Genet,ENTITY
+P. C. M. Jr.,ENTITY
+Integration,ENTITY
+functional,ENTITY
+evidence,ENTITY
+classification,ENTITY
+BRCA1,ENTITY
+variants,ENTITY
+uncertain,ENTITY
+significance,ENTITY
+Genet,ENTITY
+(2021).</Citation></Reference><Reference><Citation,ENTITY
+ClinVar,ENTITY
+access,ENTITY
+variant,ENTITY
+interpretations,ENTITY
+evidence,ENTITY
+Nucleic Acids,ENTITY
+D1062&#x2013;d1067,ENTITY
+"PubModel=""Print-Electronic""><Journal><ISSN",ENTITY
+"IssnType=""Electronic"">2468",ENTITY
+"CitedMedium=""Internet""><Volume>47</Volume><PubDate><Year>2026</Year><Month",ENTITY
+Cancer treatment,ENTITY
+research,ENTITY
+complex,ENTITY
+landscape,ENTITY
+non-coding RNAs,ENTITY
+olaparib response,ENTITY
+"resistance.</ArticleTitle><Pagination><StartPage>101214</StartPage><MedlinePgn>101214</MedlinePgn></Pagination><ELocationID EIdType=""doi",ENTITY
+"ValidYN=""Y"">10.1016/j.ctarc.2026.101214</ELocationID><ELocationID EIdType=""pii",ENTITY
+"ValidYN=""Y""",ENTITY
+S2468,ENTITY
+2942(26)00125,ENTITY
+5</ELocationID><Abstract><AbstractText,ENTITY
+PARPi,ENTITY
+olaparib,ENTITY
+revolutionized,ENTITY
+treatment,ENTITY
+cancers,ENTITY
+deficiencies,ENTITY
+homologous recombination repair,ENTITY
+HRR,ENTITY
+BRCA1/2 mutations,ENTITY
+clinical efficacy,ENTITY
+olaparib,ENTITY
+development,ENTITY
+acquired,ENTITY
+de novo,ENTITY
+resistance,ENTITY
+non-coding RNAs,ENTITY
+miRNAs,ENTITY
+lncRNAs,ENTITY
+circRNAs,ENTITY
+cellular response,ENTITY
+olaparib,ENTITY
+revie,ENTITY
+synthesizes,ENTITY
+findings,ENTITY
+ncRNAs,ENTITY
+olaparib therapy,ENTITY
+ncRNAs,ENTITY
+modulate,ENTITY
+sensitivity,ENTITY
+resistance,ENTITY
+olaparib,ENTITY
+mechanisms,ENTITY
+action,ENTITY
+indirect,ENTITY
+regulation,ENTITY
+HRR genes,ENTITY
+BRCA1,ENTITY
+BRCA2,ENTITY
+RAD51,ENTITY
+alternative signaling pathways,ENTITY
+Wnt/&#x3b2;-catenin,ENTITY
+STING,ENTITY
+olaparib,ENTITY
+treatment,ENTITY
+expression profile,ENTITY
+ncRNAs,ENTITY
+dynamic feedback,ENTITY
+loop,ENTITY
+influence,ENTITY
+therapeutic outcome,ENTITY
+findings,ENTITY
+cancers,ENTITY
+ovarian,ENTITY
+breast,ENTITY
+prostate,ENTITY
+hepatocellular carcinoma,ENTITY
+review,ENTITY
+potential,ENTITY
+ncRNAs,ENTITY
+predictive,ENTITY
+biomarkers,ENTITY
+therapeutic,ENTITY
+targets,ENTITY
+PARPi,ENTITY
+resistance,ENTITY
+patient,ENTITY
+Published,ENTITY
+Elsevier,ENTITY
+"CompleteYN=""Y""><Author ValidYN=""Y""><LastName",ENTITY
+Fatemeh</ForeName><Initials,ENTITY
+F</Initials><AffiliationInfo><Affiliation,ENTITY
+Student,ENTITY
+Research Committee,ENTITY
+Shahid Beheshti University of Medical Sciences,ENTITY
+Tehran,ENTITY
+Ghasemi</LastName><ForeName,ENTITY
+Maryam</ForeName><Initials,ENTITY
+M</Initials><AffiliationInfo><Affiliation,ENTITY
+Student,ENTITY
+Research Committee,ENTITY
+Shahid Beheshti University of Medical Sciences,ENTITY
+Tehran,ENTITY
+A</Initials><AffiliationInfo><Affiliation,ENTITY
+Department,ENTITY
+Gynecology,ENTITY
+Women's Hospital,ENTITY
+Tehran University of Medical Sciences,ENTITY
+Tehran,ENTITY
+Ghafouri-Fard</LastName><ForeName,ENTITY
+Soudeh</ForeName><Initials,ENTITY
+S</Initials><AffiliationInfo><Affiliation,ENTITY
+Shahid Beheshti University of Medical Sciences,ENTITY
+Tehran,ENTITY
+Iran,ENTITY
+Electronic,ENTITY
+s.ghafourifard@sbmu.ac.ir.</Affiliation></AffiliationInfo></Author></AuthorList><Language,ENTITY
+Commun</MedlineTA><NlmUniqueID>101694651</NlmUniqueID><ISSNLinking>2468,ENTITY
+"Owner=""NOTNLM""><Keyword MajorTopicYN=""N"">Olaparib</Keyword><Keyword MajorTopicYN=""N""",ENTITY
+"circRNA</Keyword><Keyword MajorTopicYN=""N"">lncRNA</Keyword><Keyword MajorTopicYN=""N"">miRNA</Keyword></KeywordList><CoiStatement>",ENTITY
+Declaration,ENTITY
+Authors,ENTITY
+"interests.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus=""medline""><Year>2026</Year><Month>4</Month><Day>16</Day><Hour>13</Hour><Minute>9</Minute></PubMedPubDate><PubMedPubDate",ENTITY
+"PubStatus=""pubmed""><Year>2026</Year><Month>4</Month><Day>16</Day><Hour>13</Hour><Minute>9</Minute></PubMedPubDate><PubMedPubDate",ENTITY
+"PubStatus=""received""><Year>2026</Year><Month>2</Month><Day>16</Day></PubMedPubDate><PubMedPubDate PubStatus=""revised""><Year>2026</Year><Month>4</Month><Day>8</Day></PubMedPubDate><PubMedPubDate",ENTITY
+"PubStatus=""accepted""><Year>2026</Year><Month>4</Month><Day>9</Day></PubMedPubDate><PubMedPubDate",ENTITY
+"PubStatus=""entrez""><Year>2026</Year><Month>4</Month><Day>15</Day><Hour>18</Hour><Minute>8</Minute></PubMedPubDate></History><PublicationStatus",ENTITY
+aheadofprint</PublicationStatus><ArticleIdList><ArticleId,ENTITY
+"IdType=""pubmed"">41985435</ArticleId><ArticleId IdType=""doi"">10.1016/j.ctarc.2026.101214</ArticleId><ArticleId IdType=""pii""",ENTITY
+S2468,ENTITY
+5</ArticleId></ArticleIdList></PubmedData></PubmedArticle><PubmedArticle><MedlineCitation,ENTITY
 "Owner=""NLM",ENTITY
 "IssnType=""Electronic"">2574",ENTITY
 "CitedMedium=""Internet""><Volume>9</Volume><Issue>4</Issue><PubDate><Year>2026</Year><Month",ENTITY
@@ -12,6 +1167,8 @@ Favorable,ENTITY
 Risk Group,ENTITY
 Metastatic Renal Cell,ENTITY
 "EIdType=""doi",ENTITY
+"ValidYN=""Y"">10.1001/jamanetworkopen.2026.7030</ELocationID><Abstract",ENTITY
+"AbstractText Label=""IMPORTANCE",ENTITY
 "NlmCategory=""UNASSIGNED""",ENTITY
 International Metastatic Renal Cell Carcinoma Database Consortium,ENTITY
 risk criteria,ENTITY
@@ -180,7 +1337,7 @@ population,ENTITY
 VEGF,ENTITY
 inhibition,ENTITY
 optimal,ENTITY
-"outcomes.</AbstractText></Abstract><AuthorList CompleteYN=""Y""><Author ValidYN=""Y""><L",ENTITY
+"outcomes.</AbstractText></Abstract><AuthorList CompleteYN=""Y""><Author ValidYN=""Y""><LastName",ENTITY
 Zarba</LastName><ForeName,ENTITY
 Martin</ForeName><Initials,ENTITY
 Arthur JE Child Comprehensive Cancer Centre,ENTITY
@@ -199,6 +1356,8 @@ Boston,ENTITY
 Talal</ForeName><Initials,ENTITY
 T</Initials><AffiliationInfo><Affiliation,ENTITY
 Yale University,ENTITY
+Evan</ForeName><Initials,ENTITY
+o><Affiliation,ENTITY
 University of Calgary,ENTITY
 Calgary,ENTITY
 Alberta,ENTITY
@@ -293,6 +1452,7 @@ Department,ENTITY
 Dana-Farber Cancer Institute,ENTITY
 Harvard Medical School,ENTITY
 Boston,ENTITY
+Massachusetts.</Affiliation></Affili,ENTITY
 Arthur JE Child Comprehensive Cancer Centre,ENTITY
 Calgary,ENTITY
 Alberta,ENTITY
@@ -332,8 +1492,6 @@ Monoclonal,ENTITY
 "MajorTopicYN=""N""",ENTITY
 therapeutic,ENTITY
 "PubStatus=""medline""><Year>2026</Year><Month>4</Month><Day>15</Day><Hour>13</Hour><Minute>54</Minute></PubMedPubDate><PubMedPubDate",ENTITY
-"PubStatus=""pubmed""><Year>2026</Year><Month>4</Month><Day>15</Day><Hour>13</Hour><Minute>53</Minute></PubMedPubDate><PubMedPubDate",ENTITY
-ear>2026</Year><Month>4</Month><Day>15</Day><Hour>11</Hour><Minute>34</Minute></PubMedPubDate></History><PublicationStatus,ENTITY
 epublish</PublicationStatus><ArticleIdList><ArticleId,ENTITY
 "IdType=""pubmed"">41984479</ArticleId><ArticleId",ENTITY
 "IdType=""doi"">10.1001/jamanetworkopen.2026.7030</ArticleId><ArticleId",ENTITY
@@ -350,7 +1508,8 @@ Prognostic,ENTITY
 Relevance,ENTITY
 Tumor Genes,ENTITY
 Patients,ENTITY
-"Breast Cancer.</ArticleTitle><Pagination><StartPage>3310843</StartPage><MedlinePgn>3310843</MedlinePgn></Pagination><ELocationID EIdType=""pii",ENTITY
+Breast Cancer.</ArticleTitle><Pagination><StartPage,ENTITY
+"EIdType=""pii",ENTITY
 "ValidYN=""Y"">3310843</ELocationID><ELocationID EIdType=""doi",ENTITY
 "ValidYN=""Y"">10.1155/ijbc/3310843</ELocationID><Abstract><AbstractText",ENTITY
 "Label=""BACKGROUND/OBJECTIVES",ENTITY
@@ -538,6 +1697,8 @@ King,ENTITY
 Riyadh Second Health Cluster,ENTITY
 Riyadh,ENTITY
 Saudi Arabia,ENTITY
+kfmc.med.sa.</Affiliation></Affiliation,ENTITY
+"Info></Author><Author ValidYN=""Y""><LastName>Alqahtani</LastName><ForeName",ENTITY
 Nouf</ForeName><Initials,ENTITY
 N</Initials><AffiliationInfo><Affiliation,ENTITY
 Comprehensive Cancer Center,ENTITY
@@ -599,10 +1760,7 @@ Cancers,ENTITY
 Countries,ENTITY
 CA,ENTITY
 Clinicians,ENTITY
-38572751.</Citat,ENTITY
-ion><ArticleIdList><ArticleId,ENTITY
 "IdType=""doi"">10.3322/caac.21834</ArticleId><ArticleId",ENTITY
-"IdType=""pubmed"">38572751</ArticleId></ArticleIdList></Reference><Reference><Citation>",ENTITY
 Peleg Hasson,ENTITY
 Menes,ENTITY
 Sonnenblick A.,ENTITY
@@ -710,8 +1868,7 @@ Vandin F.,ENTITY
 Lu C.,ENTITY
 M. A.,ENTITY
 Ding L.,ENTITY
-Mutational L,ENTITY
-andscape,ENTITY
+Mutational Landscape,ENTITY
 Significance,ENTITY
 Cancer Types,ENTITY
 Nature,ENTITY
@@ -739,6 +1896,7 @@ Cancer,ENTITY
 Frontiers,ENTITY
 Oncology,ENTITY
 D. F.,ENTITY
+Thompson D.,ENTITY
 Ponder B. A. J.,ENTITY
 Genome-Wide Association Study,ENTITY
 Breast Cancer,ENTITY
@@ -844,7 +2002,7 @@ PMC5204332</ArticleId><ArticleId,ENTITY
 "IdType=""pubmed"">27815305</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
 Cdc25A phosphatase,ENTITY
 combinatorial,ENTITY
-phorylation,ENTITY
+phosphorylation,ENTITY
 ubiquitylation,ENTITY
 proteolysis,ENTITY
 Oncogene,ENTITY
@@ -867,7 +2025,8 @@ Murray B. A.,ENTITY
 Verhaak,ENTITY
 R. G.,ENTITY
 Hammerman P. S.,ENTITY
-Genome,ENTITY
+nome,ENTITY
+Atlas,ENTITY
 M. N.,ENTITY
 Govindan R.,ENTITY
 Meyerson,ENTITY
@@ -972,9 +2131,6 @@ no.,ENTITY
 PMC2360689</ArticleId><ArticleId,ENTITY
 "IdType=""pubmed"">16880779</ArticleId></ArticleIdList></Reference></ReferenceList></PubmedData></PubmedArticle><PubmedArticle><MedlineCitation",ENTITY
 "Owner=""NLM""><PMID",ENTITY
-"Version=""1"">41981019</PMID><DateRevised><Year>2026</Year><Month>04</Month><Day>14</Day></DateRev",ENTITY
-ised><Article,ENTITY
-"PubModel=""Print-Electronic""><Journal><ISSN IssnType=""Electronic"">2045",ENTITY
 "CitedMedium=""Internet""><PubDate><Year>2026</Year><Month",ENTITY
 Scientific,ENTITY
 Germline,ENTITY
@@ -1012,8 +2168,9 @@ exons,ENTITY
 noncoding sequences,ENTITY
 cancer-associated genes,ENTITY
 analyzed,ENTITY
-Illumina TruSight Cancer,ENTITY
-NGS,ENTITY
+Illumi,ENTITY
+TruSight Cancer,ENTITY
+NGS panel,ENTITY
 blood-derived DNA,ENTITY
 patients,ENTITY
 PVs,ENTITY
@@ -1109,8 +2266,7 @@ Kazakhstan,ENTITY
 Ministry of Science,ENTITY
 Republic,ENTITY
 "Kazakhstan</Agency><Country/></Grant></GrantList><PublicationTypeList><PublicationType UI=""D016428"">Journal Article</PublicationType></PublicationTypeList><ArticleDate DateType=""Electronic""><Year>2026</Year><Month>04</Month><Day>14</Day></ArticleDate></Article><MedlineJournalInfo><Country>England</Country><MedlineTA>Sci Rep</MedlineTA><NlmUniqueID>101563288</NlmUniqueID><ISSNLinking>2045-2322</ISSNLinking></MedlineJournalInfo><CitationSubset>IM</CitationSubset><KeywordList Owner=""NOTNLM""><Keyword MajorTopicYN=""N"">Colorectal cancer</Keyword><Keyword MajorTopicYN=""N"">",ENTITY
-Family history of c,ENTITY
-"ancer</Keyword><Keyword MajorTopicYN=""N"">",ENTITY
+"Family history of cancer</Keyword><Keyword MajorTopicYN=""N"">",ENTITY
 "Hereditary tumor syndrome</Keyword><Keyword MajorTopicYN=""N""",ENTITY
 Next-generation,ENTITY
 Pathogenic,ENTITY
@@ -1131,7 +2287,8 @@ minors.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate,ENTI
 "PubStatus=""received""><Year>2026</Year><Month>2</Month><Day>17</Day></PubMedPubDate><PubMedPubDate",ENTITY
 "PubStatus=""accepted""><Year>2026</Year><Month>4</Month><Day>6</Day></PubMedPubDate><PubMedPubDate",ENTITY
 "PubStatus=""medline""><Year>2026</Year><Month>4</Month><Day>15</Day><Hour>0</Hour><Minute>33</Minute></PubMedPubDate><PubMedPubDate",ENTITY
-"PubStatus=""pubmed""><Year>2026</Year><Month>4</Month><Day>15</Day><Hour>0</Hour><Minute>33</Minute></PubMedPubDate><PubMedPubDate PubStatus=""entrez""><Year>2026</Year><Month>4</Month><Day>14</Day><Hour>23</Hour><Minute>20</Minute></PubMedPubDate></History><PublicationStatus",ENTITY
+"PubStatus=""pu",ENTITY
+"bmed""><Year>2026</Year><Month>4</Month><Day>15</Day><Hour>0</Hour><Minute>33</Minute></PubMedPubDate><PubMedPubDate PubStatus=""entrez""><Year>2026</Year><Month>4</Month><Day>14</Day><Hour>23</Hour><Minute>20</Minute></PubMedPubDate></History><PublicationStatus",ENTITY
 "IdType=""pii"">10.1038/s41598",ENTITY
 Kaidarova,ENTITY
 Indicators,ENTITY
@@ -1248,8 +2405,6 @@ Breast cancer,ENTITY
 CHEK2,ENTITY
 carriers,ENTITY
 Genet,ENTITY
-ce><Citation,ENTITY
-Valle,ENTITY
 L.,ENTITY
 Vilar,ENTITY
 E.,ENTITY
@@ -1419,8 +2574,7 @@ Genet,ENTITY
 Thompson,ENTITY
 standardized,ENTITY
 classification,ENTITY
-mism,ENTITY
-atch repair,ENTITY
+mismatch repair,ENTITY
 gene variants,ENTITY
 InSiGHT locus-specific database,ENTITY
 Genet,ENTITY
@@ -1452,7 +2606,8 @@ update,ENTITY
 families,ENTITY
 juvenile polyposis syndrome,ENTITY
 Genet,ENTITY
-https://doi.org/10.1136/jmg.2007.052506,ENTITY
+https://doi.or,ENTITY
+g/10.1136/jmg.2007.052506,ENTITY
 (2007).</Citation></Reference><Reference><Citation,ENTITY
 Macrae,ENTITY
 F. SMAD4,ENTITY
@@ -1549,901 +2704,3 @@ Genomics,ENTITY
 Association,ENTITY
 Molecular Pathology,ENTITY
 Genet,ENTITY
-(2015).</Citation></Reference></ReferenceList></PubmedData></PubmedArticle><PubmedArticle><MedlineCitation,ENTITY
-"Owner=""NLM",ENTITY
-"Version=""1"">41979997</PMID><DateCompleted><Year>2026</Year><Month>04</Month><Day>14</Day></DateCompleted><DateRevised><Year>2026</Year><Month>04</Month><Day>14</Day></DateRevised><Article",ENTITY
-"PubModel=""Print""><Journal><ISSN",ENTITY
-"IssnType=""Print"">0015",ENTITY
-"CitedMedium=""Internet""><Volume>72</Volume><Issue>1</Issue><PubDate><Year>2026</Year></PubDate></JournalIssue><Title>Folia",ENTITY
-Biol (Praha)</ISOAbbreviation></Journal><ArticleTitle,ENTITY
-Short-Term,ENTITY
-Lymphocyte Culture,ENTITY
-Improves,ENTITY
-Diagnostic Yield,ENTITY
-Targeted RNA,ENTITY
-NGS,ENTITY
-Cancer Predisposition,ENTITY
-Testing.</ArticleTitle><Pagination><StartPage>16</StartPage><EndPage>26</EndPage><MedlinePgn>16,ENTITY
-"EIdType=""doi",ENTITY
-next-generation RNA sequencing,ENTITY
-RNA-seq,ENTITY
-germline cancer,ENTITY
-predisposition testing,ENTITY
-diagnostic utility,ENTITY
-low,ENTITY
-expression,ENTITY
-clinically,ENTITY
-genes,ENTITY
-RNA,ENTITY
-yield,ENTITY
-transcript,ENTITY
-representation,ENTITY
-targeted RNA-seq,ENTITY
-short-term,ENTITY
-lymphocyte,ENTITY
-whole blood,ENTITY
-Li-heparin tubes,ENTITY
-systematically,ENTITY
-biological reproducibility,ENTITY
-pre-analytical,ENTITY
-sample handling,ENTITY
-variability,ENTITY
-whole blood,ENTITY
-stored,ENTITY
-days,ENTITY
-lymphocyte,ENTITY
-cultivation,ENTITY
-RNA,ENTITY
-quality/gene expression,ENTITY
-Gene expression,ENTITY
-RNA,ENTITY
-isolated,ENTITY
-K2EDTA,ENTITY
-Tempus tubes,ENTITY
-short-term,ENTITY
-lymphocyte,ENTITY
-increase,ENTITY
-expression,ENTITY
-clinically,ENTITY
-genes,ENTITY
-BRCA1,ENTITY
-BRCA2,ENTITY
-RAD51C,ENTITY
-RAD51D,ENTITY
-PALB2,ENTITY
-CHEK2,ENTITY
-multiple,ENTITY
-Fanconi anaemia genes,ENTITY
-expressed,ENTITY
-whole blood,ENTITY
-Cultivation,ENTITY
-days,ENTITY
-lymphocyte,ENTITY
-gene expression,ENTITY
-flexibility,ENTITY
-dia-gnostics,ENTITY
-protocol,ENTITY
-inhibition,ENTITY
-nonsense-mediated decay,ENTITY
-analysis,ENTITY
-variants,ENTITY
-premature termination,ENTITY
-principle,ENTITY
-splicing,ENTITY
-impact,ENTITY
-FANCA,ENTITY
-c.2602-,ENTITY
-variant,ENTITY
-intron,ENTITY
-cultured lymphocytes,ENTITY
-carrier,ENTITY
-variant,ENTITY
-deletion,ENTITY
-nucleotides,ENTITY
-mature,ENTITY
-transcript,ENTITY
-x394;E28p(-6)/r.2602_2607del,ENTITY
-in-frame deletion,ENTITY
-spliceogenic effect,ENTITY
-detectable,ENTITY
-cultured lymphocytes,ENTITY
-expressing,ENTITY
-transcript,ENTITY
-short-term,ENTITY
-lymphocyte,ENTITY
-flexible,ENTITY
-RNA,ENTITY
-variant,ENTITY
-interpretation,ENTITY
-clinical RNA-seq,ENTITY
-analyses.</AbstractText></Abstract><AuthorList,ENTITY
-"CompleteYN=""Y""><Author",ENTITY
-Marta</ForeName><Initials,ENTITY
-Laboratory,ENTITY
-Diagnostics,ENTITY
-First Faculty,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-General University Hospital,ENTITY
-"Czech Republic.</Affiliation></AffiliationInfo></Author><Author ValidYN=""Y""><LastName",ENTITY
-Mat&#x11b;jkov&#xe1;</LastName><ForeName,ENTITY
-Kate&#x159;ina</ForeName><Initials,ENTITY
-K</Initials><AffiliationInfo><Affiliation,ENTITY
-Department,ENTITY
-Genetics,ENTITY
-Microbiology,ENTITY
-Faculty of Science,ENTITY
-Charles University,ENTITY
-Prague,ENTITY
-Czech Republic.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Institute of,ENTITY
-Laboratory,ENTITY
-Diagnostics,ENTITY
-First Faculty,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-General University Hospital,ENTITY
-"Czech Republic.</Affiliation></AffiliationInfo></Author><Author ValidYN=""Y""><LastName",ENTITY
-T</Initials><AffiliationInfo><Affiliation,ENTITY
-Laboratory,ENTITY
-Diagnostics,ENTITY
-First Faculty,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-General University Hospital,ENTITY
-"Czech Republic.</Affiliation></AffiliationInfo></Author><Author ValidYN=""Y""><LastName",ENTITY
-Petr</ForeName><Initials,ENTITY
-P</Initials><AffiliationInfo><Affiliation,ENTITY
-Department,ENTITY
-Paediatrics,ENTITY
-Inherited,ENTITY
-Metabolic Disorders,ENTITY
-First Faculty,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-General University Hospital,ENTITY
-Czech Republic.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Institute of,ENTITY
-Laboratory,ENTITY
-Diagnostics,ENTITY
-First Faculty,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-General University Hospital,ENTITY
-Czech Republic.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Institute,ENTITY
-Pathological,ENTITY
-Physiology,ENTITY
-First Faculty,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-Prague,ENTITY
-"Czech Republic.</Affiliation></AffiliationInfo></Author><Author ValidYN=""Y""><LastName",ENTITY
-Mihalov&#xe1;</LastName><ForeName,ENTITY
-Romana</ForeName><Initials,ENTITY
-R</Initials><AffiliationInfo><Affiliation,ENTITY
-Biology,ENTITY
-Medical Genetics,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-General University Hospital,ENTITY
-"Czech Republic.</Affiliation></AffiliationInfo></Author><Author ValidYN=""Y""><LastName",ENTITY
-Vesel&#xe1;</LastName><ForeName,ENTITY
-Kamila</ForeName><Initials,ENTITY
-K</Initials><AffiliationInfo><Affiliation,ENTITY
-Biology,ENTITY
-Medical Genetics,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-General University Hospital,ENTITY
-"Czech Republic.</Affiliation></AffiliationInfo></Author><Author ValidYN=""Y""><LastName",ENTITY
-Janatov&#xe1;</LastName><ForeName,ENTITY
-Laboratory,ENTITY
-Diagnostics,ENTITY
-First Faculty,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-General University Hospital,ENTITY
-"Czech Republic.</Affiliation></AffiliationInfo></Author><Author ValidYN=""Y""><LastName",ENTITY
-Soukupov,ENTITY
-xe1;</LastName><ForeName,ENTITY
-Jana</ForeName><Initials,ENTITY
-J</Initials><AffiliationInfo><Affiliation,ENTITY
-Laboratory,ENTITY
-Diagnostics,ENTITY
-First Faculty,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-General University Hospital,ENTITY
-"Czech Republic.</Affiliation></AffiliationInfo></Author><Author ValidYN=""Y""><LastName",ENTITY
-Petra</ForeName><Initials,ENTITY
-P</Initials><AffiliationInfo><Affiliation,ENTITY
-Biology,ENTITY
-Medical Genetics,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-General University Hospital,ENTITY
-Czech Republic,ENTITY
-Laboratory,ENTITY
-Diagnostics,ENTITY
-First Faculty,ENTITY
-Medicine,ENTITY
-Charles University,ENTITY
-General University Hospital,ENTITY
-Czech Republic,ENTITY
-"CompleteYN=""Y""><Grant><GrantID>",ENTITY
-NU23,ENTITY
-Ministerstvo Zdravotnictv&#xed,ENTITY
-Cesk&#xe9,ENTITY
-Republiky</Agency><Country/></Grant><Grant><GrantID,ENTITY
-RVO-VFN,ENTITY
-Ministerstvo Zdravotnictv&#xed,ENTITY
-Cesk&#xe9,ENTITY
-Republiky</Agency><Country/></Grant><Grant><GrantID,ENTITY
-CZ.02.01.01/00/23_020/0008540</GrantID><Agency,ENTITY
-Ministerstvo,ENTITY
-x160;kolstv&#xed,ENTITY
-Ml&#xe1;de&#x17e;e,ENTITY
-T&#x11b;lov&#xfd;chovy</Agency><Country/></Grant><Grant><GrantID,ENTITY
-SVV,ENTITY
-Journal Article</PublicationType></PublicationTypeList></Article><MedlineJournalInfo><Country>,ENTITY
-Czech Republic</Country><MedlineTA,ENTITY
-5500</ISSNLinking></MedlineJournalInfo><CitationSubset,ENTITY
-"UI=""Q000166"" MajorTopicYN=""N"">cytology</QualifierName></MeshHeading><MeshHeading><DescriptorName UI=""D009369"" MajorTopicYN=""Y""",ENTITY
-"UI=""Q000175"" MajorTopicYN=""N"">diagnosis</QualifierName></MeshHeading><MeshHeading><DescriptorName",ENTITY
-"MajorTopicYN=""Y""",ENTITY
-"MajorTopicYN=""N""",ENTITY
-"UI=""D020022",ENTITY
-Genetic Predisposition,ENTITY
-"MajorTopicYN=""N""",ENTITY
-Cells,ENTITY
-Cultured</DescriptorName></MeshHeading><MeshHeading><DescriptorName,ENTITY
-Reproducibility,ENTITY
-Results</DescriptorName></MeshHeading></MeshHeadingList><KeywordList,ENTITY
-"Owner=""NOTNLM""><Keyword MajorTopicYN=""N"">CZECANCA</Keyword><Keyword MajorTopicYN=""N"">FANCA</Keyword><Keyword MajorTopicYN=""N""",ENTITY
-NGS</Keyword><Keyword,ENTITY
-"NMDi</Keyword><Keyword MajorTopicYN=""N"">",ENTITY
-RNA</Keyword><Keyword,ENTITY
-aberrant,ENTITY
-"splicing</Keyword><Keyword MajorTopicYN=""N""",ENTITY
-"splicing</Keyword><Keyword MajorTopicYN=""N"">gene",ENTITY
-germline,ENTITY
-genetic testing</Keyword><Keyword,ENTITY
-hereditary cancer,ENTITY
-"predisposition</Keyword><Keyword MajorTopicYN=""N"">lymphocyte culture</Keyword><Keyword MajorTopicYN=""N"">reproducibility</Keyword><Keyword MajorTopicYN=""N"">sequence capture</Keyword></KeywordList></MedlineCitation><PubmedData><History><PubMedPubDate",ENTITY
-"PubStatus=""medline""><Year>2026</Year><Month>4</Month><Day>14</Day><Hour>18</Hour><Minute>34</Minute></PubMedPubDate><PubMedPubDate",ENTITY
-"PubStatus=""pubmed""><Year>2026</Year><Month>4</Month><Day>14</Day><Hour>18</Hour><Minute>33</Minute></PubMedPubDate><PubMedPubDate",ENTITY
-"PubStatus=""entrez""><Year>2026</Year><Month>4</Month><Day>14</Day><Hour>13</Hour><Minute>13</Minute></PubMedPubDate></History><PublicationStatus",ENTITY
-ppublish</PublicationStatus><ArticleIdList><ArticleId,ENTITY
-"IdType=""pubmed"">41979997</ArticleId><ArticleId IdType=""doi"">10.14712/fb2026.0001</ArticleId><ArticleId IdType=""pii""",ENTITY
-"Status=""PubMed-not-MEDLINE",ENTITY
-"Version=""1"">41978872</PMID><DateCompleted><Year>2026</Year><Month>04</Month><Day>14</Day></DateCompleted><DateRevised><Year>2026</Year><Month>04</Month><Day>14</Day></DateRevised><Article",ENTITY
-"PubModel=""Print""><Journal><ISSN",ENTITY
-Mar</Month,ENTITY
-Genetic Testing,ENTITY
-Breast Cancer,ENTITY
-Narrative Review,ENTITY
-Clinical Insights.</ArticleTitle><Pagination><StartPage>176</StartPage><EndPage>184</EndPage><MedlinePgn>176,ENTITY
-184</MedlinePgn></Pagination><ELocationID,ENTITY
-"EIdType=""doi",ENTITY
-"ValidYN=""Y"">10.26574/maedica.2026.21.1.176</ELocationID><Abstract><AbstractText",ENTITY
-"NlmCategory=""UNASSIGNED""",ENTITY
-hereditary breast cancer,ENTITY
-germline pathogenic,ENTITY
-variants,ENTITY
-influence,ENTITY
-lifetime,ENTITY
-cancer risk,ENTITY
-surveillance,ENTITY
-preventive strategies,ENTITY
-targeted,ENTITY
-treatments,ENTITY
-breast cancer genes,ENTITY
-BRCA1,ENTITY
-BRCA2,ENTITY
-hereditary breast,ENTITY
-ovarian cancers,ENTITY
-progress,ENTITY
-cancer genetics,ENTITY
-clinical practice,ENTITY
-multigene testing,ENTITY
-"Label=""METHODS"" NlmCategory=""UNASSIGNED"">",ENTITY
-reviewed,ENTITY
-literature,ENTITY
-molecular basis,ENTITY
-hereditary breast cancer,ENTITY
-genetic testing,ENTITY
-guideline-based indications,ENTITY
-psychological,ENTITY
-ethical,ENTITY
-social challenges,ENTITY
-genetic risk,ENTITY
-"NlmCategory=""UNASSIGNED""",ENTITY
-Next-generation sequencing,ENTITY
-(NGS)-based,ENTITY
-multigene panels,ENTITY
-efficient,ENTITY
-identification,ENTITY
-high-,ENTITY
-moderate-penetrance,ENTITY
-variants,ENTITY
-personalized,ENTITY
-risk-reducing,ENTITY
-interventions,ENTITY
-treatment selection,ENTITY
-eligibility,ENTITY
-enzyme,ENTITY
-ribose polymerase (,ENTITY
-inhibitors,ENTITY
-clinical implementation,ENTITY
-persistent barriers,ENTITY
-variants,ENTITY
-uncertain,ENTITY
-significance,ENTITY
-genetic counselling,ENTITY
-testing,ENTITY
-"NlmCategory=""UNASSIGNED""",ENTITY
-Genetic testing,ENTITY
-breast cancer,ENTITY
-bridging prevention,ENTITY
-precision oncology,ENTITY
-access,ENTITY
-strengthening,ENTITY
-counselling pathways,ENTITY
-variant,ENTITY
-interpretation,ENTITY
-genomic,ENTITY
-clinical benefits.</AbstractText></Abstract><AuthorList,ENTITY
-Iulia</ForeName><Initials,ENTITY
-"I</Initials><AffiliationInfo><Affiliation>""Carol Davila",ENTITY
-University of Medicine,ENTITY
-Pharmacy,ENTITY
-Bucharest,ENTITY
-Romania.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>General Surgery Department,ENTITY
-Claudiu-Octavian</ForeName><Initials,ENTITY
-University of Medicine,ENTITY
-Pharmacy,ENTITY
-Bucharest,ENTITY
-Romania.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>General Surgery Department,ENTITY
-"RA</Initials><AffiliationInfo><Affiliation>""Carol Davila",ENTITY
-University of Medicine,ENTITY
-Pharmacy,ENTITY
-Bucharest,ENTITY
-Romania.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>General Surgery Department,ENTITY
-Carmen</ForeName><Initials,ENTITY
-"C</Initials><AffiliationInfo><Affiliation>""Carol Davila",ENTITY
-University of Medicine,ENTITY
-Pharmacy,ENTITY
-Bucharest,ENTITY
-Romania.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Plastic Surgery Department,ENTITY
-Grigorean</LastName><ForeName,ENTITY
-Valentin,ENTITY
-Titus</ForeName><Initials,ENTITY
-"VT</Initials><AffiliationInfo><Affiliation>""Carol Davila",ENTITY
-University of Medicine,ENTITY
-Pharmacy,ENTITY
-Bucharest,ENTITY
-Romania.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>General Surgery Department,ENTITY
-Bagdasar-Arseni,ENTITY
-Clinical Emergency Hospital,ENTITY
-Roca</LastName><ForeName,ENTITY
-Daniela</ForeName><Initials,ENTITY
-D</Initials><AffiliationInfo><Affiliation,ENTITY
-Oncology Department,ENTITY
-Raluca</ForeName><Initials,ENTITY
-"R</Initials><AffiliationInfo><Affiliation>""Carol",ENTITY
-Davila,ENTITY
-University of Medicine,ENTITY
-Pharmacy,ENTITY
-Bucharest,ENTITY
-Romania.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Oncology Department,ENTITY
-Trestioreanu,ENTITY
-Oncological Institute,ENTITY
-Iordache</LastName><ForeName,ENTITY
-Niculae</ForeName><Initials,ENTITY
-"N</Initials><AffiliationInfo><Affiliation>""Carol Davila",ENTITY
-University of Medicine,ENTITY
-Pharmacy,ENTITY
-Bucharest,ENTITY
-Romania.</Affiliation></AffiliationInfo,ENTITY
-General Surgery Department,ENTITY
-Bucharest,ENTITY
-Romania.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation,ENTITY
-Academy of,ENTITY
-Romanian Scientists,ENTITY
-Bucharest,ENTITY
-Octav</ForeName><Initials,ENTITY
-"O</Initials><AffiliationInfo><Affiliation>""Carol",ENTITY
-Davila,ENTITY
-University of Medicine,ENTITY
-Pharmacy,ENTITY
-Bucharest,ENTITY
-Romania.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>General Surgery Department,ENTITY
-Trestioreanu,ENTITY
-Oncological Institute,ENTITY
-Bucharest,ENTITY
-Romania.</Affiliation></AffiliationInfo></Author></AuthorList><Language,ENTITY
-9038</ISSNLinking></MedlineJournalInfo><KeywordList,ENTITY
-"Owner=""NOTNLM""><Keyword MajorTopicYN=""N"">BRCA1</Keyword><Keyword MajorTopicYN=""N"">BRCA2</Keyword><Keyword MajorTopicYN=""N"">PARP",ENTITY
-"inhibitors</Keyword><Keyword MajorTopicYN=""N"">",ENTITY
-"genetic counselling</Keyword><Keyword MajorTopicYN=""N"">",ENTITY
-"genetic testing</Keyword><Keyword MajorTopicYN=""N""",ENTITY
-hereditary breast cancer</Keyword><Keyword,ENTITY
-multigene,ENTITY
-declared.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate,ENTITY
-"PubStatus=""received""><Year>2026</Year><Month>1</Month><Day>26</Day></PubMedPubDate><PubMedPubDate",ENTITY
-"PubStatus=""accepted""><Year>2026</Year><Month>3</Month><Day>6</Day></PubMedPubDate><PubMedPubDate",ENTITY
-"PubStatus=""medline""><Year>2026</Year><Month>4</Month><Day>14</Day><Hour>6</Hour><Minute>32</Minute></PubMedPubDate><PubMedPubDate",ENTITY
-"PubStatus=""pubmed""><Year>2026</Year><Month>4</Month><Day>14</Day><Hour>6</Hour><Minute>31</Minute></PubMedPubDate><PubMedPubDate",ENTITY
-"PubStatus=""entrez""><Year>2026</Year><Month>4</Month><Day>14</Day><Hour>4</Hour><Minute>8</Minute></PubMedPubDate><PubMedPubDate",ENTITY
-"PubStatus=""pmc-release""><Year>2026</Year><Month>3</Month><Day>1</Day></PubMedPubDate></History><PublicationStatus",ENTITY
-ppublish</PublicationStatus><ArticleIdList><ArticleId,ENTITY
-"IdType=""pubmed"">41978872</ArticleId><ArticleId IdType=""pmc"">",ENTITY
-"PMC13061465</ArticleId><ArticleId IdType=""doi"">10.26574/maedica.2026.21.1.176</ArticleId></ArticleIdList><ReferenceList><Reference><Citation>Sung H",ENTITY
-RL,ENTITY
-Global Cancer,ENTITY
-GLOBOCAN,ENTITY
-Estimates,ENTITY
-Incidence,ENTITY
-Mortality,ENTITY
-Cancers,ENTITY
-Countries,ENTITY
-CA Cancer J,ENTITY
-"IdType=""pubmed"">33538338</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Colombet M,ENTITY
-Soerjomataram I,ENTITY
-Cancer statistics,ENTITY
-year,ENTITY
-overview,ENTITY
-Int J Cancer,ENTITY
-"IdType=""pubmed"">33818764</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Steel M,ENTITY
-Thompson A,ENTITY
-Genetic aspects,ENTITY
-breast cancer,ENTITY
-"IdType=""pubmed"">1933230</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Vogelstein B,ENTITY
-Papadopoulos N,ENTITY
-Velculescu VE,ENTITY
-Cancer genome,ENTITY
-landscapes,ENTITY
-Science,ENTITY
-"PMC3749880</ArticleId><ArticleId IdType=""pubmed"">23539594</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Turnbull C,ENTITY
-Genetic predisposition,ENTITY
-breast cancer,ENTITY
-present,ENTITY
-future,ENTITY
-Annu,ENTITY
-"IdType=""pubmed"">18544032</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Wendt C,ENTITY
-Margolin,ENTITY
-breast cancer,ENTITY
-susceptibility,ENTITY
-review,ENTITY
-genetic background,ENTITY
-familial breast cancer,ENTITY
-Acta Oncol (,ENTITY
-Madr,ENTITY
-"IdType=""pubmed"">30606073</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Robson ME,ENTITY
-Bradbury,ENTITY
-AR,ENTITY
-Arun B,ENTITY
-American Society of Clinical Oncology Policy Statement Update,ENTITY
-Genetic,ENTITY
-Genomic Testing,ENTITY
-Cancer Susceptibility,ENTITY
-"IdType=""pubmed"">26324357</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Kurian,ENTITY
-AW,ENTITY
-Hare EE,ENTITY
-Mills MA,ENTITY
-Clinical evaluation,ENTITY
-multiple-gene sequencing panel,ENTITY
-hereditary cancer,ENTITY
-risk assessment,ENTITY
-PMC4067941</ArticleId><ArticleId,ENTITY
-EDF,ENTITY
-Serrano D,ENTITY
-Cazzaniga L,ENTITY
-Hereditary Breast Cancer,ENTITY
-Comprehensive,ENTITY
-Risk Assessment,ENTITY
-Prevention Strategies,ENTITY
-Genes,ENTITY
-Basel,ENTITY
-"pmc""",ENTITY
-PMC11764557</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">39858629</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Walsh N,ENTITY
-Cooper A,ENTITY
-Dockery A,ENTITY
-Variant,ENTITY
-reclassification,ENTITY
-clinical,ENTITY
-"IdType=""pubmed"">38296635</ArticleId></ArticleIdList></Reference><Reference><Citation>",ENTITY
-Nguyen,ENTITY
-JV,ENTITY
-Thomas,ENTITY
-MH,ENTITY
-BRCA,ENTITY
-Review,ENTITY
-Hereditary Syndromes,ENTITY
-Predisposing,ENTITY
-Breast Cancer,ENTITY
-Breast Imaging,ENTITY
-2019;1:84&#x2013;91.</Citation><ArticleIdList><ArticleId,ENTITY
-"IdType=""pubmed"">38424924</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Daly,ENTITY
-MB,ENTITY
-Pal T,ENTITY
-Maxwell KN,ENTITY
-NCCN Guidelines&#xae,ENTITY
-Genetic/Familial,ENTITY
-High-Risk Assessment,ENTITY
-Breast,ENTITY
-Ovarian,ENTITY
-Pancreatic,ENTITY
-Version,ENTITY
-Featured,ENTITY
-Updates,ENTITY
-NCCN,ENTITY
-Guidelines,ENTITY
-National Comprehensive Cancer,ENTITY
-"IdType=""pubmed"">37856201</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Rebbeck TR,ENTITY
-TM,ENTITY
-Friedman E,ENTITY
-Mutational spectrum,ENTITY
-study,ENTITY
-families,ENTITY
-BRCA1,ENTITY
-BRCA2,ENTITY
-mutations,ENTITY
-Mutat,ENTITY
-"IdType=""pubmed"">29446198</ArticleId></ArticleIdList></Reference><Reference><Citation>",ENTITY
-Owens DK,ENTITY
-Davidson KW,ENTITY
-Krist AH,ENTITY
-Risk Assessment,ENTITY
-Genetic Counseling,ENTITY
-Genetic Testing,ENTITY
-BRCA-Related Cancer,ENTITY
-US,ENTITY
-Preventive Services,ENTITY
-Task Force,ENTITY
-JAMA,ENTITY
-"IdType=""pubmed"">31429903</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Loibl S,ENTITY
-Andr&#xe9,ENTITY
-F,ENTITY
-Bachelot T,ENTITY
-Early breast cancer,ENTITY
-ESMO,ENTITY
-Guideline,ENTITY
-diagnosis,ENTITY
-treatment,ENTITY
-follow-up,ENTITY
-"IdType=""pubmed"">38101773</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Hampel H,ENTITY
-Bennett RL,ENTITY
-Buchanan A,ENTITY
-practice guideline,ENTITY
-American College of Medical Genetics,ENTITY
-Genomics,ENTITY
-National Society of Genetic Counselors,ENTITY
-referral indications,ENTITY
-cancer predisposition,ENTITY
-Genet Med,ENTITY
-"IdType=""pubmed"">25394175</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Droin-Mollard M,ENTITY
-Montgolfier S,ENTITY
-Gimenez-Roqueplo AP,ENTITY
-Psychological,ENTITY
-ethical issues,ENTITY
-genomic,ENTITY
-paediatric care pathway,ENTITY
-qualitative analysis,ENTITY
-parents,ENTITY
-childhood cancer,ENTITY
-patients,ENTITY
-European Journal,ENTITY
-Human,ENTITY
-Genetics,ENTITY
-"IdType=""pubmed"">38997469</ArticleId></ArticleIdList></Reference><Reference><Citation>Hamilton JG",ENTITY
-Lobel M,ENTITY
-Moyer A.,ENTITY
-Emotional distress,ENTITY
-genetic testing,ENTITY
-hereditary breast,ENTITY
-ovarian cancer,ENTITY
-meta-analytic review,ENTITY
-Health Psychol,ENTITY
-PMC2807362</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">19594276</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Offit K,ENTITY
-Groeger E,ENTITY
-Turner S,ENTITY
-Duty,ENTITY
-Patient's,ENTITY
-Family Members,ENTITY
-Hereditary Disease,ENTITY
-Risks,ENTITY
-JAMA,ENTITY
-"IdType=""pubmed"">15383518</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Venkitaraman AR,ENTITY
-Cancer susceptibility,ENTITY
-functions,ENTITY
-BRCA1,ENTITY
-BRCA2,ENTITY
-Cell,ENTITY
-"IdType=""pubmed"">11832208</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Miki Y,ENTITY
-Swensen J,ENTITY
-Shattuck-Eidens D,ENTITY
-breast,ENTITY
-ovarian cancer,ENTITY
-Science,ENTITY
-"IdType=""pubmed"">7545954</ArticleId></ArticleIdList></Reference><Reference><Citation>Wooster R",ENTITY
-Bignell G,ENTITY
-Lancaster J,ENTITY
-Identification,ENTITY
-breast cancer,ENTITY
-BRCA2,ENTITY
-Nature,ENTITY
-"IdType=""pubmed"">8524414</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Antoniou A,ENTITY
-Pharoah PDP,ENTITY
-Narod S,ENTITY
-Average,ENTITY
-risks,ENTITY
-breast,ENTITY
-ovarian cancer,ENTITY
-associated with,ENTITY
-BRCA1,ENTITY
-BRCA2,ENTITY
-mutations,ENTITY
-detected,ENTITY
-case Series,ENTITY
-unselected,ENTITY
-family history,ENTITY
-combined analysis,ENTITY
-studies,ENTITY
-PMC1180265</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">12677558</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Kuchenbaecker KB,ENTITY
-Hopper JL,ENTITY
-Barnes,ENTITY
-DR,ENTITY
-Risks,ENTITY
-Breast,ENTITY
-Ovarian,ENTITY
-Contralateral Breast Cancer,ENTITY
-BRCA1,ENTITY
-BRCA2,ENTITY
-Mutation,ENTITY
-Carriers,ENTITY
-JAMA,ENTITY
-"IdType=""pubmed"">28632866</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Ponder B,ENTITY
-Pharoah PDP,ENTITY
-Ponder,ENTITY
-BAJ,ENTITY
-Prevalence,ENTITY
-penetrance,ENTITY
-BRCA1,ENTITY
-BRCA2,ENTITY
-ations,ENTITY
-population-based series,ENTITY
-breast cancer,ENTITY
-cases,ENTITY
-Anglian Breast Cancer Study,ENTITY
-Group,ENTITY
-Br J Cancer,ENTITY
-"IdType=""pubmed"">11044354</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Hartge P,ENTITY
-Struewing JP,ENTITY
-Wacholder S,ENTITY
-prevalence,ENTITY
-BRCA1,ENTITY
-BRCA2,ENTITY
-mutations,ENTITY
-Jews,ENTITY
-PMC1377820</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">10090881</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Loman N,ENTITY
-Kristoffersson U,ENTITY
-Family history of,ENTITY
-breast,ENTITY
-ovarian cancers,ENTITY
-BRCA1,ENTITY
-BRCA2,ENTITY
-mutations,ENTITY
-population-based series,ENTITY
-early-onset,ENTITY
-breast cancer,ENTITY
-"IdType=""pubmed"">11504767</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-KN,ENTITY
-Vachon CM,ENTITY
-Couch FJ,ENTITY
-Genetic susceptibility,ENTITY
-triple-negative breast cancer,ENTITY
-PMC3654815</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">23536562</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Varley JM,ENTITY
-Germline,ENTITY
-TP53,ENTITY
-mutations,ENTITY
-Li-Fraumeni syndrome,ENTITY
-Mutat,ENTITY
-"IdType=""pubmed"">12619118</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Antoniou,ENTITY
-AC,ENTITY
-Casadei S,ENTITY
-Heikkinen T,ENTITY
-Breast-Cancer Risk,ENTITY
-Families,ENTITY
-Mutations,ENTITY
-PALB2,ENTITY
-PMC4157599</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">25099575</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Hansford S,ENTITY
-Kaurah P,ENTITY
-Li-Chang,ENTITY
-Hereditary Diffuse Gastric Cancer Syndrome,ENTITY
-CDH1,ENTITY
-Mutations,ENTITY
-"IdType=""pubmed"">26182300</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Bubien V,ENTITY
-Bonnet F,ENTITY
-Brouste V,ENTITY
-cumulative,ENTITY
-risks of,ENTITY
-cancer,ENTITY
-patients,ENTITY
-PTEN,ENTITY
-tumour syndrome,ENTITY
-"IdType=""pubmed"">23335809</ArticleId></ArticleIdList></Reference><Reference><Citation>Hearle N",ENTITY
-Schumacher V,ENTITY
-Menko,ENTITY
-FH,ENTITY
-Frequency,ENTITY
-spectrum,ENTITY
-cancers,ENTITY
-Peutz-Jeghers syndrome,ENTITY
-Clinical Cancer,ENTITY
-Research,ENTITY
-"IdType=""pubmed"">16707622</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Dorling L,ENTITY
-Carvalho S,ENTITY
-Breast cancer,ENTITY
-risks,ENTITY
-associated with,ENTITY
-missense,ENTITY
-variants,ENTITY
-breast cancer,ENTITY
-susceptibility genes,ENTITY
-Genome,ENTITY
-PMC9116026</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">35585550</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Meijers-Heijboer,ENTITY
-Van den Ouweland A,ENTITY
-Klijn J,ENTITY
-Low-penetrance,ENTITY
-susceptibility,ENTITY
-breast cancer,ENTITY
-CHEK2*1100delC,ENTITY
-noncarriers,ENTITY
-BRCA1,ENTITY
-BRCA2,ENTITY
-mutations,ENTITY
-CHEK2-breast cancer,ENTITY
-consortium,ENTITY
-Genet,ENTITY
-"IdType=""pubmed"">11967536</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Hall MJ,ENTITY
-Bernhisel R,ENTITY
-Hughes E,ENTITY
-Germline,ENTITY
-Pathogenic,ENTITY
-Variants,ENTITY
-Ataxia Telangiectasia,ENTITY
-Associated with,ENTITY
-High,ENTITY
-Moderate,ENTITY
-Risks,ENTITY
-Multiple Cancers,ENTITY
-Phila,ENTITY
-PMC8026745</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">33509806</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-DF,ENTITY
-Pharoah PDP,ENTITY
-Antoniou AC,ENTITY
-Gene-Panel Sequencing,ENTITY
-Prediction,ENTITY
-Breast-Cancer Risk,ENTITY
-"IdType=""pubmed"">26014596</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Bertozzi S,ENTITY
-Londero AP,ENTITY
-Xholli A,ENTITY
-Risk-Reducing,ENTITY
-Breast,ENTITY
-Gynecological Surgery,ENTITY
-BRCA,ENTITY
-Mutation Carriers,ENTITY
-Narrative Review,ENTITY
-PMC9967164</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">36835955</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Shimelis H,ENTITY
-Hu C,ENTITY
-Cancer Predisposition Testing,ENTITY
-Panel Genes,ENTITY
-Breast Cancer,ENTITY
-Oncol,ENTITY
-PMC5599323</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">28418444</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Couch FJ,ENTITY
-Shimelis H,ENTITY
-Hu C,ENTITY
-Cancer Predisposition Testing,ENTITY
-Panel Genes,ENTITY
-Breast Cancer,ENTITY
-Oncol,ENTITY
-PMC5599323</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">28418444</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Eccles,ENTITY
-EB,ENTITY
-Mitchell G,ENTITY
-Monteiro ANA,ENTITY
-BRCA1,ENTITY
-BRCA2,ENTITY
-genetic testing-pitfalls,ENTITY
-recommendations,ENTITY
-variants,ENTITY
-clinical significance,ENTITY
-Oncology,ENTITY
-"PMC5006185</ArticleId><ArticleId IdType=""pubmed"">26153499</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Catana A,ENTITY
-AP,ENTITY
-Achimas-Cadariu PA,ENTITY
-Hereditary Breast Cancer,ENTITY
-Romania&#x2014;Molecular Particularities,ENTITY
-Genetic Counseling,ENTITY
-Challenges,ENTITY
-Eastern European Country,ENTITY
-Biomedicines,ENTITY
-PMC10216448</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">37239058</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Bohiltea,ENTITY
-R-E.,ENTITY
-National Plan,ENTITY
-Prevent,ENTITY
-Combat Cancer,ENTITY
-Romania,ENTITY
-Global Context,ENTITY
-Hasin Y,ENTITY
-Seldin M,ENTITY
-Lusis,ENTITY
-disease,ENTITY
-Genome,ENTITY
-PMC5418815</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">28476144</ArticleId></ArticleIdList></Reference><Reference><Citation>",ENTITY
-Mandelker D,ENTITY
-Zhang L,ENTITY
-Mutation detection,ENTITY
-patients,ENTITY
-advanced cancer,ENTITY
-universal sequencing,ENTITY
-cancer-related genes,ENTITY
-tumor,ENTITY
-normal DNA,ENTITY
-guideline-based germline testing,ENTITY
-JAMA,ENTITY
-PMC5611881</ArticleId><ArticleId,ENTITY
-"IdType=""pubmed"">28873162</ArticleId></ArticleIdList></Reference><Reference><Citation",ENTITY
-Mavaddat,ENTITY
-Pharoah PDP,ENTITY
-Michailidou K,ENTITY
-Prediction,ENTITY
-breast cancer,ENTITY
-profiling,ENTITY
-genetic variants,ENTITY
-PMC4754625</ArticleId><ArticleId,ENTITY
