@@ -1,453 +1,682 @@
 paper_id,title,text,label,model
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,Taste G protein-coupled receptors,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,GPCRs,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,sweet,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,TAS1Rs,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,bitter (TAS2Rs) taste receptors,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,detecting,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,nutrients,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,toxins,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,influencing,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,dietary behavior,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,metabolism,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,overall,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,health,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,taste perception,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,receptors,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,expressed,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,extra-gustatory tissues,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,respiratory,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,gastrointestinal systems,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,regulate,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,innate immune responses,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,hormone secretion,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,energy balance,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,Dysfunctions,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,polymorphisms,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,TAS1Rs,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,TAS2Rs,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,diseases,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,asthma,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,type 2 diabetes,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,obesity,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,dental caries,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,periodontitis,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,cancers,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,structural features,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,receptors,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,ligand-binding domains,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,signaling pathways,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,diverse,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,functions,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,studies,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,potential,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,therapeutic,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,targets,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,conditions,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,metabolic syndrome,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,immune-related disorders,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,review,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,examination,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,structural,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,functional,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,dynamics,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,TAS1Rs,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,TAS2Rs,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,disease mechanisms,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,therapeutic strategies,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,structural resolution,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,functional,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,characterization,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,advancements,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,molecular modeling,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,pharmacological approaches,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,clinical,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,potential,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,tissue-specific roles,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,molecular mechanisms,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,taste GPCRs,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,innovative treatments,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,targeting,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,receptors,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,health conditions,ENTITY,scispaCy
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,Taste G protein-coupled receptors,GENE_OR_GENE_PRODUCT,BioNLP13CG
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,taste,ORGAN,BioNLP13CG
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,tissues,TISSUE,BioNLP13CG
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,gastrointestinal,ORGAN,BioNLP13CG
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,TAS1Rs,TISSUE,BioNLP13CG
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,TAS2Rs,GENE_OR_GENE_PRODUCT,BioNLP13CG
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,cancers,CANCER,BioNLP13CG
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,TAS1Rs,TISSUE,BioNLP13CG
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,TAS2Rs,GENE_OR_GENE_PRODUCT,BioNLP13CG
-0,The structure and function of taste G protein-coupled receptors and their implications in diseases,taste GPCRs,CANCER,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,Immune modulatory vaccines,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMVs,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,immunotherapies,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,anti-regulatory T cells,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,target,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,immunosuppressive elements,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,tumor microenvironment,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,TME,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,cancer vaccines,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,tumor-associated antigens,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,malignant cells,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMVs,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,target,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,tumor,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,TMAs,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,"indoleamine 2,3-dioxygenase",ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IDO,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,PD-L1,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,arginase-1,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,ARG1,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,transforming growth factor-β,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,TGF-β,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,expressed,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,malignant,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,myeloid,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,regulatory,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,endothelial,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,stromal populations,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMVs,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,CD8⁺,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,CD4⁺,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,T-cell responses,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,CD8⁺ T cells,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,cytotoxic,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,elimination,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,TMA-expressing suppressive cells,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,CD4⁺,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,T cells,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,induce,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,proinflammatory cytokine programs,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,reprogram,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,myeloid,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,stromal compartments,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,immune-permissive,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,states,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,cytolytic,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,modulatory,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,mechanisms,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMVs,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,remodel,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,suppressive,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,cellular networks,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,improve,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,antigen,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,presentation,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,immune infiltration,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,endogenous,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,tumor-specific immunity,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,Early-phase clinical studies,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,targeting,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IDO,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,PD-L1,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,immunogenicity,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,favorable tolerability,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,encouraging activity,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,solid tumors,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,combination,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,immune checkpoint blockade,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,phase III study,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,first-line advanced melanoma,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,therapeutic vaccine,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,anti,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,PD-1,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,therapy,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,progression-free survival,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,patients,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,metastatic disease,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,signal,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,PD-1–naïve disease,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,PD-L1–negative tumors,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,Next-generation,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMVs,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,ARG1,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,TGF-β,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,immune exclusion,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,desmoplastic stroma,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,peptide-,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,mRNA-based platforms,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,safety,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,evaluation,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,earlier-stage settings,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,oncology,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,microenvironment antigens,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,induced,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,chronic,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,acute infections,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMV,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,principles,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,regulatory circuits,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,pathogen,ENTITY,scispaCy
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMVs,CELLULAR_COMPONENT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,T cells,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,tumor,CANCER,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,cancer,CANCER,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,tumor-associated antigens,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,malignant cells,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMVs,CELLULAR_COMPONENT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,tumor microenvironment antigens,TISSUE,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,TMAs,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IDO,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,PD-L1,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,arginase-1,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,ARG1,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,transforming growth factor-β,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,myeloid,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,endothelial,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,stromal,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMVs,CELLULAR_COMPONENT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,CD8⁺,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,CD4⁺ T-cell,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,CD8⁺ T cells,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,cells,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,CD4⁺ T cells,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,myeloid,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,stromal,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMVs,CELLULAR_COMPONENT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,cellular networks,MULTI_TISSUE_STRUCTURE,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,tumor-specific,CELL,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IDO,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,PD-L1,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,solid tumors,CANCER,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,immune checkpoint blockade.,PATHOLOGICAL_FORMATION,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,melanoma,CANCER,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,PD-1,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,patients,ORGANISM,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,tumors,CANCER,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMVs,CELLULAR_COMPONENT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,ARG1,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,desmoplastic stroma,TISSUE,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,peptide-,GENE_OR_GENE_PRODUCT,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,earlier-stage,CANCER,BioNLP13CG
-1,Immune modulatory vaccines targeting tumor microenvironment antigens: recent advances in oncology and beyond,IMV,MULTI_TISSUE_STRUCTURE,BioNLP13CG
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,studies,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,Chimeric Antigen Receptor,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,binding,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,affinity,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,ligand,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR-T-cell functionality,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,Affinity engineering,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,binding strengths,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,mitigate,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,therapeutic,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,side effects,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,intense,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR-T-cell activation,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,tumor relapse,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,antigen-escape,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR-T cells,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,sustained,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,activation,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,high-affinity receptors,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CARs,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,affinities,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,target,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,epitope,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,leverage,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,design,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,low-affinity,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,product,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,affinity,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,impacts,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,in vitro,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,functionality,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,tumor control,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,in vivo,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,Low-affinity binders,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,mild cytokine release syndrome,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CRS,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,humanized mouse,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,expense,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,anti-tumour,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,efficiency,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,mixtures,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,low-affinity,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CARs,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,high-affinity,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CARs,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,functionality,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,reduced,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,exhaustion,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,monocyte-induced cytokine production,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,high-affinity CAR-T cells,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,in vitro,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,in vivo settings,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,low-affinity,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR-T cells,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,dominate,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,resilience,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,chronic antigen,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,exposure,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,findings,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,affinity,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,combination,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,effective,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR-T-cell products,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,improved,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,therapeutic index,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,affinity engineering,ENTITY,scispaCy
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,Chimeric Antigen Receptor,GENE_OR_GENE_PRODUCT,BioNLP13CG
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,tumor,CANCER,BioNLP13CG
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR-T cells,CELL,BioNLP13CG
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CARs,GENE_OR_GENE_PRODUCT,BioNLP13CG
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR,GENE_OR_GENE_PRODUCT,BioNLP13CG
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,tumor,CANCER,BioNLP13CG
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,mouse,ORGANISM,BioNLP13CG
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,anti-tumour,CANCER,BioNLP13CG
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR-T cells,CELL,BioNLP13CG
-2,Balancing the efficacy and safety of chimeric antigen receptor T-cell therapy by affinity combination,CAR-T cells,CELL,BioNLP13CG
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,Avian,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,infectious bronchitis virus,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IBV,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,virus,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,respiratory,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,reproductive,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,renal syndromes,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,economic losses,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,global poultry,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,industry,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,study,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,evaluate,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,high-resolution melting analysis,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,HRM,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,efficient,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,cost-effective tool,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,rapid diagnosis,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,genotyping,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,Egyptian,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IBV,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,strains,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,investigation,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,N gene,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,HRM curves,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,PCR products,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IBV-positive avian samples,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,PCR products,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,amplified,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,UTR,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,compared,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,analogous S1 gene sequences,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,vaccine,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,strains,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,field strains,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,Egyptian strain 4/91,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,GI-13,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,variant II,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,GI-23,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,classic strain,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,GI-1,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,high-resolution melting curve analysis,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,HRM,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,vaccine,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,Ma5,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IB-Primer,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,Variant II,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IBV field,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,strains,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,pattern clusters,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,similarity,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,melting curves,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,S1 gene sequences,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,strains,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,variant II,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,deletion,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,nucleotides,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,terminus,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,N-gene,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,strains,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,Closed-tube PCR,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,HRM-curve,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,analysis,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,fast,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,technique,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,genotyping,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IBV strains,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IBV,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,vaccine,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,strains,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IBV field,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,Supplementary Information,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,online version contains supplementary material,ENTITY,scispaCy
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,renal,ORGAN,BioNLP13CG
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IBV,ORGANISM,BioNLP13CG
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,HRM-curve,SIMPLE_CHEMICAL,BioNLP13CG
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IBV,ORGANISM,BioNLP13CG
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IBV vaccine,ORGANISM,BioNLP13CG
-3,Development of an HRM-qRT-PCR platform for fast and cost-effective genotyping of infectious bronchitis virus in Egypt,IBV,ORGANISM,BioNLP13CG
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",ABSTRACT,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",α2‐Macroglobulin,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",α2M,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",glycoprotein,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",abundant,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",proteins,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",plasma,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",vertebrates,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",hemolymph,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",invertebrates,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",functions,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",innate immune system,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",pan‐protease inhibitor,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",essential processes,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",cytokine,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",hormone transport,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",triggers,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",cellular responses,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",functioning,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",eukaryotic,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",prokaryotic,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",biological systems,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",human,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",hα2M,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",information,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",studies,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",structure,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",protease,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",mechanism,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",findings,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",years,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",literature,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",hα2M,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",electrophoretic behavior,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",dimeric form,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",inflammatory environments,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",hα2M,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",protease capture,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",hα2M,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",structural studies,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",mechanism,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",incorporation,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",non‐proteolytic ligands,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",remarks,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",details,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",purification,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",storage,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",clinical use,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",hα2M,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",secondary,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",biomarker,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",disorders,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",therapeutic approaches,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",studies,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",study,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",hα2M,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",relevant,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",innate immune system,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",therapies,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",infection,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",inflammation processes,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",potential,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",mechanisms,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",cancer resistance,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",fields,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",translational,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",clinical research,ENTITY,scispaCy
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",plasma,ORGANISM_SUBSTANCE,BioNLP13CG
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",hemolymph,TISSUE,BioNLP13CG
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",cellular,CELL,BioNLP13CG
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",human,ORGANISM,BioNLP13CG
-4,"Human α2‐Macroglobulin: Architecture, Mechanisms, and Functional Implications",cancer,CANCER,BioNLP13CG
+0,,International Metastatic Renal Cell Carcinoma Database Consortium,ENTITY,scispaCy
+0,,risk criteria,ENTITY,scispaCy
+0,,metastatic renal cell carcinoma,ENTITY,scispaCy
+0,,mRCC,ENTITY,scispaCy
+0,,favorable,ENTITY,scispaCy
+0,,intermediate,ENTITY,scispaCy
+0,,poor risk groups,ENTITY,scispaCy
+0,,heterogeneity,ENTITY,scispaCy
+0,,favorable risk,ENTITY,scispaCy
+0,,subgroup,ENTITY,scispaCy
+0,,Karnofsky Performance Status,ENTITY,scispaCy
+0,,diagnosis,ENTITY,scispaCy
+0,,treatment,ENTITY,scispaCy
+0,,years,ENTITY,scispaCy
+0,,brain,ENTITY,scispaCy
+0,,liver,ENTITY,scispaCy
+0,,bone metastases,ENTITY,scispaCy
+0,,characterize,ENTITY,scispaCy
+0,,molecular,ENTITY,scispaCy
+0,,clinical features,ENTITY,scispaCy
+0,,retrospective cohort study,ENTITY,scispaCy
+0,,IMDC,ENTITY,scispaCy
+0,,data,ENTITY,scispaCy
+0,,January,ENTITY,scispaCy
+0,,patients,ENTITY,scispaCy
+0,,favorable risk,ENTITY,scispaCy
+0,,mRCC,ENTITY,scispaCy
+0,,favorable,ENTITY,scispaCy
+0,,Molecular profiling,ENTITY,scispaCy
+0,,Study,ENTITY,scispaCy
+0,,Atezolizumab,ENTITY,scispaCy
+0,,Combination,ENTITY,scispaCy
+0,,Bevacizumab,ENTITY,scispaCy
+0,,Sunitinib,ENTITY,scispaCy
+0,,Participants,ENTITY,scispaCy
+0,,Untreated Advanced Renal Cell Carcinoma,ENTITY,scispaCy
+0,,data,ENTITY,scispaCy
+0,,whole-exome sequencing,ENTITY,scispaCy
+0,,RNA sequencing,ENTITY,scispaCy
+0,,programmed,ENTITY,scispaCy
+0,,cell death,ENTITY,scispaCy
+0,,immunohistochemistry,ENTITY,scispaCy
+0,,Systemic standard,ENTITY,scispaCy
+0,,care treatments,ENTITY,scispaCy
+0,,mRCC,ENTITY,scispaCy
+0,,vascular endothelial growth factor receptor targeted therapy,ENTITY,scispaCy
+0,,VEGF-TT,ENTITY,scispaCy
+0,,sunitinib,ENTITY,scispaCy
+0,,pazopanib,ENTITY,scispaCy
+0,,immune-oncology-VEGF,ENTITY,scispaCy
+0,,IO-VE,ENTITY,scispaCy
+0,,pembrolizumab,ENTITY,scispaCy
+0,,axitinib,ENTITY,scispaCy
+0,,pembrolizumab,ENTITY,scispaCy
+0,,lenvatinib,ENTITY,scispaCy
+0,,nivolumab,ENTITY,scispaCy
+0,,cabozantinib,ENTITY,scispaCy
+0,,avelumab,ENTITY,scispaCy
+0,,axitinib,ENTITY,scispaCy
+0,,IO,ENTITY,scispaCy
+0,,IO-IO,ENTITY,scispaCy
+0,,ipilimumab,ENTITY,scispaCy
+0,,nivolumab,ENTITY,scispaCy
+0,,regimens,ENTITY,scispaCy
+0,,study,ENTITY,scispaCy
+0,,OS,ENTITY,scispaCy
+0,,years,ENTITY,scispaCy
+0,,favorable risk group,ENTITY,scispaCy
+0,,tier,ENTITY,scispaCy
+0,,subgroups,ENTITY,scispaCy
+0,,treatment options,ENTITY,scispaCy
+0,,Secondary end points,ENTITY,scispaCy
+0,,next treatment,ENTITY,scispaCy
+0,,treatment duration,ENTITY,scispaCy
+0,,overall response,ENTITY,scispaCy
+0,,Outcomes,ENTITY,scispaCy
+0,,treatment types,ENTITY,scispaCy
+0,,VEGF-TT,ENTITY,scispaCy
+0,,IO-VE,ENTITY,scispaCy
+0,,IO-IO,ENTITY,scispaCy
+0,,patients,ENTITY,scispaCy
+0,,favorable risk,ENTITY,scispaCy
+0,,mRCC,ENTITY,scispaCy
+0,,median,ENTITY,scispaCy
+0,,IQR,ENTITY,scispaCy
+0,,age,ENTITY,scispaCy
+0,,years,ENTITY,scispaCy
+0,,males,ENTITY,scispaCy
+0,,criteria,ENTITY,scispaCy
+0,,subgroup,ENTITY,scispaCy
+0,,characterized,ENTITY,scispaCy
+0,,age,ENTITY,scispaCy
+0,,treatment,ENTITY,scispaCy
+0,,distribution,ENTITY,scispaCy
+0,,rates,ENTITY,scispaCy
+0,,sarcomatoid,ENTITY,scispaCy
+0,,features,ENTITY,scispaCy
+0,,patients,ENTITY,scispaCy
+0,,metastatic site,ENTITY,scispaCy
+0,,absence,ENTITY,scispaCy
+0,,brain,ENTITY,scispaCy
+0,,bone,ENTITY,scispaCy
+0,,liver metastases,ENTITY,scispaCy
+0,,compared,ENTITY,scispaCy
+0,,patients,ENTITY,scispaCy
+0,,favorable risk,ENTITY,scispaCy
+0,,Patients,ENTITY,scispaCy
+0,,tier,ENTITY,scispaCy
+0,,median,ENTITY,scispaCy
+0,,OS,ENTITY,scispaCy
+0,,CI,ENTITY,scispaCy
+0,,months,ENTITY,scispaCy
+0,,CI,ENTITY,scispaCy
+0,,months,ENTITY,scispaCy
+0,,tier 2,ENTITY,scispaCy
+0,,molecular features,ENTITY,scispaCy
+0,,alterations,ENTITY,scispaCy
+0,,low BRCA1-associated protein 1,ENTITY,scispaCy
+0,,alterations,ENTITY,scispaCy
+0,,programmed,ENTITY,scispaCy
+0,,cell death,ENTITY,scispaCy
+0,,positivity,ENTITY,scispaCy
+0,,transcriptomics,ENTITY,scispaCy
+0,,immune-infiltrated tumors,ENTITY,scispaCy
+0,,immunogenic clusters,ENTITY,scispaCy
+0,,subgroups,ENTITY,scispaCy
+0,,Clinically,ENTITY,scispaCy
+0,,IO-IO,ENTITY,scispaCy
+0,,OS,ENTITY,scispaCy
+0,,CI,ENTITY,scispaCy
+0,,CI,ENTITY,scispaCy
+0,,IO-VE,ENTITY,scispaCy
+0,,CI,ENTITY,scispaCy
+0,,VEGF-TT,ENTITY,scispaCy
+0,,IO-IO,ENTITY,scispaCy
+0,,hazard ratio,ENTITY,scispaCy
+0,,CI,ENTITY,scispaCy
+0,,IO-VE,ENTITY,scispaCy
+0,,VEGF-TT,ENTITY,scispaCy
+0,,cohort study,ENTITY,scispaCy
+0,,favorable,ENTITY,scispaCy
+0,,risk subgroup,ENTITY,scispaCy
+0,,immunogenic molecular profile,ENTITY,scispaCy
+0,,superior,ENTITY,scispaCy
+0,,outcomes,ENTITY,scispaCy
+0,,VEGF-containing regimens,ENTITY,scispaCy
+0,,VEGF-TT,ENTITY,scispaCy
+0,,IO-VE,ENTITY,scispaCy
+0,,compared,ENTITY,scispaCy
+0,,favorable risk group,ENTITY,scispaCy
+0,,IO-IO,ENTITY,scispaCy
+0,,combination,ENTITY,scispaCy
+0,,survival,ENTITY,scispaCy
+0,,population,ENTITY,scispaCy
+0,,VEGF,ENTITY,scispaCy
+0,,inhibition,ENTITY,scispaCy
+0,,optimal,ENTITY,scispaCy
+0,,outcomes,ENTITY,scispaCy
+0,,Renal Cell Carcinoma,CANCER,BioNLP13CG
+0,,renal cell carcinoma,CANCER,BioNLP13CG
+0,,mRCC,CANCER,BioNLP13CG
+0,,brain,ORGAN,BioNLP13CG
+0,,liver,ORGAN,BioNLP13CG
+0,,bone,ORGAN,BioNLP13CG
+0,,patients,ORGANISM,BioNLP13CG
+0,,Bevacizumab,SIMPLE_CHEMICAL,BioNLP13CG
+0,,Sunitinib,SIMPLE_CHEMICAL,BioNLP13CG
+0,,Renal Cell Carcinoma,CANCER,BioNLP13CG
+0,,cell,CELL,BioNLP13CG
+0,,mRCC,CANCER,BioNLP13CG
+0,,vascular endothelial growth factor receptor,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,,sunitinib,SIMPLE_CHEMICAL,BioNLP13CG
+0,,pazopanib,SIMPLE_CHEMICAL,BioNLP13CG
+0,,axitinib,SIMPLE_CHEMICAL,BioNLP13CG
+0,,lenvatinib,SIMPLE_CHEMICAL,BioNLP13CG
+0,,nivolumab,SIMPLE_CHEMICAL,BioNLP13CG
+0,,cabozantinib,SIMPLE_CHEMICAL,BioNLP13CG
+0,,axitinib,SIMPLE_CHEMICAL,BioNLP13CG
+0,,ipilimumab,SIMPLE_CHEMICAL,BioNLP13CG
+0,,nivolumab,SIMPLE_CHEMICAL,BioNLP13CG
+0,,IO-VE,ORGANISM,BioNLP13CG
+0,,patients,ORGANISM,BioNLP13CG
+0,,sarcomatoid,CANCER,BioNLP13CG
+0,,patients,ORGANISM,BioNLP13CG
+0,,brain,ORGAN,BioNLP13CG
+0,,bone,TISSUE,BioNLP13CG
+0,,liver,ORGAN,BioNLP13CG
+0,,patients,ORGANISM,BioNLP13CG
+0,,Patients,ORGANISM,BioNLP13CG
+0,,polybromo-1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,,BRCA1-associated protein 1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,,cell,CELL,BioNLP13CG
+0,,tumors,CANCER,BioNLP13CG
+0,,IO-IO,CELL,BioNLP13CG
+0,,IO-VE,CELL,BioNLP13CG
+0,,VEGF,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,Breast cancer,ENTITY,scispaCy
+1,,BC,ENTITY,scispaCy
+1,,diagnosed,ENTITY,scispaCy
+1,,malignancy,ENTITY,scispaCy
+1,,women,ENTITY,scispaCy
+1,,worldwide,ENTITY,scispaCy
+1,,global health,ENTITY,scispaCy
+1,,genes,ENTITY,scispaCy
+1,,associated with,ENTITY,scispaCy
+1,,tumor suppression,ENTITY,scispaCy
+1,,p53,ENTITY,scispaCy
+1,,BRCA1,ENTITY,scispaCy
+1,,BRCA2,ENTITY,scispaCy
+1,,telomere length maintenance,ENTITY,scispaCy
+1,,TERT,ENTITY,scispaCy
+1,,DNA damage response,ENTITY,scispaCy
+1,,FGFR2,ENTITY,scispaCy
+1,,DNA repair,ENTITY,scispaCy
+1,,CHD1,ENTITY,scispaCy
+1,,intricate,ENTITY,scispaCy
+1,,function,ENTITY,scispaCy
+1,,tumor genesis,ENTITY,scispaCy
+1,,progression,ENTITY,scispaCy
+1,,prognostic,ENTITY,scispaCy
+1,,significance,ENTITY,scispaCy
+1,,genes,ENTITY,scispaCy
+1,,BC,ENTITY,scispaCy
+1,,research,ENTITY,scispaCy
+1,,study,ENTITY,scispaCy
+1,,association,ENTITY,scispaCy
+1,,presence,ENTITY,scispaCy
+1,,MMTV,ENTITY,scispaCy
+1,,expression patterns,ENTITY,scispaCy
+1,,genes,ENTITY,scispaCy
+1,,patient prognosis,ENTITY,scispaCy
+1,,survival outcomes,ENTITY,scispaCy
+1,,BC,ENTITY,scispaCy
+1,,study,ENTITY,scispaCy
+1,,tissue specimens,ENTITY,scispaCy
+1,,BC,ENTITY,scispaCy
+1,,patients,ENTITY,scispaCy
+1,,tissue samples,ENTITY,scispaCy
+1,,benign,ENTITY,scispaCy
+1,,breast lesions,ENTITY,scispaCy
+1,,controls,ENTITY,scispaCy
+1,,mRNA expression,ENTITY,scispaCy
+1,,genes,ENTITY,scispaCy
+1,,p53,ENTITY,scispaCy
+1,,BRCA1,ENTITY,scispaCy
+1,,BRCA2,ENTITY,scispaCy
+1,,TERT,ENTITY,scispaCy
+1,,FGFR2,ENTITY,scispaCy
+1,,CHD1,ENTITY,scispaCy
+1,,quantified,ENTITY,scispaCy
+1,,FFPE tissue,ENTITY,scispaCy
+1,,quantitative polymerase chain reaction,ENTITY,scispaCy
+1,,qPCR,ENTITY,scispaCy
+1,,correlation,ENTITY,scispaCy
+1,,gene expression,ENTITY,scispaCy
+1,,prognostic characteristics,ENTITY,scispaCy
+1,,probability,ENTITY,scispaCy
+1,,recurrence-free survival,ENTITY,scispaCy
+1,,RFS,ENTITY,scispaCy
+1,,overall survival,ENTITY,scispaCy
+1,,OS,ENTITY,scispaCy
+1,,assessed,ENTITY,scispaCy
+1,,association,ENTITY,scispaCy
+1,,MMTV,ENTITY,scispaCy
+1,,BC,ENTITY,scispaCy
+1,,virus,ENTITY,scispaCy
+1,,detected,ENTITY,scispaCy
+1,,tissue samples,ENTITY,scispaCy
+1,,analyzed,ENTITY,scispaCy
+1,,differential expression,ENTITY,scispaCy
+1,,genes,ENTITY,scispaCy
+1,,BC,ENTITY,scispaCy
+1,,noncancerous breast tissue,ENTITY,scispaCy
+1,,downregulation,ENTITY,scispaCy
+1,,BRCA1,ENTITY,scispaCy
+1,,BRCA2,ENTITY,scispaCy
+1,,CHD1,ENTITY,scispaCy
+1,,TERT,ENTITY,scispaCy
+1,,upregulation,ENTITY,scispaCy
+1,,p53,ENTITY,scispaCy
+1,,unchanged,ENTITY,scispaCy
+1,,levels,ENTITY,scispaCy
+1,,FGFR2,ENTITY,scispaCy
+1,,BC,ENTITY,scispaCy
+1,,patients,ENTITY,scispaCy
+1,,p53,ENTITY,scispaCy
+1,,BRCA1,ENTITY,scispaCy
+1,,expression levels,ENTITY,scispaCy
+1,,prognostic factors,ENTITY,scispaCy
+1,,RFS,ENTITY,scispaCy
+1,,months,ENTITY,scispaCy
+1,,months,ENTITY,scispaCy
+1,,OS,ENTITY,scispaCy
+1,,months,ENTITY,scispaCy
+1,,months,ENTITY,scispaCy
+1,,Kaplan-Meier survival analysis,ENTITY,scispaCy
+1,,p53,ENTITY,scispaCy
+1,,expression,ENTITY,scispaCy
+1,,expression,ENTITY,scispaCy
+1,,survival,ENTITY,scispaCy
+1,,stable,ENTITY,scispaCy
+1,,RFS,ENTITY,scispaCy
+1,,OS,ENTITY,scispaCy
+1,,survival curves,ENTITY,scispaCy
+1,,p53,ENTITY,scispaCy
+1,,months,ENTITY,scispaCy
+1,,follow-up,ENTITY,scispaCy
+1,,period,ENTITY,scispaCy
+1,,comparing,ENTITY,scispaCy
+1,,cancer,ENTITY,scispaCy
+1,,noncancer,ENTITY,scispaCy
+1,,patients,ENTITY,scispaCy
+1,,p53,ENTITY,scispaCy
+1,,BRCA1,ENTITY,scispaCy
+1,,expression levels,ENTITY,scispaCy
+1,,prognostic factors,ENTITY,scispaCy
+1,,RFS,ENTITY,scispaCy
+1,,OS,ENTITY,scispaCy
+1,,cohort,ENTITY,scispaCy
+1,,p53,ENTITY,scispaCy
+1,,expression,ENTITY,scispaCy
+1,,survival,ENTITY,scispaCy
+1,,gene expression,ENTITY,scispaCy
+1,,prognostic value,ENTITY,scispaCy
+1,,studies,ENTITY,scispaCy
+1,,multiomics,ENTITY,scispaCy
+1,,data,ENTITY,scispaCy
+1,,evaluating,ENTITY,scispaCy
+1,,biomarkers,ENTITY,scispaCy
+1,,clinical context,ENTITY,scispaCy
+1,,accuracy,ENTITY,scispaCy
+1,,prognostic models,ENTITY,scispaCy
+1,,personalized,ENTITY,scispaCy
+1,,treatment strategies,ENTITY,scispaCy
+1,,International Journal of Breast Cancer,ENTITY,scispaCy
+1,,Breast cancer,CANCER,BioNLP13CG
+1,,BC,CANCER,BioNLP13CG
+1,,malignancy,CANCER,BioNLP13CG
+1,,women,ORGANISM,BioNLP13CG
+1,,tumor,CANCER,BioNLP13CG
+1,,p53,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,telomere,CELLULAR_COMPONENT,BioNLP13CG
+1,,TERT,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,DNA,CELLULAR_COMPONENT,BioNLP13CG
+1,,FGFR2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,DNA,CELLULAR_COMPONENT,BioNLP13CG
+1,,CHD1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,tumor,CANCER,BioNLP13CG
+1,,BC,CANCER,BioNLP13CG
+1,,MMTV,ORGANISM,BioNLP13CG
+1,,patient,ORGANISM,BioNLP13CG
+1,,BC,CANCER,BioNLP13CG
+1,,formalin-fixed,CANCER,BioNLP13CG
+1,,FFPE,CANCER,BioNLP13CG
+1,,BC patients,CANCER,BioNLP13CG
+1,,benign breast lesions,CANCER,BioNLP13CG
+1,,p53,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,TERT,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,FGFR2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,CHD1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,FFPE tissue samples,CANCER,BioNLP13CG
+1,,MMTV,ORGANISM,BioNLP13CG
+1,,BC,CANCER,BioNLP13CG
+1,,tissue samples,CANCER,BioNLP13CG
+1,,BC,CANCER,BioNLP13CG
+1,,noncancerous breast tissue,CANCER,BioNLP13CG
+1,,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,CHD1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,TERT,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,p53,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,FGFR2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,BC patients,CANCER,BioNLP13CG
+1,,p53,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,p53,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,p53,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,cancer,CANCER,BioNLP13CG
+1,,noncancer patients,CANCER,BioNLP13CG
+1,,p53,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,p53,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,,Breast Cancer,CANCER,BioNLP13CG
+1,,John Wiley,ORGANISM,BioNLP13CG
+2,,Colorectal cancer,ENTITY,scispaCy
+2,,CRC,ENTITY,scispaCy
+2,,malignancy,ENTITY,scispaCy
+2,,hereditary component,ENTITY,scispaCy
+2,,Kazakhstan,ENTITY,scispaCy
+2,,spectrum,ENTITY,scispaCy
+2,,germline pathogenic variants,ENTITY,scispaCy
+2,,PV,ENTITY,scispaCy
+2,,individuals,ENTITY,scispaCy
+2,,CRC,ENTITY,scispaCy
+2,,study,ENTITY,scispaCy
+2,,multigene panel testing,ENTITY,scispaCy
+2,,Kazakhstani cohort,ENTITY,scispaCy
+2,,CRC,ENTITY,scispaCy
+2,,patients,ENTITY,scispaCy
+2,,relatives,ENTITY,scispaCy
+2,,genetic risk factors,ENTITY,scispaCy
+2,,study,ENTITY,scispaCy
+2,,CRC,ENTITY,scispaCy
+2,,patients,ENTITY,scispaCy
+2,,healthy relatives,ENTITY,scispaCy
+2,,Whole coding regions,ENTITY,scispaCy
+2,,exons,ENTITY,scispaCy
+2,,noncoding sequences,ENTITY,scispaCy
+2,,cancer-associated genes,ENTITY,scispaCy
+2,,analyzed,ENTITY,scispaCy
+2,,Illumina TruSight Cancer,ENTITY,scispaCy
+2,,NGS,ENTITY,scispaCy
+2,,blood-derived DNA,ENTITY,scispaCy
+2,,patients,ENTITY,scispaCy
+2,,PVs,ENTITY,scispaCy
+2,,patients,ENTITY,scispaCy
+2,,family history of cancer,ENTITY,scispaCy
+2,,family history,ENTITY,scispaCy
+2,,CRC,ENTITY,scispaCy
+2,,germline,ENTITY,scispaCy
+2,,PVs,ENTITY,scispaCy
+2,,CHEK2,ENTITY,scispaCy
+2,,APC,ENTITY,scispaCy
+2,,MLH1,ENTITY,scispaCy
+2,,MSH2,ENTITY,scispaCy
+2,,MSH6,ENTITY,scispaCy
+2,,MUTYH,ENTITY,scispaCy
+2,,BRCA1,ENTITY,scispaCy
+2,,Missense,ENTITY,scispaCy
+2,,frameshift,ENTITY,scispaCy
+2,,variants,ENTITY,scispaCy
+2,,predominated,ENTITY,scispaCy
+2,,PVs,ENTITY,scispaCy
+2,,individuals,ENTITY,scispaCy
+2,,aged,ENTITY,scispaCy
+2,,years,ENTITY,scispaCy
+2,,identified,ENTITY,scispaCy
+2,,PVs,ENTITY,scispaCy
+2,,APC c.3405T > G,ENTITY,scispaCy
+2,,APC c.419_422delAGAG,ENTITY,scispaCy
+2,,PMS1,ENTITY,scispaCy
+2,,c.1258delC,ENTITY,scispaCy
+2,,MLH1,ENTITY,scispaCy
+2,,NBN,ENTITY,scispaCy
+2,,c.877delA,ENTITY,scispaCy
+2,,EPCAM,ENTITY,scispaCy
+2,,prevalence,ENTITY,scispaCy
+2,,clinically,ENTITY,scispaCy
+2,,PVs,ENTITY,scispaCy
+2,,patients,ENTITY,scispaCy
+2,,relatives,ENTITY,scispaCy
+2,,clinical value,ENTITY,scispaCy
+2,,multigene panel testing,ENTITY,scispaCy
+2,,cascade screening,ENTITY,scispaCy
+2,,Kazakhstan,ENTITY,scispaCy
+2,,Colorectal cancer,CANCER,BioNLP13CG
+2,,CRC,CANCER,BioNLP13CG
+2,,malignancy,CANCER,BioNLP13CG
+2,,CRC,CANCER,BioNLP13CG
+2,,CRC patients,CANCER,BioNLP13CG
+2,,CRC patients,CANCER,BioNLP13CG
+2,,cancer-associated,CANCER,BioNLP13CG
+2,,Cancer,CANCER,BioNLP13CG
+2,,DNA,CELLULAR_COMPONENT,BioNLP13CG
+2,,patients,ORGANISM,BioNLP13CG
+2,,PVs,CANCER,BioNLP13CG
+2,,patients,ORGANISM,BioNLP13CG
+2,,cancer,CANCER,BioNLP13CG
+2,,CRC,CANCER,BioNLP13CG
+2,,PVs,CELL,BioNLP13CG
+2,,CHEK2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,APC (12.91%,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,MLH1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,MSH2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,MSH6,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,MUTYH,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,PVs,CELL,BioNLP13CG
+2,,PVs,CELL,BioNLP13CG
+2,,APC,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,T,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,APC,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,PMS1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,MLH1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,NBN,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,EPCAM,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,,A.,ORGANISM,BioNLP13CG
+2,,PVs,CELL,BioNLP13CG
+2,,patients,ORGANISM,BioNLP13CG
+3,,next-generation RNA sequencing,ENTITY,scispaCy
+3,,RNA-seq,ENTITY,scispaCy
+3,,germline cancer,ENTITY,scispaCy
+3,,predisposition testing,ENTITY,scispaCy
+3,,diagnostic utility,ENTITY,scispaCy
+3,,low,ENTITY,scispaCy
+3,,expression,ENTITY,scispaCy
+3,,clinically,ENTITY,scispaCy
+3,,genes,ENTITY,scispaCy
+3,,RNA,ENTITY,scispaCy
+3,,yield,ENTITY,scispaCy
+3,,transcript,ENTITY,scispaCy
+3,,representation,ENTITY,scispaCy
+3,,targeted RNA-seq,ENTITY,scispaCy
+3,,short-term,ENTITY,scispaCy
+3,,lymphocyte,ENTITY,scispaCy
+3,,whole blood,ENTITY,scispaCy
+3,,Li-heparin tubes,ENTITY,scispaCy
+3,,systematically,ENTITY,scispaCy
+3,,biological reproducibility,ENTITY,scispaCy
+3,,pre-analytical,ENTITY,scispaCy
+3,,sample handling,ENTITY,scispaCy
+3,,variability,ENTITY,scispaCy
+3,,whole blood,ENTITY,scispaCy
+3,,stored,ENTITY,scispaCy
+3,,days,ENTITY,scispaCy
+3,,lymphocyte,ENTITY,scispaCy
+3,,cultivation,ENTITY,scispaCy
+3,,RNA,ENTITY,scispaCy
+3,,quality/gene expression,ENTITY,scispaCy
+3,,Gene expression,ENTITY,scispaCy
+3,,RNA,ENTITY,scispaCy
+3,,isolated,ENTITY,scispaCy
+3,,K2EDTA,ENTITY,scispaCy
+3,,Tempus tubes,ENTITY,scispaCy
+3,,short-term,ENTITY,scispaCy
+3,,lymphocyte,ENTITY,scispaCy
+3,,increase,ENTITY,scispaCy
+3,,expression,ENTITY,scispaCy
+3,,clinically,ENTITY,scispaCy
+3,,genes,ENTITY,scispaCy
+3,,BRCA1,ENTITY,scispaCy
+3,,BRCA2,ENTITY,scispaCy
+3,,RAD51C,ENTITY,scispaCy
+3,,RAD51D,ENTITY,scispaCy
+3,,PALB2,ENTITY,scispaCy
+3,,CHEK2,ENTITY,scispaCy
+3,,multiple,ENTITY,scispaCy
+3,,Fanconi anaemia genes,ENTITY,scispaCy
+3,,expressed,ENTITY,scispaCy
+3,,whole blood,ENTITY,scispaCy
+3,,Cultivation,ENTITY,scispaCy
+3,,days,ENTITY,scispaCy
+3,,lymphocyte,ENTITY,scispaCy
+3,,gene expression,ENTITY,scispaCy
+3,,flexibility,ENTITY,scispaCy
+3,,dia-gnostics,ENTITY,scispaCy
+3,,protocol,ENTITY,scispaCy
+3,,inhibition,ENTITY,scispaCy
+3,,nonsense-mediated decay,ENTITY,scispaCy
+3,,analysis,ENTITY,scispaCy
+3,,variants,ENTITY,scispaCy
+3,,premature termination,ENTITY,scispaCy
+3,,principle,ENTITY,scispaCy
+3,,splicing,ENTITY,scispaCy
+3,,impact,ENTITY,scispaCy
+3,,FANCA,ENTITY,scispaCy
+3,,c.2602-,ENTITY,scispaCy
+3,,variant,ENTITY,scispaCy
+3,,intron,ENTITY,scispaCy
+3,,cultured lymphocytes,ENTITY,scispaCy
+3,,carrier,ENTITY,scispaCy
+3,,variant,ENTITY,scispaCy
+3,,deletion,ENTITY,scispaCy
+3,,nucleotides,ENTITY,scispaCy
+3,,mature,ENTITY,scispaCy
+3,,transcript,ENTITY,scispaCy
+3,,ΔE28p(-6)/r.2602_2607del,ENTITY,scispaCy
+3,,in-frame deletion,ENTITY,scispaCy
+3,,spliceogenic effect,ENTITY,scispaCy
+3,,detectable,ENTITY,scispaCy
+3,,cultured lymphocytes,ENTITY,scispaCy
+3,,expressing,ENTITY,scispaCy
+3,,transcript,ENTITY,scispaCy
+3,,short-term,ENTITY,scispaCy
+3,,lymphocyte,ENTITY,scispaCy
+3,,flexible,ENTITY,scispaCy
+3,,RNA,ENTITY,scispaCy
+3,,variant,ENTITY,scispaCy
+3,,interpretation,ENTITY,scispaCy
+3,,clinical RNA-seq analyses,ENTITY,scispaCy
+3,,cancer,CANCER,BioNLP13CG
+3,,lymphocyte,CELL,BioNLP13CG
+3,,blood,ORGANISM_SUBSTANCE,BioNLP13CG
+3,,Li-heparin tubes,TISSUE,BioNLP13CG
+3,,blood,ORGANISM_SUBSTANCE,BioNLP13CG
+3,,4 °C,SIMPLE_CHEMICAL,BioNLP13CG
+3,,lymphocyte,CELL,BioNLP13CG
+3,,K2EDTA,CELL,BioNLP13CG
+3,,Tempus tubes,TISSUE,BioNLP13CG
+3,,lymphocyte,CELL,BioNLP13CG
+3,,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,,RAD51C,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,,RAD51D,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,,PALB2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,,CHEK2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,,blood,ORGANISM_SUBSTANCE,BioNLP13CG
+3,,lymphocyte,CELL,BioNLP13CG
+3,,FANCA c.2602-3C&gt;G,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,,lymphocytes,CELL,BioNLP13CG
+3,,lymphocytes,CELL,BioNLP13CG
+3,,FANCA,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,,lymphocyte,CELL,BioNLP13CG
+4,,hereditary breast cancer,ENTITY,scispaCy
+4,,germline pathogenic,ENTITY,scispaCy
+4,,variants,ENTITY,scispaCy
+4,,influence,ENTITY,scispaCy
+4,,lifetime,ENTITY,scispaCy
+4,,cancer risk,ENTITY,scispaCy
+4,,surveillance,ENTITY,scispaCy
+4,,preventive strategies,ENTITY,scispaCy
+4,,targeted,ENTITY,scispaCy
+4,,treatments,ENTITY,scispaCy
+4,,breast cancer genes,ENTITY,scispaCy
+4,,BRCA1,ENTITY,scispaCy
+4,,BRCA2,ENTITY,scispaCy
+4,,hereditary breast,ENTITY,scispaCy
+4,,ovarian cancers,ENTITY,scispaCy
+4,,progress,ENTITY,scispaCy
+4,,cancer genetics,ENTITY,scispaCy
+4,,clinical practice,ENTITY,scispaCy
+4,,multigene testing,ENTITY,scispaCy
+4,,literature,ENTITY,scispaCy
+4,,molecular basis,ENTITY,scispaCy
+4,,hereditary breast cancer,ENTITY,scispaCy
+4,,genetic testing,ENTITY,scispaCy
+4,,guideline-based indications,ENTITY,scispaCy
+4,,psychological,ENTITY,scispaCy
+4,,ethical,ENTITY,scispaCy
+4,,social challenges,ENTITY,scispaCy
+4,,genetic risk,ENTITY,scispaCy
+4,,Next-generation sequencing,ENTITY,scispaCy
+4,,(NGS)-based,ENTITY,scispaCy
+4,,multigene panels,ENTITY,scispaCy
+4,,efficient,ENTITY,scispaCy
+4,,identification,ENTITY,scispaCy
+4,,high-,ENTITY,scispaCy
+4,,moderate-penetrance,ENTITY,scispaCy
+4,,variants,ENTITY,scispaCy
+4,,personalized,ENTITY,scispaCy
+4,,risk-reducing,ENTITY,scispaCy
+4,,interventions,ENTITY,scispaCy
+4,,treatment selection,ENTITY,scispaCy
+4,,eligibility,ENTITY,scispaCy
+4,,enzyme,ENTITY,scispaCy
+4,,ribose polymerase (,ENTITY,scispaCy
+4,,inhibitors,ENTITY,scispaCy
+4,,clinical implementation,ENTITY,scispaCy
+4,,persistent barriers,ENTITY,scispaCy
+4,,variants,ENTITY,scispaCy
+4,,uncertain,ENTITY,scispaCy
+4,,significance,ENTITY,scispaCy
+4,,genetic counselling,ENTITY,scispaCy
+4,,testing services,ENTITY,scispaCy
+4,,Genetic testing,ENTITY,scispaCy
+4,,breast cancer,ENTITY,scispaCy
+4,,bridging prevention,ENTITY,scispaCy
+4,,precision oncology,ENTITY,scispaCy
+4,,access,ENTITY,scispaCy
+4,,strengthening,ENTITY,scispaCy
+4,,counselling pathways,ENTITY,scispaCy
+4,,variant,ENTITY,scispaCy
+4,,interpretation,ENTITY,scispaCy
+4,,genomic,ENTITY,scispaCy
+4,,clinical benefits,ENTITY,scispaCy
+4,,breast cancer,CANCER,BioNLP13CG
+4,,cancer,CANCER,BioNLP13CG
+4,,breast cancer,CANCER,BioNLP13CG
+4,,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,,breast,CANCER,BioNLP13CG
+4,,ovarian cancers,CANCER,BioNLP13CG
+4,,cancer,CANCER,BioNLP13CG
+4,,breast cancer,CANCER,BioNLP13CG
+4,,poly ADP ribose polymerase,SIMPLE_CHEMICAL,BioNLP13CG
+4,,PARP,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,,breast cancer,CANCER,BioNLP13CG

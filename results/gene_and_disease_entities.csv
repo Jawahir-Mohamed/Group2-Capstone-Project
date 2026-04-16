@@ -1,0 +1,66 @@
+PMID_Index,Term,Category
+0,Renal Cell Carcinoma,Disease
+0,renal cell carcinoma,Disease
+0,mRCC,Disease
+0,vascular endothelial growth factor receptor,Gene
+0,sarcomatoid,Disease
+0,polybromo-1,Gene
+0,BRCA1-associated protein 1,Gene
+0,tumors,Disease
+0,VEGF,Gene
+1,Breast cancer,Disease
+1,BC,Disease
+1,malignancy,Disease
+1,tumor,Disease
+1,p53,Gene
+1,BRCA1,Gene
+1,BRCA2,Gene
+1,TERT,Gene
+1,FGFR2,Gene
+1,CHD1,Gene
+1,formalin-fixed,Disease
+1,FFPE,Disease
+1,BC patients,Disease
+1,benign breast lesions,Disease
+1,FFPE tissue samples,Disease
+1,tissue samples,Disease
+1,noncancerous breast tissue,Disease
+1,cancer,Disease
+1,noncancer patients,Disease
+1,Breast Cancer,Disease
+2,Colorectal cancer,Disease
+2,CRC,Disease
+2,malignancy,Disease
+2,CRC patients,Disease
+2,cancer-associated,Disease
+2,Cancer,Disease
+2,PVs,Disease
+2,cancer,Disease
+2,CHEK2,Gene
+2,APC (12.91%,Gene
+2,MLH1,Gene
+2,MSH2,Gene
+2,MSH6,Gene
+2,MUTYH,Gene
+2,BRCA1,Gene
+2,APC,Gene
+2,T,Gene
+2,PMS1,Gene
+2,NBN,Gene
+2,EPCAM,Gene
+3,cancer,Disease
+3,BRCA1,Gene
+3,BRCA2,Gene
+3,RAD51C,Gene
+3,RAD51D,Gene
+3,PALB2,Gene
+3,CHEK2,Gene
+3,FANCA c.2602-3C&gt;G,Gene
+3,FANCA,Gene
+4,breast cancer,Disease
+4,cancer,Disease
+4,BRCA1,Gene
+4,BRCA2,Gene
+4,breast,Disease
+4,ovarian cancers,Disease
+4,PARP,Gene
