@@ -1,12 +1,14 @@
 paper_id,title,pmid,variant,rsid,litvar_name,pmids_count,litvar_pmids
-0,Spectrum of BRCA1/2 Mutations in Romanian Breast and Ovarian Cancer Patients.,35409996,c.5266dupC,rs80357906,c.5266dupC,476,35563522|28915716|40060932|39964682|40585243
-0,Spectrum of BRCA1/2 Mutations in Romanian Breast and Ovarian Cancer Patients.,35409996,c.9371A>T,rs28897759,p.N3124I,70,24728577|26023681|26219265|31853058|41372292
-0,Spectrum of BRCA1/2 Mutations in Romanian Breast and Ovarian Cancer Patients.,35409996,c.3607C>T,rs62625308,c.3607C>T,100,31853058|38785549|31209999|28947987|40585243
-1,Prevalence of specific and recurrent/founder pathogenic variants in BRCA genes in breast and ovarian cancer in North Africa.,35216584,c.3279delC,rs397509050,c.3279delC,14,27397505|35578052|35216584|23289006|28569743
-1,Prevalence of specific and recurrent/founder pathogenic variants in BRCA genes in breast and ovarian cancer in North Africa.,35216584,c.181T>G,rs28897672,p.C61G,547,22034435|37521417|39964682|24078348|18405391
-1,Prevalence of specific and recurrent/founder pathogenic variants in BRCA genes in breast and ovarian cancer in North Africa.,35216584,c.68_69del,rs80357914,p.E23fsX,140,28526081|31853058|27489289|30262796|30053901
-1,Prevalence of specific and recurrent/founder pathogenic variants in BRCA genes in breast and ovarian cancer in North Africa.,35216584,c.798_799delTT,rs80357724,c.798_799delTT,80,28526081|31853058|31209999|21603858|28947987
-1,Prevalence of specific and recurrent/founder pathogenic variants in BRCA genes in breast and ovarian cancer in North Africa.,35216584,c.5266dup,rs80357906,c.5266dupC,476,35563522|28915716|40060932|39964682|40585243
-1,Prevalence of specific and recurrent/founder pathogenic variants in BRCA genes in breast and ovarian cancer in North Africa.,35216584,c.5266dupC,rs80357906,c.5266dupC,476,35563522|28915716|40060932|39964682|40585243
-1,Prevalence of specific and recurrent/founder pathogenic variants in BRCA genes in breast and ovarian cancer in North Africa.,35216584,c.5309G>T,rs863224765,c.5309G>T,33,27397505|37852034|23613828|31076742|37055759
-1,Prevalence of specific and recurrent/founder pathogenic variants in BRCA genes in breast and ovarian cancer in North Africa.,35216584,c.211dupA,rs397508938,c.211dupA,26,18334730|23334666|33240314|25203624|35893033
+0,Prevalence and Spectrum of BRCA Germline Variants in Central Italian High Risk or Familial Breast/Ovarian Cancer Patients: A Monocentric Study.,32806537,c.6313delA,N/A,N/A,0,N/A
+0,Prevalence and Spectrum of BRCA Germline Variants in Central Italian High Risk or Familial Breast/Ovarian Cancer Patients: A Monocentric Study.,32806537,c.5266dupC,N/A,N/A,0,N/A
+1,"Haplotypic characterization of BRCA1 c.5266dupC, the prevailing mutation in Brazilian hereditary breast/ovarian cancer.",32453342,c.5266dupC,N/A,N/A,0,N/A
+2,Identifying Ashkenazi Jewish BRCA1/2 founder variants in individuals who do not self-report Jewish ancestry.,32376921,c.5946delT,N/A,N/A,0,N/A
+2,Identifying Ashkenazi Jewish BRCA1/2 founder variants in individuals who do not self-report Jewish ancestry.,32376921,c.5266dupC,N/A,N/A,0,N/A
+2,Identifying Ashkenazi Jewish BRCA1/2 founder variants in individuals who do not self-report Jewish ancestry.,32376921,c.68_69delAG,N/A,N/A,0,N/A
+3,Frequency of mutations in BRCA genes and other candidate genes in high-risk probands or probands with breast or ovarian cancer in the Czech Republic.,32180084,c.5266dupC,N/A,N/A,0,N/A
+4,Clinicopathologic features and genetic characteristics of the BRCA1/2 mutation in Turkish breast cancer patients.,31706072,c.5266dupC,N/A,N/A,0,N/A
+4,Clinicopathologic features and genetic characteristics of the BRCA1/2 mutation in Turkish breast cancer patients.,31706072,c.8940delA,N/A,N/A,0,N/A
+4,Clinicopathologic features and genetic characteristics of the BRCA1/2 mutation in Turkish breast cancer patients.,31706072,c.9097dupA,N/A,N/A,0,N/A
+5,Randomised trial of population-based BRCA testing in Ashkenazi Jews: long-term outcomes.,31507061,c.5946delT,N/A,N/A,0,N/A
+5,Randomised trial of population-based BRCA testing in Ashkenazi Jews: long-term outcomes.,31507061,c.5266dupC,N/A,N/A,0,N/A
+5,Randomised trial of population-based BRCA testing in Ashkenazi Jews: long-term outcomes.,31507061,c.68_69delAG,N/A,N/A,0,N/A
