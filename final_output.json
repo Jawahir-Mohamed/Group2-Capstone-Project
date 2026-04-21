@@ -1,0 +1,44 @@
+[
+    {
+        "pmid": "39438962",
+        "gene": "BRCA1",
+        "hgvs_cdna": "NM_007294.4:c.5266dupC",
+        "classification": "not reported",
+        "zygosity": "not reported"
+    },
+    {
+        "pmid": "39273284",
+        "gene": "BRCA1",
+        "hgvs_cdna": "NM_007294.4:c.5266dupC",
+        "classification": "not reported",
+        "zygosity": "not reported"
+    },
+    {
+        "pmid": "38918649",
+        "gene": "BRCA1",
+        "hgvs_cdna": "NM_007294.4:c.5266dupC",
+        "classification": "not reported",
+        "zygosity": "not reported"
+    },
+    {
+        "pmid": "38641594",
+        "gene": "BRCA1",
+        "hgvs_cdna": "NM_007294.4:c.5266dupC",
+        "classification": "not reported",
+        "zygosity": "not reported"
+    },
+    {
+        "pmid": "38504328",
+        "gene": "BRCA1",
+        "hgvs_cdna": "NM_007294.4:c.5266dupC",
+        "classification": "not reported",
+        "zygosity": "not reported"
+    },
+    {
+        "pmid": "38386807",
+        "gene": "BRCA1",
+        "hgvs_cdna": "NM_007294.4:c.5266dupC",
+        "classification": "not reported",
+        "zygosity": "not reported"
+    }
+]

@@ -1,7 +1,7 @@
 pmid,gene_symbol_llm,zygosity_llm,clinical_sig_llm,study_type_llm,patient_count_llm,functional_evidence_llm
-39438962,BRCA1,not reported,Pathogenic,case report,not reported,none/not reported
-39273284,BRCA1,compound heterozygous,Likely pathogenic,not reported,not reported,splicing
-38918649,BRCA1,Not reported,Not reported,Systematic review,55,None/not reported
-38641594,BRCA1,Not reported,Likely pathogenic,Case report,45,None/not reported
-38504328,BRCA1,Not reported,Pathogenic/Likely pathogenic,Systematic review,137 (distinct mutations),Molecular analysis
-38386807,BRCA1,heterozygous,Pathogenic,case report,not reported,in vitro (Note: only BRCA1 was mentioned)
+39438962,not reported,not reported,not reported,not reported,not reported,not reported
+39273284,not reported,not reported,not reported,not reported,not reported,not reported
+38918649,not reported,not reported,not reported,not reported,not reported,not reported
+38641594,not reported,not reported,not reported,not reported,not reported,not reported
+38504328,not reported,not reported,not reported,not reported,not reported,not reported
+38386807,not reported,not reported,not reported,not reported,not reported,not reported

@@ -1,30 +1,30 @@
 paper_id,title,pmid,variant,rsid,litvar_name,pmids_count,litvar_pmids
-0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.4038_4039delAA,rs273900721,c.4038_4039delAA,5,28569743|39438962|26092435|36922933|32377563
-0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.6024dupG,rs80359554,c.6024dupG,31,26564481|31853058|33235458|39264897|39338246
-0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.6275delTT,N/A,c.6275delTT,1,
 0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.5266dupC,rs80357906,c.5266dupC,476,35563522|28915716|40060932|39964682|40585243
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.5116_5119delAATA,rs276174853,c.5116_5119delAATA,19,31853058|32894085|23683081|28569743|37055759
 0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.1363_1369delTCAGAGA,N/A,c.1363_1369delTCAGAGA,1,
 0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.68_69delAG,rs80357914,p.E23fsX,140,28526081|31853058|27489289|30262796|30053901
 0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.2457delA,N/A,c.2457delA,1,
 0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.2701delC,rs397507637,c.2701delC,11,31853058|35641219|35451682|29907814|31589614
-0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.5116_5119delAATA,rs276174853,c.5116_5119delAATA,19,31853058|32894085|23683081|28569743|37055759
-0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.8387delC,N/A,c.8387delC,1,
-0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.2808_2011delACAA,N/A,c.2808_2011delACAA,2,
-0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.959delG,N/A,c.959delG,1,
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.6275delTT,N/A,c.6275delTT,1,
 0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.1397dupA,rs864622132,c.4709dupT,4,39438962|32868316|36922933|28569743
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.2808_2011delACAA,N/A,c.2808_2011delACAA,2,
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.4038_4039delAA,rs273900721,c.4038_4039delAA,5,28569743|39438962|26092435|36922933|32377563
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.6024dupG,rs80359554,c.6024dupG,31,26564481|31853058|33235458|39264897|39338246
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.959delG,N/A,c.959delG,1,
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.8387delC,N/A,c.8387delC,1,
 0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,39438962,c.4234_4236delACT,N/A,N/A,0,N/A
-1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,39273284,c.3207C>A,rs76151636,p.H1069Q,333,41756680|32546831|32270360|35758105|20082719
-1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,39273284,c.5266dupC,rs80357906,c.5266dupC,476,35563522|28915716|40060932|39964682|40585243
 1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,39273284,c.33C>A,rs35799536,c.33C>A,9,24451234|33816645|32414341|27756326|39985037
-1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,39273284,c.657_661del,rs587776650,c.657_661delACAAA,90,32537088|38458890|29368341|28726808|37694493
+1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,39273284,c.5266dupC,rs80357906,c.5266dupC,476,35563522|28915716|40060932|39964682|40585243
+1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,39273284,c.3207C>A,rs76151636,p.H1069Q,333,41756680|32546831|32270360|35758105|20082719
 1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,39273284,c.1222C>T,rs5030858,p.R408W,283,8946176|30037505|35987969|39548419|29273096
+1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,39273284,c.657_661del,rs587776650,c.657_661delACAAA,90,32537088|38458890|29368341|28726808|37694493
 1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,39273284,c.1562G>A,rs730881494,c.1562G>A,6,27397505|39273284|29884841|31925297|31911673
 2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,38918649,c.5266dupC,rs80357906,c.5266dupC,476,35563522|28915716|40060932|39964682|40585243
 2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,38918649,c.181T>G,rs28897672,p.C61G,547,22034435|37521417|39964682|24078348|18405391
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,38641594,c.921dupT,N/A,c.921dupT,1,
 3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,38641594,c.5266dupC,rs80357906,c.5266dupC,476,35563522|28915716|40060932|39964682|40585243
 3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,38641594,c.7645dupT,N/A,c.7645dupT,1,
-3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,38641594,c.921dupT,N/A,c.921dupT,1,
 4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,38504328,c.5266dupC,rs80357906,c.5266dupC,476,35563522|28915716|40060932|39964682|40585243
 4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,38504328,c.156_157insA,N/A,c.156_157insA,3,
-5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,38386807,c.5266dupC,rs80357906,c.5266dupC,476,35563522|28915716|40060932|39964682|40585243
 5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,38386807,c.9676delT,rs80359774,c.9676delT,8,31853058|34572941|28569743|37216690|21533266
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,38386807,c.5266dupC,rs80357906,c.5266dupC,476,35563522|28915716|40060932|39964682|40585243
