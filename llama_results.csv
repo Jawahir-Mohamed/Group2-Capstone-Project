@@ -1,7 +1,7 @@
 pmid,gene_symbol_llm,zygosity_llm,clinical_sig_llm,study_type_llm,patient_count_llm,functional_evidence_llm
-39438962,BRCA1,Not reported,Pathogenic/Benign,Cohort,642 individuals,Biochemical/none/not reported
-39273284,BRCA1,Not reported,Uncertain significance,Not reported,Not reported,None
-38918649,BRCA1,not reported,Not reported,Review,"23,561",None
-38641594,BRCA1,Not reported,Pathogenic/Likely pathogenic (for 13 mutations),not reported,45,DNA sequencing
-38504328,BRCA1,Not reported,Pathogenic/Likely pathogenic,Systematic review,137 distinct mutations (not a single patient count),Molecular analysis
-38386807,BRCA1,Heterozygous,Pathogenic,Cohort,332,None/Not reported
+39438962,BRCA1,Not reported,Pathogenic,Case report,642 individuals from 427 different families,None/not reported
+39273284,BRCA1,not reported,Likely pathogenic,not reported,not reported,none/not reported
+38918649,BRCA1,not reported,Likely pathogenic,systematic review,55,none/not reported
+38641594,BRCA1,Not reported,Pathogenic,Cross-sectional,45,DNA sequencing
+38504328,BRCA1,Not reported,Pathogenic/Likely pathogenic/Uncertain significance/Benign/not reported,Systematic review,137 distinct mutations,Biochemical
+38386807,BRCA1,heterozygous,Likely pathogenic,cohort,319,Next Generation Sequencing and Sanger DNA sequencing
