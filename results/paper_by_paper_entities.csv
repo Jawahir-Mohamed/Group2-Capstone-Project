@@ -1,112 +1,134 @@
-PMID_Index,Term,Category,Start_Char,End_Char
-0,BRCA1,Gene,136,141
-0,BRCA2,Gene,146,151
-0,BRCA1,Gene,325,330
-0,BRCA2,Gene,361,366
-0,BRCA1,Gene,414,419
-0,c.1397dupA,Gene,447,457
-0,BRCA2,Gene,499,504
-0,BRCA1,Gene,569,574
-0,BRCA1,Gene,718,723
-0,BRCA2,Gene,798,803
-0,c.5123 C,Gene,840,848
-0,BRCA1,Gene,856,861
-0,BRCA2,Gene,990,995
-0,c.2808_2011delACAA,Gene,1038,1056
-0,BRCA2,Gene,1069,1074
-0,BRCA1,Gene,1138,1143
-0,c81-2 A,Gene,1205,1212
-0,c.5266dupC,Gene,1240,1250
-0,BRCA1,Gene,1263,1268
-0,c.2457delA,Gene,1277,1287
-0,c.6275delTT,Gene,1321,1332
-0,c.7558 C,Gene,1334,1342
-0,BRCA2,Gene,1379,1384
-0,BRCA1/2,Gene,1479,1486
-0,BRCA2,Gene,1625,1630
-1,ATP7B,Gene,519,524
-1,NBN,Gene,615,618
-1,BRCA1,Gene,636,641
-1,SDHD,Gene,768,772
-1,ARSB,Gene,793,797
-2,breast cancer patients,Disease,82,104
-2,cancer,Disease,130,136
-2,BRCA1/2,Gene,314,321
-2,BRCA1/2,Disease,417,424
-2,breast cancer patients,Disease,437,459
-2,c.5266dupC,Gene,807,817
-2,BRCA1,Gene,838,843
-2,BRCA1/2,Gene,1183,1190
-2,ATM,Gene,1192,1195
-2,KA,Gene,1265,1267
-2,Cyrillic2,Gene,1269,1278
-2,BRIP1,Gene,1280,1285
-2,NBN,Gene,1287,1290
-2,PTEN,Gene,1292,1296
-2,TP53,Gene,1298,1302
-2,PMS1,Gene,1304,1308
-2,XPA,Gene,1310,1313
-2,LGR4,Gene,1315,1319
-2,BRWD1,Gene,1321,1326
-2,PALB2,Gene,1331,1336
-2,BRCA1/2,Disease,1411,1418
-2,Komi,Gene,1469,1473
-2,BRCA,Disease,1603,1607
-2,breast cancer patients,Disease,1638,1660
-3,BRCA1,Gene,34,39
-3,BRCA2,Gene,44,49
-3,ovarian cancer,Disease,96,110
-3,cancer,Disease,151,157
-3,BRCA1,Gene,450,455
-3,BRCA2,Gene,460,465
-3,ovarian cancer,Disease,480,494
-3,Cancer,Disease,619,625
-3,high-grade serous ovarian cancer,Disease,708,740
-3,BRCA1,Gene,793,798
-3,BRCA2,Gene,803,808
-3,BRCA1,Gene,872,877
-3,BRCA2,Gene,882,887
-3,BRCA1,Gene,950,955
-3,2,Gene,960,961
-3,BRCA2,Gene,965,970
-3,BRCA2,Gene,1038,1043
-4,cancer,Disease,61,67
-4,breast,Disease,241,247
-4,ovarian cancer,Disease,252,266
-4,HBOC,Disease,268,272
-4,BRCA1,Gene,715,720
-4,BRCA1,Gene,900,905
-4,HBOC,Disease,950,954
-4,BRCA1,Gene,1042,1047
-4,BRCA2,Gene,1140,1145
-4,c.156_157insAlu,Gene,1279,1294
-4,BRCA2,Gene,1373,1378
-4,non-BRCA,Gene,1439,1447
-4,c.1010G > A,Gene,1459,1470
-4,TP53,Gene,1487,1491
-4,c.5266dupC,Gene,1849,1859
-4,c.156_157insAlu,Gene,1861,1876
-4,c.1010G > A,Gene,1881,1892
-4,BRCA1,Gene,1900,1905
-4,BRCA2,Gene,1907,1912
-4,TP53,Gene,1917,1921
-4,breast,Disease,2031,2037
-4,ovarian cancer,Disease,2042,2056
-5,BRCA1,Gene,95,100
-5,BRCA2,Gene,105,110
-5,Ovarian cancer patients,Disease,163,186
-5,high-grade serous carcinoma,Disease,314,341
-5,peritoneal cancer,Disease,370,387
-5,Cancer,Disease,424,430
-5,cancer,Disease,545,551
-5,ovarian cancer patients,Disease,701,724
-5,BRCA1,Gene,938,943
-5,BRCA2,Gene,957,962
-5,BRCA1,Gene,979,984
-5,c.5266dupC,Disease,1008,1018
-5,BRCA2,Gene,1077,1082
-5,c.9676delT,Gene,1124,1134
-5,BRCA1,Gene,1257,1262
-5,BRCA2,Gene,1267,1272
-5,BRCA,Disease,1376,1380
-5,ovarian cancer,Disease,1490,1504
+paper_id,title,text,label,model
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,c.1397dupA,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,c.81-2 A,CELL,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,c.5123 C,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,c.2808_2011delACAA,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,c81-2 A,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,c.5266dupC,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,c.2457delA,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,c.6275delTT,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,c.7558 C,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA1/2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+0,Molecular analysis of BRCA1 and BRCA2 genes in La Rioja (Spain): five new variants.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,people,ORGANISM,BioNLP13CG
+1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,people,ORGANISM,BioNLP13CG
+1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,ATP7B,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,NBN,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,SDHD,GENE_OR_GENE_PRODUCT,BioNLP13CG
+1,The Spectrum of Disease-Associated Alleles in Countries with a Predominantly Slavic Population.,ARSB,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,breast cancer patients,CANCER,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,cancer,CANCER,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,BRCA1/2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,BRCA1/2,CANCER,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,breast cancer patients,CANCER,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,"23,561",ORGANISM,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,c.5266dupC,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,BRCA1/2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,ATM,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,KA,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,Cyrillic2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,BRIP1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,NBN,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,PTEN,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,TP53,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,PMS1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,XPA,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,LGR4,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,BRWD1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,PALB2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,BRCA1/2,CANCER,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,Komi,GENE_OR_GENE_PRODUCT,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,people,ORGANISM,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,BRCA,CANCER,BioNLP13CG
+2,A Systematic Review of the Prevalence of Germline BRCA mutations in North Asia Breast Cancer Patients.,breast cancer patients,CANCER,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,ovarian cancer,CANCER,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,cancer,CANCER,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,women,ORGANISM,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,ovarian cancer,CANCER,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,Cancer,CANCER,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,high-grade serous ovarian cancer,CANCER,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,DNA,CELLULAR_COMPONENT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,c.2215 A > T,SIMPLE_CHEMICAL,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,patients,ORGANISM,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,c.921dupT,ORGANISM_SUBSTANCE,BioNLP13CG
+3,Germline mutations in BRCA1 and BRCA2 among Brazilian women with ovarian cancer treated in the Public Health System.,women,ORGANISM,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,cancer,CANCER,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,breast,CANCER,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,ovarian cancer,CANCER,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,HBOC,CANCER,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,BIREME,SIMPLE_CHEMICAL,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,patients,ORGANISM,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,HBOC,CANCER,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,120/6008,SIMPLE_CHEMICAL,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,patients,ORGANISM,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,c.156_157insAlu,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,non-BRCA,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,c.1010G > A,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,TP53,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,patients,ORGANISM,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,patients,ORGANISM,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,c.5266dupC,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,c.156_157insAlu,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,c.1010G > A,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,TP53,GENE_OR_GENE_PRODUCT,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,breast,CANCER,BioNLP13CG
+4,Systematic review of the molecular basis of hereditary breast and ovarian cancer syndrome in Brazil: the current scenario.,ovarian cancer,CANCER,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,Ovarian cancer patients,CANCER,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,patients,ORGANISM,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,high-grade serous carcinoma,CANCER,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,fallopian tube,MULTI_TISSUE_STRUCTURE,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,peritoneal cancer,CANCER,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,Cancer,CANCER,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,patients,ORGANISM,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,cancer,CANCER,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,DNA,CELLULAR_COMPONENT,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,ovarian cancer patients,CANCER,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,patients,ORGANISM,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,c.5266dupC,CANCER,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,c.9676delT,GENE_OR_GENE_PRODUCT,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,BRCA1,GENE_OR_GENE_PRODUCT,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,BRCA2,GENE_OR_GENE_PRODUCT,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,BRCA,CANCER,BioNLP13CG
+5,Prevalence and spectrum of germline BRCA1 and BRCA2 in a cohort of ovarian cancer patients from the Salento peninsula (Southern Italy): a matter of preventive health.,ovarian cancer,CANCER,BioNLP13CG
